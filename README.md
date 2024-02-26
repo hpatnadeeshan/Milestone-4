@@ -1,39 +1,150 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# [Pet Market](https://draw-with-light.herokuapp.com)
 
-Welcome,
-
-This is the Code Institute student template for Codeanywhere. If you are using Gitpod then you need [this template](https://github.com/Code-Institute-Org/gitpod-full-template) instead.  We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
-
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **August 30th, 2023**
-
-## Codeanywhere Reminders
-
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
-
-`python3 -m http.server`
-
-A button should appear to click: _Open Preview_ or _Open Browser_.
-
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
-
-`http_server`
-
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
-
-A button should appear to click: _Open Preview_ or _Open Browser_.
-
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
-
-To log into the Heroku toolbelt CLI:
-
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
-
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
 
 ---
 
-Happy coding!
+## Table of contents
+
+- [Pet Market](#)
+  - [Table of contents](#table-of-contents)
+  - [UX Design](#ux-design)
+    - [Project Goals](#project-goals)
+    - [User Stories](#user-stories)
+    - [Wireframes](#wireframes)
+    - [Database schema](#database-schema)
+    - [Style and colours](#style-and-colours)
+  - [Features](#features)
+    - [Future Implementations](#future-implementations)
+  - [Technologies Used](#technologies-used)
+  - [Testing](#testing)
+  - [Deployment](#deployment)
+    - [Create the Database](#create-the-database)
+    - [Create a new Heroku app](#create-a-new-heroku-app)
+
+    - [Setting up Stripe](#setting-up-stripe)
+  - [Credits](#credits)
+    - [Content](#content)
+
+---
+
+## UX Design
+
+  ---
+  ### Project Goals
+
+
+  ### User Stories
+
+  | User Story ID | As a       | I want to be able to...                                         | So that I can...                                                                                     |
+|---------------|------------|----------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+| Viewing & Navigation  |            |                                                                |                                                                                                     |
+| 1             | Shopper    | Easily navigate the site                                        | Find products and information that I require                                                        |
+| 2             | Shopper    | View products by category                                       | Find specific items I am interested in without having to scroll through all products                 |
+| 3             | Shopper    | View details of each product                                    | Learn more about each product                                                                       |
+| 4             | Shopper    | View the items I have in my bag                                 | Check whether I still wish to purchase the items and amend the quantity if required                  |
+| Registration & User Accounts |          |                                                                |                                                                                                     |
+| 1             | Shopper    | Register an account                                             | Have an account with the site and view my profile                                                   |
+| 2             | Shopper    | Receive an email to confirm my registration                     | Verify my account was created successfully                                                         |
+| 3             | Shopper    | Log in and out                                                  | Keep my account information secure                                                                  |
+| 4             | Shopper    | View a profile page                                             | Set a default delivery address and view previous orders                                             |
+| 5             | Shopper    | Reset my password                                               | Recover my account                                                                                  |
+| Sorting and Searching |          |                                                                |                                                                                                     |
+| 1             | Shopper    | Search for a product by name or description                     | Find a specific product I'd like to purchase                                                        |
+| 2             | Shopper    | Find products from a specific category                          | Only see products from that category                                                                |
+| Review        |            |                                                                |                                                                                                     |
+| 1             | Shopper    | Read product reviews                                            | Find out what other shoppers think about the product                                                |
+| 2             | Shopper    | Add a product review                                            | Share my experience using the product with other shoppers                                            |
+| Purchasing & Checkout |        |                                                                |                                                                                                     |
+| 1             | Shopper    | Easily select the quantity of a product when purchasing it      | Ensure I don't accidentally select the wrong product quantity                                        |
+| 2             | Shopper    | View all items in my bag                                        | Make sure I haven't accidentally added the wrong product in my bag                                    |
+| 3             | Shopper    | Adjust the quantity of individual items in my bag               | Easily make changes to my purchase before checkout                                                   |
+| 4             | Shopper    | Easily enter my payment information                             | Check out quickly and with no hassle                                                                |
+| 5             | Shopper    | Save all address info                                           | I don't have to enter them again on my next order                                                    |
+| 6             | Shopper    | View an order confirmation after checkout                       | Make sure my order was successfully placed and double-check that all details are correct               |
+| 7             | Shopper    | Save all orders on my Profile                                   | Easily access all orders anytime                                                                     |
+| 8             | Shopper    | Receive an email confirmation after checking out                 | Keep the confirmation of what I've purchased for my records                                           |
+| Contact       |            |                                                                |                                                                                                     |
+| 1             | Shopper    | Contact the admin team                                          | Ask questions about the e-shop                                                                      |
+| Admin & Store Management |      |                                                                |                                                                                                     |
+| 1             | Store Owner/Admin | Add a product                                                  | Add new items to my store                                                                            |
+| 2             | Store Owner/Admin | Edit a product                                                 | Update product details                                                                               |
+| 3             | Store Owner/Admin | Delete a product                                               | Remove items that are no longer for sale                                                             |
+| 4             | Store Owner/Admin | Delete a product review                                        | Remove product reviews that might have been entered incorrectly                                        |
+
+ 
+  [Back to top](#Table-of-contents)
+
+  ---
+
+  ### Wireframes
+ 
+
+  [Back to top](#Table-of-contents)
+
+  ---
+
+  ### Database schema
+
+
+  [Back to top](#Table-of-contents)
+
+  ---
+
+  ### Style and colours
+
+
+[Back to top](#Table-of-contents)
+
+---
+
+## Features
+
+
+  [Back to top](#Table-of-contents)
+
+  ---
+
+  ### Future Implementations
+
+
+[Back to top](#Table-of-contents)
+
+---
+
+## Technologies Used
+
+
+[Back to top](#Table-of-contents)
+
+---
+
+## Testing
+
+
+---
+
+## Deployment
+
+
+### Create the Database
+
+### Create a new Heroku app
+
+### Set up AWS hosting for static and media files
+
+### Creating AWS groups, policies and users
+
+
+### Setting up Stripe
+
+
+
+[Back to top](#Table-of-contents)
+
+---
+
+## Credits
+### Code
+
+
+### Content
