@@ -60,3 +60,20 @@ body {
         /* padding-top: 164px; */
     }
 }
+
+/* category-bar  */
+
+
+.header-container .header-category-bar {
+    background-color: #1e65ad;
+    padding: 10px 0; 
+}
+
+.header-container .header-category-bar .nav-link {
+    color: #333; 
+    font-weight: bold; 
+}
+
+.header-container .header-category-bar .nav-link:hover {
+    color: #555; 
+}
