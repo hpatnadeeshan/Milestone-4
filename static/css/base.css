@@ -7,11 +7,15 @@ body {
 
 /* Setting background image for the body */
 body {
-    background: url('/media/background_image.jpg') no-repeat center center fixed;
-    background-size: cover;
-    height: 100vh; /* Set height to full viewport height */
     color: #555;
     font-family: 'Montserrat', sans-serif; /* Montserrat as the body font */
+}
+
+.background-container {
+    background: url('/media/background_image.png') no-repeat center top;
+    background-size: cover;
+    min-height: calc(100vh - 164px); /* Adjusted height */
+    padding-top: 50px; /* Ensure content below header */
 }
 
 /* Styling for the welcome message */
@@ -52,7 +56,7 @@ body {
         z-index: 1030;
     }
 
-    .header-container {
-        padding-top: 164px;
+    .home-header-container {
+        /* padding-top: 164px; */
     }
 }
