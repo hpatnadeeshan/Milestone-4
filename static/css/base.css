@@ -77,3 +77,55 @@ body {
 .header-container .header-category-bar .nav-link:hover {
     color: #555; 
 }
+
+/* footer */
+
+.footer {
+    background-color: #f8f9fa; 
+    padding: 40px 0; 
+    color: #333; 
+}
+
+.footer h5 {
+    color: #555; 
+    font-weight: bold; 
+}
+
+.footer ul {
+    list-style: none;
+    padding: 0; 
+}
+
+.footer ul li {
+    margin-bottom: 10px; 
+}
+
+.footer ul li a {
+    color: #333;
+    text-decoration: none; 
+}
+
+.footer ul li a:hover {
+    color: #555; 
+}
+
+.footer .list-inline {
+    padding-left: 0; 
+}
+
+.footer .list-inline-item {
+    margin-right: 10px; 
+}
+
+.footer .list-inline-item:last-child {
+    margin-right: 0; 
+}
+
+.footer .list-inline-item a {
+    color: #333; 
+    font-size: 24px; 
+}
+
+.footer .list-inline-item a:hover {
+    color: #555; 
+}
