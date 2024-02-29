@@ -1,6 +1,27 @@
 {% extends "base.html" %}
 {% load static %}
 
-{% block content %}
-<h1 class="display-4 text-success">It works!</h1>
+{% block page_header %}
+    <div class="container header-container">
+        <div class="row">
+            <div class="col"></div>
+        </div>
+    </div>
 {% endblock %}
+
+{% block content %}
+    <div class="container">
+        <div class="row">
+            <div class="col-md-7 my-auto">
+                <h1 class="display-4 welcome-font">
+                    Welcome to Pet Market
+                </h1>
+                <h3>Your one-stop destination for all your pet needs</h3>
+                <div class="mt-5">
+                    <a href="#" class="btn btn-primary btn-lg rounded-pill text-uppercase py-3">Shop Now</a>
+                </div>
+            </div>
+        </div>
+    </div>
+{% endblock %}
+
