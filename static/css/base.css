@@ -147,3 +147,14 @@ body {
 .footer .list-inline-item a:hover {
     color: #555; 
 }
+
+
+@media (max-width: 499px) {
+    .cart-text {
+        display: none;
+    }
+    .paddingx-8 {
+        padding-left: 6px;
+        padding-right: 6px;
+    }
+}
