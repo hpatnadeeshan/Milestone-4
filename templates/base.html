@@ -43,14 +43,14 @@
 
 <body>
 	<div class="header-container">
-		<nav class="navbar navbar-expand-lg navbar-light bg-light">
+		<nav class="navbar navbar-expand-md navbar-light bg-light">
 			<a class="navbar-brand" href="#">
 				<h2 class="logo-font text-black my-0"><strong>Pet</strong> Market</h2>
 			</a>
-			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+			<!-- <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
 				aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 				<span class="navbar-toggler-icon"></span>
-			</button>
+			</button> -->
 
 			<div class="collapse navbar-collapse" id="navbarSupportedContent">
 				<ul class="navbar-nav ml-auto">
@@ -61,7 +61,7 @@
 									class="fas fa-search"></i></button>
 						</form>
 					</li>
-					<li class="nav-item">
+					<li class="nav-item d-none d-lg-block">
 						<a class="nav-link" href="#">About <i class="fas fa-info-circle"></i></a>
 					</li>
 					<li class="nav-item">
@@ -89,6 +89,7 @@
 				</ul>
 			</div>
 		</nav>
+		{% include 'includes/mobile-header.html' %}
 		{% include 'includes/category-nav.html' %}
 	</div>
 
