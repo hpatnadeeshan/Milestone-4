@@ -78,6 +78,24 @@ body {
     color: #555; 
 }
 
+/* Style for dropdown menu */
+.header-container .header-category-bar .dropdown-menu {
+    background-color: #f8f9fa; 
+    border: none; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+}
+
+
+.header-container .header-category-bar .dropdown-item {
+    color: #333; 
+}
+
+
+.header-container .header-category-bar .dropdown-item:hover {
+    background-color: #e9ecef; /
+}
+
+
 /* footer */
 
 .footer {
