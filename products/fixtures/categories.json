@@ -1,0 +1,72 @@
+[
+ {
+   "model": "products.category",
+   "pk": 1,
+   "fields": {
+      "name": "Farm Animal"
+   }
+},
+ {
+   "model": "products.category",
+   "pk": 2,
+   "fields": {
+      "name": "Cat"
+   }
+},
+ {
+   "model": "products.category",
+   "pk": 3,
+   "fields": {
+      "name": "Fish"
+   }
+},
+ {
+   "model": "products.category",
+   "pk": 4,
+   "fields": {
+      "name": "Dog"
+   }
+},
+ {
+   "model": "products.category",
+   "pk": 5,
+   "fields": {
+      "name": "Pet Parents"
+   }
+},
+ {
+   "model": "products.category",
+   "pk": 6,
+   "fields": {
+      "name": "Bird"
+   }
+},
+ {
+   "model": "products.category",
+   "pk": 7,
+   "fields": {
+      "name": "Reptile"
+   }
+},
+ {
+   "model": "products.category",
+   "pk": 8,
+   "fields": {
+      "name": "Horse"
+   }
+},
+ {
+   "model": "products.category",
+   "pk": 9,
+   "fields": {
+      "name": "Small Pet"
+   }
+},
+ {
+   "model": "products.category",
+   "pk": 10,
+   "fields": {
+      "name": "Pharmacy"
+   }
+}
+]

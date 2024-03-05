@@ -6,7 +6,7 @@
       "url": "https://www.chewy.com/formula-champions-game-plan-starter/dp/232829",
       "name": "Formula of Champions Game Plan Starter-Developer 18% Medicated Show Goat Feed With Decoquinate",
       "sku": 206228,
-      "gtin12": 846336000000,
+      "gtin12": 846000000000,
       "breadcrumb": "Farm Animal>Goat>Feed & Treats",
       "brand": "Formula of Champions",
       "price": 38.49,
@@ -18,7 +18,8 @@
       "ingredients": "Dehydrated Alfalfa Meal, Ground Corn, Soybean Hulls, Soybean Meal, Wheat Middlings, Corn Distillers Dried Grains with Solubles, Extruded Soybean Meal, Cane Molasses, Starch, Salt, Canola Meal, Monocalcium Phosphate, Calcium Carbonate, Active Dry Yeast, Yeast Extract, Soybean Oil, Dried Whey, Ammonium Chloride,  Potassium Sulfate, Magnesium Sulfate, Magnesium Oxide, Potassium Chloride, Vitamin A Supplement, Vitamin E Supplement, Vitamin D-3 Supplement, Biotin, Folic Acid, Vitamin B-12 Supplement, Calcium Pantothenate, Niacin, Thiamine Mononitrate, Menadione Dimethylpyrimidinol Bisulfite (Source of Vitamin K Activity), Riboflavin, Pyridoxine Hydrochloride, Zinc Amino Acid Complex, Manganese Amino Acid Complex, Copper Amino Acid Complex, Cobalt Glucoheptonate, Zinc Sulfate, Ferrous Sulfate, Manganese Sulfate, Copper Sulfate, Ethylene Diamine Dihydriodide, Cobalt Sulfate, Selenium Yeast, Sodium Selenite, DL-Methionine Hydroxy Analog Isopropyl Ester, L-Lysine, Dried Aspergillus oryzae Fermentation Product, Natural and Artificial Flavoring.",
       "calory_content": "",
       "nutrition_analysis": "Crude Protein: 18.0% min | Crude Fat: 4.00% min | Crude Fiber: 15.00% max | Calcium: 0.75% min | Calcium: 1.25% max | Phosphorus: 0.40% min | Salt: 0.50% min | Salt: 0.75% max | Selenium: 0.60 ppm min | Copper: 30 ppm min | Copper: 50 ppm max | Vitamin A: 8,000 IU/lb min",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 1
    }
 },
  {
@@ -28,7 +29,7 @@
       "url": "https://www.chewy.com/quick-tag-star-wars-mandalorians/dp/312688",
       "name": "Quick-Tag Star Wars The Mandalorian's The Child Baby Yoda Military Personalized Dog & Cat ID Tag",
       "sku": 286322,
-      "gtin12": 736511000000,
+      "gtin12": 737000000000,
       "breadcrumb": "Cat>Leashes, Collars & Harnesses>ID Tags & Accessories",
       "brand": "Quick-Tag",
       "price": 19.99,
@@ -40,7 +41,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 2
    }
 },
  {
@@ -50,7 +52,7 @@
       "url": "https://www.chewy.com/pet-md-deodorizing-sweet-pea-vanilla/dp/654094",
       "name": "Pet MD Deodorizing Sweet Pea & Vanilla Cat & Dog Body Spray, 8 oz bottle",
       "sku": 654102,
-      "gtin12": 850013000000,
+      "gtin12": 850000000000,
       "breadcrumb": "Cat>Grooming>Waterless Grooming>Deodorizing Sprays & Colognes",
       "brand": "Pet MD",
       "price": 12.99,
@@ -62,7 +64,8 @@
       "ingredients": "Water, Polysorbate 20, PEG-40 Hydrogenated Castor Oil, Panthenol, Aloe Barbadensis (Aloe Vera) Leaf Juice, Fragrance, Methylisothiazolinone.",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 2
    }
 },
  {
@@ -72,7 +75,7 @@
       "url": "https://www.chewy.com/aquatop-submersible-glass-aquarium/dp/168637",
       "name": "Aquatop Submersible Glass Aquarium Heater",
       "sku": 141736,
-      "gtin12": 810281000000,
+      "gtin12": 810000000000,
       "breadcrumb": "Fish>Heaters & Thermometers",
       "brand": "Aquatop",
       "price": 22.99,
@@ -84,7 +87,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 3
    }
 },
  {
@@ -94,7 +98,7 @@
       "url": "https://www.chewy.com/onetigris-cotton-canvas-dog-backpack/dp/159298",
       "name": "OneTigris Cotton Canvas Dog Backpack",
       "sku": 132261,
-      "gtin12": 702565000000,
+      "gtin12": 703000000000,
       "breadcrumb": "Dog>Clothing & Accessories>Accessories>Backpacks",
       "brand": "OneTigris",
       "price": 35.98,
@@ -106,7 +110,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 4
    }
 },
  {
@@ -116,7 +121,7 @@
       "url": "https://www.chewy.com/frisco-circle-design-stainless-steel/dp/338267",
       "name": "Frisco Circle Design Stainless Steel Dog & Cat Bowl",
       "sku": 311969,
-      "gtin12": 192268000000,
+      "gtin12": 192000000000,
       "breadcrumb": "Cat>Bowls & Feeders>Bowls & Dishes",
       "brand": "Frisco",
       "price": 8.29,
@@ -128,7 +133,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 2
    }
 },
  {
@@ -150,7 +156,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 4
    }
 },
  {
@@ -160,7 +167,7 @@
       "url": "https://www.chewy.com/aquascape-fountain-scale-free-water/dp/391251",
       "name": "Aquascape Fountain Scale Free Water Treatment, 8-oz bottle",
       "sku": 365036,
-      "gtin12": 742576000000,
+      "gtin12": 743000000000,
       "breadcrumb": "Fish>Shop by Fish Type>Pond Shop",
       "brand": "Aquascape",
       "price": 15.36,
@@ -172,7 +179,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 3
    }
 },
  {
@@ -182,7 +190,7 @@
       "url": "https://www.chewy.com/904-custom-personalized-my-cat-i/dp/340764",
       "name": "904 Custom Personalized My Cat & I Funny Double Sided Mug, 11-oz",
       "sku": 314471,
-      "gtin12": 637666000000,
+      "gtin12": 638000000000,
       "breadcrumb": "Pet Parents>Personalized Gifts>Coffee Mugs & Tumblers",
       "brand": "904 Custom",
       "price": 15.95,
@@ -194,7 +202,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 5
    }
 },
  {
@@ -204,7 +213,7 @@
       "url": "https://www.chewy.com/iris-open-top-litter-box-scatter/dp/50447",
       "name": "IRIS USA Open Top Cat Litter Box w/Scatter Shield",
       "sku": 65494,
-      "gtin12": 762016000000,
+      "gtin12": 762000000000,
       "breadcrumb": "Cat>Litter & Accessories>Litter Boxes>Litter Pans",
       "brand": "IRIS",
       "price": 16.32,
@@ -216,7 +225,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 2
    }
 },
  {
@@ -238,7 +248,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 4
    }
 },
  {
@@ -248,7 +259,7 @@
       "url": "https://www.chewy.com/underwater-treasures-bubble-disk/dp/342270",
       "name": "Underwater Treasures Bubble Disk Aquarium Pump",
       "sku": 315982,
-      "gtin12": 628742000000,
+      "gtin12": 629000000000,
       "breadcrumb": "Fish>Shop by Fish Type>Saltwater Fish Shop",
       "brand": "Underwater Treasures",
       "price": 3.49,
@@ -260,7 +271,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 3
    }
 },
  {
@@ -270,7 +282,7 @@
       "url": "https://www.chewy.com/wild-one-dog-poop-bags-120-count/dp/393895",
       "name": "Wild One Dog Poop Bags, 120 count",
       "sku": 367681,
-      "gtin12": 850018000000,
+      "gtin12": 850000000000,
       "breadcrumb": "Dog>Cleaning & Potty>Poop Bags & Scoopers>Poop Bags",
       "brand": "Wild One",
       "price": 12.99,
@@ -282,7 +294,8 @@
       "ingredients": "Corn starch (Biodegradableresin ECO-201)",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 4
    }
 },
  {
@@ -292,7 +305,7 @@
       "url": "https://www.chewy.com/scratch-peck-feeds-naturally-free/dp/214671",
       "name": "Scratch and Peck Feeds Naturally Free Organic Starter Chicken & Duck Feed",
       "sku": 188018,
-      "gtin12": 609225000000,
+      "gtin12": 609000000000,
       "breadcrumb": "Farm Animal>Chicken",
       "brand": "Scratch and Peck Feeds",
       "price": 76.99,
@@ -304,7 +317,8 @@
       "ingredients": "Organic Wheat, Organic Peas, Organic Barley, Organic Flaxseed Meal, Fish Meal, Organic Sesame Meal, Ground Limestone, Organic Flaxseed Oil, Monocalcium Phosphate, Dicalcium Phosphate, Organic Dehydrated Kelp Meal, Salt, dl-Methionine, Choline Chloride, Ferrous Sulfate, Organic Wheat Flour, Dried Aspergillus Oryzae Fermentation Extract, Dried Aspergillus Niger Fermentation Extract, Dried Saccharomyces Cerevisiae Fermentation Solubles Extract, Dried Trichoderma Reesei Fermentation Extract, Silicon Dioxide, Manganese Sulfate, Zinc Sulfate, d-Alpha-Tocopheryl Acetate, Active Dry Yeast, Selenium Yeast, Niacin Supplement, Copper Sulftate, d-Calcium Panthothenate, Vitamin A Acetate, Vitamin D3 Supplement, Riboflavin Supplement, Menadione Sodium Bisulfite Complex, Pryidoxine Hydrocholoride, Biotin Supplement, Thiamine Mononitrate, Calcium Iodate, Vitamin B-12 Supplement, Folic Acid and Sodium Selenite.",
       "calory_content": "",
       "nutrition_analysis": "Crude Protein: 20.50% min | Crude Fat: 4.00% min | Crude Fiber: 5.60% max | Lysine: 1.00% min | Methionine: 0.40% min | Ash: 8.50% max | Calcium: 0.90% min | Calcium: 1.35% max | Phosphorous: 0.60% min | Salt: 0.25% min | Salt: 0.75% max | Omega 3 Fatty Acids: 1.00% min",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 1
    }
 },
  {
@@ -326,7 +340,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 2
    }
 },
  {
@@ -348,7 +363,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 1
    }
 },
  {
@@ -358,7 +374,7 @@
       "url": "https://www.chewy.com/frisco-fashion-bow-striped-mdlg/dp/313901",
       "name": "Frisco Fashion Bow, Striped",
       "sku": 287537,
-      "gtin12": 192268000000,
+      "gtin12": 192000000000,
       "breadcrumb": "Dog>Leashes, Collars & Harnesses>ID Tags & Accessories",
       "brand": "Frisco",
       "price": 1.82,
@@ -370,7 +386,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 4
    }
 },
  {
@@ -380,7 +397,7 @@
       "url": "https://www.chewy.com/aquapaw-pro-dog-grooming-tool-blue/dp/270028",
       "name": "Aquapaw Pro Dog Grooming Tool, Blue",
       "sku": 243543,
-      "gtin12": 652828000000,
+      "gtin12": 653000000000,
       "breadcrumb": "Dog>Grooming>Bath & Shower Supplies>Bathtubs, Shower & Hose Accessories",
       "brand": "Aquapaw",
       "price": 44.95,
@@ -392,7 +409,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 4
    }
 },
  {
@@ -414,7 +432,8 @@
       "ingredients": "Wheat Flour, Corn Syrup, Glycerin, Vegetable Oil, Stabilized Rice Bran, Spray Dried Liver Powder (Stabilized with BHA, Propyl Gallate, Citric Acid), Dried Corn Syrup, Lecithin, Dried Cheese, Fish Oil, Natural Flavors, Salt, Sorbic Acid, Calcium Propionate (To Preserve Freshness), Brewers Dried Yeast, Sodium Acid Pyrophosphate, and Rosemary Extract.",
       "calory_content": "",
       "nutrition_analysis": "Crude Protein: 5.0% min | Crude Fat: 4.0% min | Crude Fiber: 5.0% max | Moisture: 25.0% max",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 2
    }
 },
  {
@@ -424,7 +443,7 @@
       "url": "https://www.chewy.com/frisco-personalized-classic-photos/dp/303506",
       "name": "Frisco \"Classic #2\" Photos White Personalized Coffee Mug",
       "sku": 277091,
-      "gtin12": 192269000000,
+      "gtin12": 192000000000,
       "breadcrumb": "Pet Parents>Personalized Gifts>Coffee Mugs & Tumblers",
       "brand": "Frisco",
       "price": 10.99,
@@ -436,7 +455,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 5
    }
 },
  {
@@ -458,7 +478,8 @@
       "ingredients": "Beef Broth, Beef, Liver, Wheat Gluten, Carrots, Tomatoes, Rice, Meat By-Products, Corn Starch-Modified, Soy Flour, Salt, Minerals [Potassium Chloride, Zinc Sulfate, Ferrous Sulfate, Copper Sulfate, Manganese Sulfate, Potassium Iodide, Sodium Selenite], Tricalcium Phosphate, Choline Chloride, Vitamins [Vitamin E Supplement, Niacin (Vitamin B-3), Thiamine Mononitrate (Vitamin B-1), Calcium Pantothenate (Vitamin B-5), Pyridoxine Hydrochloride (Vitamin B-6), Vitamin B-12 Supplement, Riboflavin Supplement (Vitamin B-2), Vitamin A Supplement, Folic Acid (Vitamin B-9), Vitamin D-3 Supplement, Biotin (Vitamin B-7)]. C-4082.",
       "calory_content": "838 kcal/kg, 71 kcal/can",
       "nutrition_analysis": "Crude Protein: 9.0% min | Crude Fat: 2.0% min | Crude Fiber: 2.0% max | Moisture: 82.0% max",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 4
    }
 },
  {
@@ -480,7 +501,8 @@
       "ingredients": "White Millet, Oat Groats, Wheat, Ground Corn, Safflower Seed, Sunflower Seed, Corn Gluten Meal, Canary Grass Seed, Flaked Corn, Flaked Peas, Puffed Wheat, Soybean Hulls, Wheat Middlings, Dehulled Soybean Meal, Flax Seed, Dehydrated Papaya, Calcium Carbonate, Ground Wheat, Heat-Processed Soybeans, Ground Flax Seed, Dehydrated Carrots, Dried Rose Hips, Monocalcium Phosphate, Dicalcium Phosphate, Dried Mountain Ash Berries, Vegetable Oil, Dried Chamomile Flowers, Dehydrated Coconut, L-Lysine, Dried Plain Beet Pulp, Salt, Dehydrated Alfalfa Meal, Ground Rolled Oats, Ground Oat Groats, L-Ascorbyl-2-Polyphosphate, Choline Chloride, Apple Juice Concentrate, DL-Methionine, Dehydrated Pineapple, Wheat Germ Meal, Potassium Chloride, Orange Oil Extract, Magnesium Oxide, Vitamin A Supplement, Dried Lactobacillus Acidophilus Fermentation Product, Dried Lactobacillus Casei Fermentation Product, Dried Enterococcus Faecium Fermentation Product, Dried Bifidobacterium Bifidum Fermentation Product, Dried Aspergillus Oryzae Fermentation Product, Torula Dried Yeast, Vitamin D3 Supplement, Vitamin E Supplement, Zinc Methionine Complex, Manganese Methionine Complex, Copper Lysine Complex, Cobalt Glucoheptonate, Fructooligosaccharide, Yucca Schidigera Extract, Yeast Culture, Dried Kelp, Niacin Supplement, Vitamin B12 Supplement, Riboflavin Supplement, d-Calcium Pantothenate, Menadione Sodium Bisulfite Complex, Biotin, Folic Acid, Thiamine Mononitrate, Pyridoxine Hydrochloride, Zinc Oxide, Zinc Sulfate, Manganese Sulfate, Manganous Oxide, Copper Sulfate, Ferrous Sulfate, Potassium Iodide, Sodium Selenite, Cobalt Sulfate, Color Added (Titanium Dioxide, Yellow 5, Yellow 6, Red 40, Blue 1), Aloe Vera Concentrate.",
       "calory_content": "",
       "nutrition_analysis": "Crude Protein: 14% min | Crude Fat: 7% min | Crude Fiber: 10% max | Calcium: 1% max | Moisture: 12% max | Calcium: 0.5% min | Phosphorus: 0.3% min | Vitamin A: 9,000 IU/kg | Vitamin D3: 900 IU/kg | Omega Fatty Acids: 0.4% min | Vitamin E: 65 mg/kg",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 6
    }
 },
  {
@@ -502,7 +524,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 7
    }
 },
  {
@@ -524,7 +547,8 @@
       "ingredients": "American Beefhide, Beef, Glycerin, Water.",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 4
    }
 },
  {
@@ -534,7 +558,7 @@
       "url": "https://www.chewy.com/bg-martin-faux-leather-poly-fill/dp/278753",
       "name": "B&G Martin Faux Leather Poly Fill Cushion Insert Dog & Cat Bed",
       "sku": 252287,
-      "gtin12": 810060000000,
+      "gtin12": 810000000000,
       "breadcrumb": "Dog>Beds>Pillow Beds",
       "brand": "B&G Martin",
       "price": 199,
@@ -546,7 +570,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 4
    }
 },
  {
@@ -568,7 +593,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 2
    }
 },
  {
@@ -590,7 +616,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 2
    }
 },
  {
@@ -600,7 +627,7 @@
       "url": "https://www.chewy.com/ice-horse-horse-knee-wrap-2-count/dp/352614",
       "name": "Ice Horse Horse Knee Wrap",
       "sku": 326345,
-      "gtin12": 642949000000,
+      "gtin12": 643000000000,
       "breadcrumb": "Horse>Health & Wellness>First Aid>Cold Therapy",
       "brand": "Ice Horse",
       "price": 189.95,
@@ -612,7 +639,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 8
    }
 },
  {
@@ -622,7 +650,7 @@
       "url": "https://www.chewy.com/simplicity-200-micron-plastic-ring/dp/264024",
       "name": "Simplicity 200 Micron Plastic Ring Aquarium Filter Sock",
       "sku": 237531,
-      "gtin12": 638347000000,
+      "gtin12": 638000000000,
       "breadcrumb": "Fish>Filters & Media>Filter Parts & Accessories",
       "brand": "Simplicity",
       "price": 8.5,
@@ -634,7 +662,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 3
    }
 },
  {
@@ -656,7 +685,8 @@
       "ingredients": "Water, Liver, Poultry By-Products, Meat By-Products, Beef, Fish, Soy Flour, Rice, Artificial And Natural Flavors, Guar Gum, Tricalcium Phosphate, Minerals [Potassium Chloride, Magnesium Sulfate, Mono And Dicalcium Phosphate, Zinc Sulfate, Ferrous Sulfate, Copper Sulfate, Manganese Sulfate, Potassium Iodide], Added Color, Salt, Carrageenan, Taurine, Choline Chloride, Vitamins [Thiamine Mononitrate (Vitamin B-1), Vitamin E Supplement, Niacin (Vitamin B-3), Calcium Pantothenate (Vitamin B-5), Vitamin A Supplement, Menadione Sodium Bisulfite Complex (Vitamin K), Pyridoxine Hydrochloride (Vitamin B-6), Riboflavin Supplement (Vitamin B-2), Vitamin B-12 Supplement, Biotin (Vitamin B-7), Folic Acid (Vitamin B-9), Vitamin D-3 Supplement], Red 3, Calcium Chloride. A627919.",
       "calory_content": "1,104 kcal/kg, 172 kcal/can",
       "nutrition_analysis": "Crude Protein: 10.0% min | Crude Fat: 5.0% min | Crude Fiber: 1.0% max | Moisture: 78.0% max | Ash: 3.5% max | Taurine: 0.05% min",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 2
    }
 },
  {
@@ -678,7 +708,8 @@
       "ingredients": "Meat By-Products, Chicken By-Products, Water, Salmon, Rice, Tricalcium Phosphate, Guar Gum, Minerals [Potassium Chloride, Zinc Sulfate, Ferrous Sulfate, Manganese Sulfate, Copper Sulfate, Potassium Iodide], Salt, Potassium Chloride, Carrageenan, Taurine, Vitamins [Thiamine Mononitrate, Vitamin E Supplement, Niacin, Calcium Pantothenate, Vitamin A Supplement, Menadione Sodium Bisulfite Complex (Vitamin K), Pyridoxine Hydrochloride, Riboflavin Supplement, Vitamin B-12 Supplement, Biotin, Folic Acid, Vitamin D-3 Supplement], Vitamin E Supplement, Sodium Nitrite (To Promote Color Retention). C474320.",
       "calory_content": "950 kcal/kg, 27 kcal/oz",
       "nutrition_analysis": "Crude Protein: 10.0% min | Crude Fat: 6.0% min | Crude Fiber: 0.5% max | Moisture: 78.0% max | Ash: 2.5% max | Potassium: 0.2% min | Magnesium: 0.024% max | Taurine: 0.05% min",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 2
    }
 },
  {
@@ -700,7 +731,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 4
    }
 },
  {
@@ -722,7 +754,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 4
    }
 },
  {
@@ -744,7 +777,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 8
    }
 },
  {
@@ -754,7 +788,7 @@
       "url": "https://www.chewy.com/mighty-tequila-worm-squeaky-stuffing/dp/181892",
       "name": "Mighty Tequila Worm Squeaky Stuffing-Free Plush Dog Toy",
       "sku": 155129,
-      "gtin12": 180182000000,
+      "gtin12": 180000000000,
       "breadcrumb": "Dog>Toys>Plush Toys>Unstuffed Toys",
       "brand": "Mighty",
       "price": 23.99,
@@ -766,7 +800,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 4
    }
 },
  {
@@ -776,7 +811,7 @@
       "url": "https://www.chewy.com/ware-living-room-series-ferret-cage/dp/284684",
       "name": "Ware Living Room Series Ferret Cage",
       "sku": 258230,
-      "gtin12": 791611000000,
+      "gtin12": 792000000000,
       "breadcrumb": "Small Pet>Shop by Small Pet>Ferret>Cages & Habitats>Cages",
       "brand": "Ware",
       "price": 319.99,
@@ -788,7 +823,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 9
    }
 },
  {
@@ -798,7 +834,7 @@
       "url": "https://www.chewy.com/shapleys-magic-sheen-horse-hair/dp/133821",
       "name": "Shapley's Magic Sheen Horse Hair Polish",
       "sku": 106386,
-      "gtin12": 674422000000,
+      "gtin12": 674000000000,
       "breadcrumb": "Horse>Grooming>Shampoos & Conditioners",
       "brand": "Shapley's",
       "price": 15.95,
@@ -810,7 +846,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 8
    }
 },
  {
@@ -820,7 +857,7 @@
       "url": "https://www.chewy.com/old-world-christmas-hamster-glass/dp/173876",
       "name": "Old World Christmas Hamster Glass Tree Ornament, 2.75-in",
       "sku": 147035,
-      "gtin12": 729343000000,
+      "gtin12": 729000000000,
       "breadcrumb": "Small Pet>Gifts & Books",
       "brand": "Old World Christmas",
       "price": 9.87,
@@ -832,7 +869,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 9
    }
 },
  {
@@ -854,7 +892,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 4
    }
 },
  {
@@ -864,7 +903,7 @@
       "url": "https://www.chewy.com/kitty-cot-original-worlds-best-cat/dp/135955",
       "name": "Kitty Cot Original World's Best Cat Perch Giant Replacement Suction Cups",
       "sku": 108561,
-      "gtin12": 758524742677,
+      "gtin12": 758525000000,
       "breadcrumb": "Cat>Trees, Condos & Scratchers>Window Perches",
       "brand": "Kitty Cot",
       "price": 18.88,
@@ -876,7 +915,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 2
    }
 },
  {
@@ -886,7 +926,7 @@
       "url": "https://www.chewy.com/horze-equestrian-supreme-silent-horse/dp/330844",
       "name": "Horze Equestrian Supreme Silent Horse Ear Net",
       "sku": 304522,
-      "gtin12": 6438080000000,
+      "gtin12": 6440000000000,
       "breadcrumb": "Horse>Blankets>Fly Sheets & Masks>Ear Nets",
       "brand": "Horze Equestrian",
       "price": 25.99,
@@ -898,7 +938,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 8
    }
 },
  {
@@ -920,7 +961,8 @@
       "ingredients": "Lamb Meal, Brown Rice, Brewers Rice, Whole Grain Sorghum, Whole Grain Wheat, Corn Gluten Meal, Chicken Fat, Cracked Pearled Barley, Chicken Liver Flavor, Dried Beet Pulp, Soybean Oil, Flaxseed, Lactic Acid, Pork Liver Flavor, Potassium Chloride, Iodized Salt, L-Lysine, Choline Chloride, vitamins (Vitamin E Supplement, L-Ascorbyl-2-Polyphosphate (source of Vitamin C), Niacin Supplement, Thiamine Mononitrate, Vitamin A Supplement, Calcium Pantothenate, Riboflavin Supplement, Biotin, Vitamin B12 Supplement, Pyridoxine Hydrochloride, Folic Acid, Vitamin D3 Supplement), Calcium Carbonate, Taurine, minerals (Ferrous Sulfate, Zinc Oxide, Copper Sulfate, Manganous Oxide, Calcium Iodate, Sodium Selenite), Mixed Tocopherols for freshness, Natural Flavors, Beta-Carotene.",
       "calory_content": "370 kcal/cup",
       "nutrition_analysis": "Crude Protein: 19.5% min | Crude Fat: 12.5% min | Crude Fiber: 3.0% max | Vitamin E: 400 IU/kg min | Ascorbic Acid (Vitamin C): 85 mg/kg min | Omega-6 Fatty Acids: 2.0% min",
-      "feeding_instructions": "5 lb: 1/2 | 10 lb: 1 | 20 lb: 1 1/2 | 30 lb: 2 1/4 | 40 lb: 2 2/3 | 50 lb: 3 1/4 | 60 lb: 3 2/3 | 80 lb: 4 1/2 | 100 lb: 5 1/4 | 120 lb: 6"
+      "feeding_instructions": "5 lb: 1/2 | 10 lb: 1 | 20 lb: 1 1/2 | 30 lb: 2 1/4 | 40 lb: 2 2/3 | 50 lb: 3 1/4 | 60 lb: 3 2/3 | 80 lb: 4 1/2 | 100 lb: 5 1/4 | 120 lb: 6",
+      "category": 4
    }
 },
  {
@@ -942,7 +984,8 @@
       "ingredients": "Pork Meal (source of Glucosamine), Barley, Brown Rice, Oat Groats, Rice, Peas, Chicken Meal (source of Chondroitin Sulfate), Dried Plain Beet Pulp, Chicken Fat, Flaxseed, Potassium Chloride, Dried Chicory Root, Taurine, Vitamin E Supplement, Mixed Tocopherols added to preserve freshness, Niacin, Zinc Proteinate, Ferrous Sulfate, Zinc Sulfate, Vitamin A Supplement, Iron Proteinate, Ascorbic Acid (Vitamin C), Thiamine Mononitrate, d-Calcium Pantothenate, Sodium Selenite, Pyridoxine Hydrochloride, Copper Sulfate, Manganese Sulfate, Riboflavin, Manganese Proteinate, Copper Proteinate, Biotin, Vitamin D3 Supplement, Vitamin B12 Supplement, Folic Acid, Calcium Iodate, Dried Enterococcus faecium Fermentation Product, Dried Bacillus licheniformis Fermentation Product, Dried Bacillus subtilis Fermentation Product, Rosemary Extract, Green Tea Extract, Spearmint Extract.",
       "calory_content": "3,352 kcal/kg or 355 kcal/cup ME (metabolizable energy).",
       "nutrition_analysis": "Crude Protein: 24.0% min | Crude Fat: 6.0% min | Crude Fat: 9.0% max | Crude Fiber: 4.0% max | Moisture: 10.0% max | Calcium: 1.5% min | Phosphorus: 1.0% min | Vitamin E: 120 IU/kg min | Omega-6 Fatty Acids: 1.4% min | Omega-3 Fatty Acids: 0.35% min | LacticAcid Microorganisms: 70,000,000 CFU/lb | Glucosamine: 700 mg/kg min",
-      "feeding_instructions": "5 – 10 lbs: 1/2 – 1 | 10 – 20 lbs: 1 – 1 1/2 | 30 – 40 lbs: 2 – 2 1/2 | 50 – 60 lbs: 3 – 3 1/3 | 70 – 80 lbs: 3 3/4 – 4 1/3 | 80 – 100 lbs: 4 1/3 – 5"
+      "feeding_instructions": "5 – 10 lbs: 1/2 – 1 | 10 – 20 lbs: 1 – 1 1/2 | 30 – 40 lbs: 2 – 2 1/2 | 50 – 60 lbs: 3 – 3 1/3 | 70 – 80 lbs: 3 3/4 – 4 1/3 | 80 – 100 lbs: 4 1/3 – 5",
+      "category": 4
    }
 },
  {
@@ -964,7 +1007,8 @@
       "ingredients": "Chicken, Brown Rice, Whole Grain Oats, Brewers Rice, Chicken Meal, Chicken Fat, Yellow Peas, Cracked Pearled Barley, Dried Beet Pulp, Chicken Liver Flavor, Flaxseed, Lactic Acid, Potassium Chloride, Iodized Salt, Choline Chloride, Calcium Carbonate, DL-Methionine, Green Peas, Apples, vitamins (Vitamin E Supplement, L-Ascorbyl-2-Polyphosphate (source of Vitamin C), Niacin Supplement, Thiamine Mononitrate, Vitamin A Supplement, Calcium Pantothenate, Vitamin B12 Supplement, Pyridoxine Hydrochloride, Riboflavin Supplement, Biotin, Folic Acid, Vitamin D3 Supplement), Cranberries, Carrots, minerals (Ferrous Sulfate, Zinc Oxide, Copper Sulfate, Manganous Oxide, Calcium Iodate, Sodium Selenite), Taurine, Broccoli, Mixed Tocopherols for freshness, Natural Flavors, Beta-Carotene.",
       "calory_content": "381 Kcal/Cup",
       "nutrition_analysis": "Crude Protein: 18.7% min | Crude Fat: 13.7% min | Crude Fiber: 2.4% max | Moisture: 10.0% max | Vitamin E: 500 IU/kg min | Vitamin C: 85 mg/kg min | Total Omega-6 Fatty Acids: 1.50% min",
-      "feeding_instructions": "5: 1/2 | 10: 3/4 | 20: 1 1/3 | 30: 1 3/4 | 40: 2 1/4 | 50: 2 2/3 | 60: 3 | 80: 3 3/4 | 100: 4 1/2 | 120: 5 1/4"
+      "feeding_instructions": "5: 1/2 | 10: 3/4 | 20: 1 1/3 | 30: 1 3/4 | 40: 2 1/4 | 50: 2 2/3 | 60: 3 | 80: 3 3/4 | 100: 4 1/2 | 120: 5 1/4",
+      "category": 4
    }
 },
  {
@@ -974,7 +1018,7 @@
       "url": "https://www.chewy.com/icelandic-cod-skin-strips-dog-treats/dp/190682",
       "name": "Icelandic+ Cod Skin Strips Dog Treats, 16-oz bag",
       "sku": 163975,
-      "gtin12": 854854000000,
+      "gtin12": 855000000000,
       "breadcrumb": "Dog>Treats>Bones, Bully Sticks & Natural Chews>Natural Chews",
       "brand": "Icelandic+",
       "price": 34.99,
@@ -986,7 +1030,8 @@
       "ingredients": "Icelandic Cod Skins",
       "calory_content": "2,900 Kcal/kg",
       "nutrition_analysis": "Crude Protein: 82.0% min | Crude Fat: 2.0% min | Moisture: 10.0% max",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 4
    }
 },
  {
@@ -1008,7 +1053,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 4
    }
 },
  {
@@ -1018,7 +1064,7 @@
       "url": "https://www.chewy.com/exotic-nutrition-press-n-slide-small/dp/246427",
       "name": "Exotic Nutrition Press N' Slide Small Animal Feeding Station",
       "sku": 219879,
-      "gtin12": 810013000000,
+      "gtin12": 810000000000,
       "breadcrumb": "Small Pet>Shop by Small Pet>Sugar Glider>Cages & Habitats>Water Bottles & Feeders",
       "brand": "Exotic Nutrition",
       "price": 14.49,
@@ -1030,7 +1076,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 9
    }
 },
  {
@@ -1040,7 +1087,7 @@
       "url": "https://www.chewy.com/smart-cookie-barkery-endurance-beef/dp/224900",
       "name": "Smart Cookie Barkery Endurance Beef Grain-Free Dog Treats, 8-oz bag",
       "sku": 198272,
-      "gtin12": 869795000000,
+      "gtin12": 870000000000,
       "breadcrumb": "Dog>Treats>Soft & Chewy Treats",
       "brand": "Smart Cookie Barkery",
       "price": 9.99,
@@ -1052,7 +1099,8 @@
       "ingredients": "Beef, Quinoa, Carrots, Ground Flax Seed, Lentils, Peanut Butter, Molasses, Cranberries, Sea Salt, Mixed Tocopherols (a source of Vitamin E), Rosemary Extract, Green Tea Extract",
       "calory_content": "3475 kcal/kg Calculated (ME) 18 kcal/piece",
       "nutrition_analysis": "Crude Protein: 17%  min | Crude Fat: 17% min | Crude Fiber: 9% max | Moisture: 12% max",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 4
    }
 },
  {
@@ -1062,7 +1110,7 @@
       "url": "https://www.chewy.com/blue-buffalo-wilderness-adult-chicken/dp/733462",
       "name": "Blue Buffalo Wilderness Chicken Adult Dry Dog Food",
       "sku": 733462,
-      "gtin12": 840243000000,
+      "gtin12": 840000000000,
       "breadcrumb": "Dog>Food>Dry Food>High-Protein",
       "brand": "Blue Buffalo",
       "price": 64.98,
@@ -1074,7 +1122,8 @@
       "ingredients": "Deboned Chicken, Chicken Meal, Dried Chicken, Oatmeal, Barley, Brown Rice, Dried Tomato Pomace, Salmon Meal (source of Omega 3 Fatty Acids), Chicken Fat (preserved with Mixed Tocopherols), Natural Flavor, Flaxseed (source of Omega 6 Fatty Acids), Potassium Chloride, Direct Dehydrated Alfalfa Pellets, Salt, L-Threonine, Alfalfa Nutrient Concentrate, Calcium Carbonate, Dried Chicory Root, DL-Methionine, Dicalcium Phosphate, Choline Chloride, preserved with Mixed Tocopherols, Sweet Potatoes, Carrots, Zinc Amino Acid Chelate, Zinc Sulfate, Vegetable Juice for color, Ferrous Sulfate, Vitamin E Supplement, Iron Amino Acid Chelate, Blueberries, Cranberries, Barley Grass, Parsley, Turmeric, Dried Kelp, Yucca Schidigera Extract, Niacin (Vitamin B3), Calcium Pantothenate (Vitamin B5), Copper Sulfate, Biotin (Vitamin B7), L-Ascorbyl-2-Polyphosphate (source of Vitamin C), L-Lysine, L-Carnitine, Vitamin A Supplement, Copper Amino Acid Chelate, Manganese Sulfate, Manganese Amino Acid Chelate, Taurine, Glucosamine Hydrochloride, Thiamine Mononitrate (Vitamin B1), Riboflavin (Vitamin B2), Vitamin D3 Supplement, Vitamin B12 Supplement, Pyridoxine Hydrochloride (Vitamin B6), Calcium Iodate, Dried Yeast, Dried Enterococcus faecium fermentation product, Dried Lactobacillus acidophilus fermentation product, Dried Aspergillus niger fermentation extract, Dried Trichoderma longibrachiatum fermentation extract, Dried Bacillus subtilis fermentation extract, Folic Acid (Vitamin B9), Sodium Selenite, Oil of Rosemary",
       "calory_content": "3,672 Kcals/kg, 419 Kcals/cup",
       "nutrition_analysis": "Crude Protein: 34.0% min | Crude Fat: 15.0% min | Crude Fiber: 6.0% max | Moisture: 10.0% max | Calcium: 1.4% min | Phosphorus: 0.9% min | Omega 3 Fatty Acids*: 0.5% min | Omega 6 Fatty Acids*: 3.0% min | Glucosamine*: 400 mg/kg min",
-      "feeding_instructions": "Up to 15 lbs: ¼ – 1 cup* | 16 to 25 lbs: 1 – 1 ½ cups* | 26 to 40 lbs: 1 ½ – 2 ¼ cups* | 41 to 60 lbs: 2 ¼ – 3¼ cups* | 61 to 80 lbs: 3¼ – 4 cups* | 81 to 100 lbs: 4 – 4 ½ cups* | Over 100 lbs: Feed 4 ½ cups + ½ cup for each additional 20 lbs"
+      "feeding_instructions": "Up to 15 lbs: ¼ – 1 cup* | 16 to 25 lbs: 1 – 1 ½ cups* | 26 to 40 lbs: 1 ½ – 2 ¼ cups* | 41 to 60 lbs: 2 ¼ – 3¼ cups* | 61 to 80 lbs: 3¼ – 4 cups* | 81 to 100 lbs: 4 – 4 ½ cups* | Over 100 lbs: Feed 4 ½ cups + ½ cup for each additional 20 lbs",
+      "category": 4
    }
 },
  {
@@ -1084,7 +1133,7 @@
       "url": "https://www.chewy.com/frisco-open-top-cat-litter-box-rim/dp/168291",
       "name": "Frisco Open Top Cat Litter Box With Rim, Large 19-in",
       "sku": 141378,
-      "gtin12": 192268000000,
+      "gtin12": 192000000000,
       "breadcrumb": "Cat>Litter & Accessories>Litter Boxes>Litter Pans",
       "brand": "Frisco",
       "price": 11.07,
@@ -1096,7 +1145,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 2
    }
 },
  {
@@ -1118,7 +1168,8 @@
       "ingredients": "Diphenhydramine.",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 10
    }
 },
  {
@@ -1140,7 +1191,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 4
    }
 },
  {
@@ -1150,7 +1202,7 @@
       "url": "https://www.chewy.com/vet-worthy-wild-alaskan-salmon-oil/dp/392601",
       "name": "Vet Worthy Wild Alaskan Salmon Oil Blend Cat Supplement, 8-oz bottle",
       "sku": 366386,
-      "gtin12": 842704000000,
+      "gtin12": 843000000000,
       "breadcrumb": "Cat>Vitamins & Supplements",
       "brand": "Vet Worthy",
       "price": 14.99,
@@ -1162,7 +1214,8 @@
       "ingredients": "Omega-3 Fatty Acids (Min), DHA (Docosahexaenoic Acid) (min), EPA (Eicosapentaenoic Acid) (min), Mixed Tocopherols, Wild Alaskan Salmon Oil.",
       "calory_content": "",
       "nutrition_analysis": "Crude Fat (min): 99.5% | Moisture (max): 0.5% | EPA (min): 8.0% | DHA (min): 7.0% | Omega 3 Fatty Acids* (min): 2,835 mg | Omega 6 Fatty Acids* (min): 243 mg",
-      "feeding_instructions": "up to 10 lbs: 1/2 Daily | 11 - 20 lbs: 1 1/2 Daily | over 20 lbs: 2 Daily"
+      "feeding_instructions": "up to 10 lbs: 1/2 Daily | 11 - 20 lbs: 1 1/2 Daily | over 20 lbs: 2 Daily",
+      "category": 2
    }
 },
  {
@@ -1172,7 +1225,7 @@
       "url": "https://www.chewy.com/ultracruz-cooling-tendon-ligament/dp/237813",
       "name": "UltraCruz Cooling Tendon & Ligament Pain Relief Horse Gel",
       "sku": 211224,
-      "gtin12": 810500000000,
+      "gtin12": 811000000000,
       "breadcrumb": "Horse>Health & Wellness>First Aid>Liniments & Poultices",
       "brand": "UltraCruz",
       "price": 10.8,
@@ -1184,7 +1237,8 @@
       "ingredients": "Water (Purified), Isopropyl Alcohol, Hydroxypropyl Methylcellulose, Camphor, Menthol.",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 8
    }
 },
  {
@@ -1194,7 +1248,7 @@
       "url": "https://www.chewy.com/frisco-celebration-dog-cat-pjs-small/dp/341393",
       "name": "Frisco Celebration Dog & Cat PJs",
       "sku": 315101,
-      "gtin12": 192268000000,
+      "gtin12": 192000000000,
       "breadcrumb": "Cat>Clothing & Accessories",
       "brand": "Frisco",
       "price": 11.71,
@@ -1206,7 +1260,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 2
    }
 },
  {
@@ -1228,7 +1283,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 8
    }
 },
  {
@@ -1238,7 +1294,7 @@
       "url": "https://www.chewy.com/nixall-vetresponse-eye-ear-dog-cat/dp/228467",
       "name": "Nixall VetResponse Eye & Ear Dog, Cat & Horse Wash",
       "sku": 201844,
-      "gtin12": 850004000000,
+      "gtin12": 850000000000,
       "breadcrumb": "Cat>Healthcare>Ear Care",
       "brand": "Nixall",
       "price": 17.95,
@@ -1250,7 +1306,8 @@
       "ingredients": "Electrolyzed Oxygenated water (H20) 99.94%, Sodium Chloride (NaCl) 0.048%, Hypochlorous Acid (HOCl) 0.01%, Sodium Hypochlorite (NaOCl) 0.002%",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 2
    }
 },
  {
@@ -1260,7 +1317,7 @@
       "url": "https://www.chewy.com/true-acre-foods-all-natural-puppy/dp/333089",
       "name": "True Acre Foods All-Natural Puppy Dental Teething Ring Original Flavor Dental Dog Treat",
       "sku": 306771,
-      "gtin12": 192268000000,
+      "gtin12": 192000000000,
       "breadcrumb": "Dog>Treats>Dental Treats",
       "brand": "True Acre Foods",
       "price": 9.03,
@@ -1272,7 +1329,8 @@
       "ingredients": "Potato Starch, Rice Flour, Vegetable Glycerin, Pork Gelatin, Chicken, Natural Flavor, Fish Oil (Preserved with Mixed Tocopherols), Calcium Carbonate, Citric Acid (Preservative), Buffered Vinegar, Rosemary Extract.",
       "calory_content": "3,150 kcal/kg or 77 kcal/treat",
       "nutrition_analysis": "Crude Protein: 14.0% min | Crude Fat: 1.0% min | Crude Fiber: 2.0% max | Moisture: 16.0% max | Docosahexaenoic Acid (DHA): 0.05% min",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 4
    }
 },
  {
@@ -1282,7 +1340,7 @@
       "url": "https://www.chewy.com/marvel-s-venom-round-plush-squeaky/dp/247594",
       "name": "Marvel 's Venom Round Plush Squeaky Dog Toy",
       "sku": 221055,
-      "gtin12": 192269000000,
+      "gtin12": 192000000000,
       "breadcrumb": "Dog>Toys>Plush Toys>Stuffed Toys",
       "brand": "Marvel",
       "price": 4.1,
@@ -1294,7 +1352,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 4
    }
 },
  {
@@ -1304,7 +1363,7 @@
       "url": "https://www.chewy.com/marvel-s-halloween-hulk-plush-rope/dp/294279",
       "name": "Marvel 's Halloween Hulk Plush with Rope Squeaky Dog Toy",
       "sku": 267852,
-      "gtin12": 192268000000,
+      "gtin12": 192000000000,
       "breadcrumb": "Dog>Toys>Rope & Tug Toys",
       "brand": "Marvel",
       "price": 10.78,
@@ -1316,7 +1375,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 4
    }
 },
  {
@@ -1326,7 +1386,7 @@
       "url": "https://www.chewy.com/littlearth-ncaa-stretch-dog-cat/dp/310369",
       "name": "Littlearth NCAA Stretch Dog & Cat Jersey, Alabama Crimson Tide",
       "sku": 283994,
-      "gtin12": 686700000000,
+      "gtin12": 687000000000,
       "breadcrumb": "Cat>Clothing & Accessories>Shirts & Dresses",
       "brand": "Littlearth",
       "price": 24.99,
@@ -1338,7 +1398,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 2
    }
 },
  {
@@ -1348,7 +1409,7 @@
       "url": "https://www.chewy.com/rooster-booster-poultry-wound-all/dp/260025",
       "name": "Rooster Booster Poultry Wound All-Natural Spray, 16-oz bottle",
       "sku": 233523,
-      "gtin12": 646951000000,
+      "gtin12": 647000000000,
       "breadcrumb": "Farm Animal>Chicken",
       "brand": "Rooster Booster",
       "price": 22.49,
@@ -1360,7 +1421,8 @@
       "ingredients": "Tea Tree Oil, Comfrey, Myrrh, Goldenseal, Aloe Vera.",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 1
    }
 },
  {
@@ -1370,7 +1432,7 @@
       "url": "https://www.chewy.com/blue-buffalo-wilderness-trail-treats/dp/32106",
       "name": "Blue Buffalo Wilderness Trail Treats Grain-Free Salmon Biscuits Dog Treats",
       "sku": 46926,
-      "gtin12": 859610000000,
+      "gtin12": 860000000000,
       "breadcrumb": "Dog>Treats>Biscuits, Cookies & Crunchy Treats",
       "brand": "Blue Buffalo",
       "price": 6.98,
@@ -1382,7 +1444,8 @@
       "ingredients": "Salmon, Chicken Meal, Potato, Chicken Fat, Flaxseed (source of Omega 3 & 6 Fatty Acids), Salt, Calcium Carbonate, preserved with Mixed Tocopherols & Oil of Rosemary.",
       "calory_content": "3,750 kcal/kg, 41 kcal/biscuit",
       "nutrition_analysis": "Crude Protein: 30.0% min | Crude Fat: 15.0% min | Crude Fiber: 3.5% max | Moisture: 11.0% max | Omega-3 Fatty Acids: 0.6% min | Omega-6 Fatty Acids: 0.9% min",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 4
    }
 },
  {
@@ -1392,7 +1455,7 @@
       "url": "https://www.chewy.com/herodog-outer-armor-boomerang-dog-toy/dp/342108",
       "name": "HeroDog Outer Armor Boomerang Dog Toy",
       "sku": 315820,
-      "gtin12": 711086000000,
+      "gtin12": 711000000000,
       "breadcrumb": "Dog>Toys>Fetch Toys>Discs",
       "brand": "HeroDog",
       "price": 16.75,
@@ -1404,7 +1467,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 4
    }
 },
  {
@@ -1414,7 +1478,7 @@
       "url": "https://www.chewy.com/gnc-pets-advanced-immune-support/dp/277811",
       "name": "GNC Pets Advanced Immune Support Chicken Flavor Soft Chews Cat Supplement, 60 count",
       "sku": 251342,
-      "gtin12": 742798000000,
+      "gtin12": 743000000000,
       "breadcrumb": "Cat>Vitamins & Supplements>Immune System & Allergy>Soft Chews, Wafers & Chewable Tablets",
       "brand": "GNC Pets",
       "price": 4.79,
@@ -1426,7 +1490,8 @@
       "ingredients": "Active Ingredients: L-Lysine (Monohydrochloride), Calcium Ascorbate (Vitamin C).",
       "calory_content": "",
       "nutrition_analysis": "L-Lysine (Monohydrochloride): 400 mg | Calcium Ascorbate (Vitamin C)): 100 mg",
-      "feeding_instructions": "Up to 10 lbs: 1 | 11+ lbs: 2"
+      "feeding_instructions": "Up to 10 lbs: 1 | 11+ lbs: 2",
+      "category": 2
    }
 },
  {
@@ -1436,7 +1501,7 @@
       "url": "https://www.chewy.com/emerald-pet-chicky-twizzies-grain/dp/178277",
       "name": "Emerald Pet Chicky Twizzies Grain-Free Dog Treats",
       "sku": 151489,
-      "gtin12": 856916000000,
+      "gtin12": 857000000000,
       "breadcrumb": "Dog>Treats>Bones, Bully Sticks & Natural Chews>Hard Chews",
       "brand": "Emerald Pet",
       "price": 18.92,
@@ -1448,7 +1513,8 @@
       "ingredients": "Chicken Meal, Chicken, Gelatin, Natural Smoke Flavor, Lactic Acid, Mixed Tocopherols (Preservative), Rosemary Extract.",
       "calory_content": "3,420 kcal/kg, 23 kcal/per inch of treat",
       "nutrition_analysis": "Crude Protein: 50.0% min | Crude Fat: 8.0% min | Crude Fiber: 2.0% max | Moisture: 12.0% max",
-      "feeding_instructions": "15 - 30 lbs: 1 | 31 - 50 lbs: 1 - 2 | 51 + lbs: 2 - 3"
+      "feeding_instructions": "15 - 30 lbs: 1 | 31 - 50 lbs: 1 - 2 | 51 + lbs: 2 - 3",
+      "category": 4
    }
 },
  {
@@ -1458,7 +1524,7 @@
       "url": "https://www.chewy.com/bark-bars-honey-oats-dog-treats-12-oz/dp/238803",
       "name": "Bark Bars Honey & Oats Dog Treats, 12-oz box",
       "sku": 212217,
-      "gtin12": 725999000000,
+      "gtin12": 726000000000,
       "breadcrumb": "Dog>Treats>Biscuits, Cookies & Crunchy Treats",
       "brand": "Bark Bars",
       "price": 6.49,
@@ -1470,7 +1536,8 @@
       "ingredients": "Wheat Flour, Water, Vegetable Oil, Rolled Oats, Honey, Cinnamon, Rye Flour, Bran Flour, Sunflower Oil, Mixed Tocopherols, Roesemary Extract",
       "calory_content": "",
       "nutrition_analysis": "Crude Protein: 14.0% min | Crude Fat: 2.0% min | Crude Fiber: 5.0% max | Moisture: 6.0% max | Ash: 4% max",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 4
    }
 },
  {
@@ -1492,7 +1559,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 4
    }
 },
  {
@@ -1514,7 +1582,8 @@
       "ingredients": "Beef Heart, Beef Liver, Coconut Oil, Avocado Oil, Rice Bran Oil, Natural Flavor, Minerals (Potassium Chloride, Zinc Proteinate, Zinc Sulfate, Ferrous Sulfate, Iron Proteinate, Copper Sulfate, Copper Proteinate, Manganese Sulfate, Manganese Proteinate, Sodium Selenite, Calcium Iodate), Taurine, Vitamins (Ascorbic Acid [source of Vitamin C], Vitamin E Supplement, Niacin Supplement, Calcium Pantothenate, Vitamin A Supplement, Thiamine Mononitrate, Pyridoxine Hydrochloride, Riboflavin Supplement, Vitamin D3 Supplement, Biotin, Vitamin B12 Supplement, Folic Acid).",
       "calory_content": "450 calories per 100 grams",
       "nutrition_analysis": "Crude Protein: 44%  min | Crude Fat: 28 % min | Crude Fiber: 0.5% max | Moisture: 4% max",
-      "feeding_instructions": "Dog 3 lbs: 1/4 | Dog 5 lbs: 1/4-3/4 | Dog 10 lbs: 1/3-1/2 | Dog 20 lbs: 1/2-3/4 | Dog 40  lbs: 3/4-1 | Dog 60 lbs: 1 | Dog 80 lbs: 1 1/4-1 1/2 | Cat 5 lbs: 1/4-1/3 | Cat 10 lbs: 1/4-3/3 | Cat 15 lbs: 1/2 | Cat 20 lbs: 1/2-3/4"
+      "feeding_instructions": "Dog 3 lbs: 1/4 | Dog 5 lbs: 1/4-3/4 | Dog 10 lbs: 1/3-1/2 | Dog 20 lbs: 1/2-3/4 | Dog 40  lbs: 3/4-1 | Dog 60 lbs: 1 | Dog 80 lbs: 1 1/4-1 1/2 | Cat 5 lbs: 1/4-1/3 | Cat 10 lbs: 1/4-3/3 | Cat 15 lbs: 1/2 | Cat 20 lbs: 1/2-3/4",
+      "category": 4
    }
 },
  {
@@ -1524,7 +1593,7 @@
       "url": "https://www.chewy.com/natures-logic-beef-femur-slices-dog/dp/115816",
       "name": "Nature's Logic Beef Femur Slices Dog Treats",
       "sku": 88080,
-      "gtin12": 858155000000,
+      "gtin12": 858000000000,
       "breadcrumb": "Dog>Treats>Bones, Bully Sticks & Natural Chews>Bones",
       "brand": "Nature's Logic",
       "price": 12.99,
@@ -1536,7 +1605,8 @@
       "ingredients": "Beef Femur.",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 4
    }
 },
  {
@@ -1546,7 +1616,7 @@
       "url": "https://www.chewy.com/frisco-holiday-springs-cat-toy-10/dp/259810",
       "name": "Frisco Holiday Springs Cat Toy, 10 count",
       "sku": 233307,
-      "gtin12": 192269000000,
+      "gtin12": 192000000000,
       "breadcrumb": "Cat>Toys>Balls & Chasers",
       "brand": "Frisco",
       "price": 3.59,
@@ -1558,7 +1628,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 2
    }
 },
  {
@@ -1568,7 +1639,7 @@
       "url": "https://www.chewy.com/petkind-tripe-dry-grain-free-green/dp/118644",
       "name": "PetKind Tripe Dry Grain-Free Green Beef Tripe Formula Dry Dog Food",
       "sku": 90977,
-      "gtin12": 882979000000,
+      "gtin12": 883000000000,
       "breadcrumb": "Dog>Food>Premium Food",
       "brand": "PetKind",
       "price": 28.99,
@@ -1580,7 +1651,8 @@
       "ingredients": "Beef Tripe, Beef, Chicken, Peas, Chicken Meal, Turkey Meal, Pea Starch,\nPea Protein, Chicken Fat (Preserved with Mixed Tocopherols), Lentils,\nFlaxseed, Natural Flavor, Quinoa, Pumpkin, Spinach, Carrot, Broccoli,\nCranberry, Apple, Blueberry, Banana, Dicalcium Phosphate, Calcium\nCarbonate, Sodium Chloride, Potassium Chloride, Salmon Oil (Preserved\nWith Mixed Tocopherols), Chicory Root, Vitamins (Vitamin A Acetate,\nVitamin D3 Supplement, A-Tocopherol Acetate, Niacin, Calcium Pantothenate,\nRiboflavin, Thiamine Mononitrate, Pyridoxine Hydrochloride, Folic Acid,\nVitamin B12 Supplement), Minerals (Zinc Sulfate, Ferrous Sulfate, Zinc\nProteinate, Iron Proteinate, Copper Sulfate, Manganous Oxide, Copper\nProteinate, Manganese Proteinate, Calcium Iodate, Sodium Selenite),\nCholine Chloride, Taurine, Dried Lactobacillus Acidophilus Fermentation\nProduct, Dried Lactobacillus Casei Fermentation Product, Dried Bifido\nBacterium Bifidium Thermophilum Fermentation Product, Dried\nStreptococcus Faecium Fermentation Product, Yucca Schidigera Extract,\nRosemary, Cayenne, Peppermint, Thyme, Green Tea Extract.",
       "calory_content": "3,657 kcal/kg, 369 kcal/cup",
       "nutrition_analysis": "Crude Protein: 32.0% min | Crude Fat: 16.0% min | Crude Fiber: 4.0% max | Moisture: 10.0% max | Ash: 8.5% max | Phosphorus: 0.8% min | Magnesium: 0.1% max | Taurine: 2,790 mg/kg min | Omega-6 Fatty Acids: 3.0% min | Omega-3 Fatty Acids: 1.0% min",
-      "feeding_instructions": "2 - 12 lbs: 1/2 - 1 1/4 | 13 - 22 lbs: 1 1/4 - 1 3/4 | 23 - 33 lbs: 1 3/4 - 2 1/4 | 34 - 55 lbs: 2 1/4 - 3 1/4 | 56 - 90 lbs: 3 1/4 - 4 1/2 | 91 - 110 lbs: 4 1/2 - 5 | 111 - 130 lbs: 5 - 5 1/2 | 131 - 155 lbs: 5 1/2 - 6 1/4"
+      "feeding_instructions": "2 - 12 lbs: 1/2 - 1 1/4 | 13 - 22 lbs: 1 1/4 - 1 3/4 | 23 - 33 lbs: 1 3/4 - 2 1/4 | 34 - 55 lbs: 2 1/4 - 3 1/4 | 56 - 90 lbs: 3 1/4 - 4 1/2 | 91 - 110 lbs: 4 1/2 - 5 | 111 - 130 lbs: 5 - 5 1/2 | 131 - 155 lbs: 5 1/2 - 6 1/4",
+      "category": 4
    }
 },
  {
@@ -1590,7 +1662,7 @@
       "url": "https://www.chewy.com/let-lighting-2x24w-miro-4-t5-high/dp/263856",
       "name": "LET Lighting 2x24W Miro-4 T5 High-Output Dimmable Retrofit Kit, 24-in",
       "sku": 237364,
-      "gtin12": 638347000000,
+      "gtin12": 638000000000,
       "breadcrumb": "Fish>Lighting>Light Fixtures",
       "brand": "LET Lighting",
       "price": 99.95,
@@ -1602,7 +1674,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 3
    }
 },
  {
@@ -1612,7 +1685,7 @@
       "url": "https://www.chewy.com/shires-equestrian-products-aubrion/dp/664710",
       "name": "Shires Equestrian Products Aubrion Highgate Short Sleeve Horse Riding Base Layer",
       "sku": 664710,
-      "gtin12": 5051770000000,
+      "gtin12": 5050000000000,
       "breadcrumb": "Horse>Riding Gear>Riding Apparel>Casual Riding Apparel",
       "brand": "Shires Equestrian Products",
       "price": 49.99,
@@ -1624,7 +1697,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 8
    }
 },
  {
@@ -1634,7 +1708,7 @@
       "url": "https://www.chewy.com/zimecterin-ivermectin-oral-paste/dp/304015",
       "name": "Zimecterin (Ivermectin) Oral Paste Horse Dewormer",
       "sku": 277608,
-      "gtin12": 350605000000,
+      "gtin12": 351000000000,
       "breadcrumb": "Pharmacy>Horse Pharmacy>Dewormers & Parasiticides",
       "brand": "Zimecterin",
       "price": 10.99,
@@ -1646,7 +1720,8 @@
       "ingredients": "Active Ingredient: Ivermectin 1.87%.",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 10
    }
 },
  {
@@ -1668,7 +1743,8 @@
       "ingredients": "Sunflower Hearts & Chips, Red Millet, Oil Sunflower, Niger Seed, Safflower, White Millet. Allergen Information: Manufactured In A Facility That Processes Peanuts And Other Tree Nuts.",
       "calory_content": "",
       "nutrition_analysis": "Crude Protein: 16.0% min | Crude Fat: 33.5% min | Crude Fiber: 16.0% max | Moisture: 12.0% max",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 6
    }
 },
  {
@@ -1678,7 +1754,7 @@
       "url": "https://www.chewy.com/credelio-chewable-tablet-dogs-44-6/dp/175370",
       "name": "Credelio Chewable Tablet for Dogs, 4.4-6 lbs, (Yellow Box)",
       "sku": 148544,
-      "gtin12": 727804353841,
+      "gtin12": 727804000000,
       "breadcrumb": "Dog>Flea & Tick>Pills & Chewables",
       "brand": "Credelio",
       "price": 22.99,
@@ -1690,7 +1766,8 @@
       "ingredients": "56.25 mg Lotilaner.",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 4
    }
 },
  {
@@ -1700,7 +1777,7 @@
       "url": "https://www.chewy.com/uckele-jiaogulan-circulation-support/dp/258503",
       "name": "Uckele Jiaogulan Circulation Support Powder Horse Supplement, 1-lb bag",
       "sku": 231996,
-      "gtin12": 816341000000,
+      "gtin12": 816000000000,
       "breadcrumb": "Horse>Health & Wellness>Vitamins & Supplements>Vitamins, Minerals & Overall Health",
       "brand": "Uckele",
       "price": 32.95,
@@ -1712,7 +1789,8 @@
       "ingredients": "Active Ingredients: Gynostemma pentaphyllum (Jiaogulan).",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 8
    }
 },
  {
@@ -1722,7 +1800,7 @@
       "url": "https://www.chewy.com/pets-first-nfl-seattle-seahawks-dog/dp/735798",
       "name": "Pets First NFL Seattle Seahawks Dog Bed, Multicolor",
       "sku": 735806,
-      "gtin12": 849790000000,
+      "gtin12": 850000000000,
       "breadcrumb": "Dog>Beds>Bolster Beds",
       "brand": "Pets First",
       "price": 31.26,
@@ -1734,7 +1812,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 4
    }
 },
  {
@@ -1744,7 +1823,7 @@
       "url": "https://www.chewy.com/blueberry-pet-3m-pattern-polyester/dp/234317",
       "name": "Blueberry Pet 3M Pattern Polyester Reflective Dog Collar",
       "sku": 207722,
-      "gtin12": 9504000000000,
+      "gtin12": 9500000000000,
       "breadcrumb": "Dog>Leashes, Collars & Harnesses>Collars>Standard",
       "brand": "Blueberry Pet",
       "price": 18.99,
@@ -1756,7 +1835,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 4
    }
 },
  {
@@ -1778,7 +1858,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 4
    }
 },
  {
@@ -1788,7 +1869,7 @@
       "url": "https://www.chewy.com/coziwow-2-story-wooden-small-pet-cage/dp/691470",
       "name": "Coziwow 2-Tier Wooden Small Pet Cage, Grey",
       "sku": 691478,
-      "gtin12": 6974060000000,
+      "gtin12": 6970000000000,
       "breadcrumb": "Small Pet>Shop by Small Pet>Rat>Cages & Habitats>Cages & Playpens",
       "brand": "Coziwow",
       "price": 119.98,
@@ -1800,7 +1881,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 9
    }
 },
  {
@@ -1810,7 +1892,7 @@
       "url": "https://www.chewy.com/american-journey-active-life-formula/dp/240198",
       "name": "American Journey Active Life Formula Small Breed Chicken, Brown Rice & Vegetables Recipe Adult Dry Dog Food",
       "sku": 213621,
-      "gtin12": 192268000000,
+      "gtin12": 192000000000,
       "breadcrumb": "Dog>Food>Dry Food>High-Protein",
       "brand": "American Journey",
       "price": 30.66,
@@ -1822,7 +1904,8 @@
       "ingredients": "Deboned Chicken, Chicken Meal (a source of Glucosamine and Chondroitin Sulfate), Turkey Meal, Brown Rice, Rice Bran, Peas, Chicken Fat (Preserved with Mixed Tocopherols), Brewers Rice, Flaxseed, Natural Flavor, Dried Tomato Pomace, Pea Protein, Suncured Alfalfa Meal, Barley, Dried Egg Product, Carrots, Oatmeal, Sweet Potatoes, Fish Oil, Vitamins (Vitamin E Supplement, Niacin Supplement, d-Calcium Pantothenate, Riboflavin Supplement, Vitamin A Supplement, Thiamine Mononitrate, Pyridoxine Hydrochloride, Vitamin B12 Supplement, Vitamin D3 Supplement, Folic Acid), Salt, Choline Chloride, Minerals (Ferrous Sulfate, Zinc Proteinate, Zinc Sulfate, Iron Proteinate, Copper Sulfate, Sodium Selenite, Copper Proteinate, Manganese Sulfate, Manganese Proteinate, Calcium Iodate), Blueberries, Cranberries, Dried Kelp, Taurine, Inulin, Mixed Tocopherols (Preservative), L-Carnitine, Yucca Schidigera Extract, Rosemary Extract.",
       "calory_content": "3,581 kcal/kg or 352 kcal/cup",
       "nutrition_analysis": "Crude Protein: 27% min | Crude Fat: 17% min | Crude Fiber: 6% max | Moisture: 10% max | Calcium: 1.2% min | Phosphorus: 1% min | Zinc: 120 mg/kg min | Selenium: 0.5 mg/kg min | Vitamin E: 200 IU/kg min | Omega-6 Fatty Acids: 2.6 % min | Omega-3 Fatty Acids: 1.3 % min | Taurine: 0.08% min | Glucosamine: 300 mg/kg min | Chondroitin Sulfate: 400 mg/kg min | L-Carnitine: 100 mg/kg min",
-      "feeding_instructions": "3 lbs: 1/3 | 6 lbs: 1/2 | 10 lbs: 3/4 | 15 lbs: 1 | 20 lbs: 1 1/4 | 25 lbs: 1 1/2 | 30 lbs: 2"
+      "feeding_instructions": "3 lbs: 1/3 | 6 lbs: 1/2 | 10 lbs: 3/4 | 15 lbs: 1 | 20 lbs: 1 1/4 | 25 lbs: 1 1/2 | 30 lbs: 2",
+      "category": 4
    }
 },
  {
@@ -1832,7 +1915,7 @@
       "url": "https://www.chewy.com/kenchii-show-gear-curved-ball-tip-dog/dp/272287",
       "name": "Kenchii Show Gear Curved Ball Tip Dog & Cat Shears",
       "sku": 245811,
-      "gtin12": 633726000000,
+      "gtin12": 634000000000,
       "breadcrumb": "Cat>Grooming>Grooming Tools",
       "brand": "Kenchii",
       "price": 39,
@@ -1844,7 +1927,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 2
    }
 },
  {
@@ -1866,7 +1950,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 2
    }
 },
  {
@@ -1888,7 +1973,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 6
    }
 },
  {
@@ -1898,7 +1984,7 @@
       "url": "https://www.chewy.com/victor-select-chicken-meal-brown-rice/dp/120672",
       "name": "VICTOR Select Chicken Meal & Brown Rice Formula Dry Dog Food",
       "sku": 93046,
-      "gtin12": 894308000000,
+      "gtin12": 894000000000,
       "breadcrumb": "Dog>Food>Dry Food",
       "brand": "VICTOR",
       "price": 69.99,
@@ -1910,7 +1996,8 @@
       "ingredients": "Chicken Meal, Grain Sorghum, Peas, Whole Grain Millet, Whole Grain Brown Rice, Chicken Fat (preserved with mixed Tocopherols), Yeast Culture, Dehydrated Alfalfa Meal, Natural Flavor, Potassium Chloride, Carrot Powder, Tomato Pomace, Salt, Organic Dried Seaweed Meal, Taurine, Choline Chloride, Calcium Stearate, Zinc Methionine Complex, Vitamin E Supplement, DL-Methionine, Iron Amino Acid Complex, Hydrolyzed Yeast, Manganese Amino Acid Complex, Silicon Dioxide, L-Carnitine, Selenium Yeast, Brewers Dried Yeast, Dried Enterococcus Faecium Fermentation Product, Dried Lactobacillus Acidophilus Fermentation Product, Dried Aspergillus Oryzae Fermentation Extract, Dried Trichoderma Longibrachiatum Fermentation Extract, Dried Bacillus Subtilis Fermentation Extract, Copper Sulfate, Niacin Supplement, Vitamin B12 Supplement, Vitamin A Supplement, D-Calcium Pantothenate, Thiamine Mononitrate, Biotin, Yucca Schidigera Extract, Calcium Carbonate, Riboflavin Supplement, Calcium Iodate, Pyridoxine Hydrochloride, Vitamin D3 Supplement, Tetrasodium Pyrophosphate, Vegetable Oil, Rosemary Extract, Green Tea Extract, Spearmint Extract, Inulin, Lecithin, Folic Acid.",
       "calory_content": "3496 kcal/kg, 372 kcal/8oz cup",
       "nutrition_analysis": "Crude Protein: 24.0% min | Crude Fat: 12.0% min | Crude Fiber: 4.0% max | Moisture: 9.0% max | Linoleic Acid (Omega-6): 2.0% min | Linoleic Acid (Omega-3): 0.4% | Zinc: 150 mg/kg min | Selenium: 0.35 mg/kg min | Vitamin E: 150 IU/kg min | L-Carnitine: 80mg/kg min",
-      "feeding_instructions": "5 lbs: 1/2 | 10 lbs: 1 | 15 lbs: 1 1/3 | 20 lbs: 1 2/4 | 30 lbs: 2 1/4 | 40 lbs: 2 2/3 | 60 lbs: 3 2/3 | 80 lbs: 4 1/2 | 100 lbs: 5 1/2"
+      "feeding_instructions": "5 lbs: 1/2 | 10 lbs: 1 | 15 lbs: 1 1/3 | 20 lbs: 1 2/4 | 30 lbs: 2 1/4 | 40 lbs: 2 2/3 | 60 lbs: 3 2/3 | 80 lbs: 4 1/2 | 100 lbs: 5 1/2",
+      "category": 4
    }
 },
  {
@@ -1920,7 +2007,7 @@
       "url": "https://www.chewy.com/benebone-zaggler-chicken-flavor-chew/dp/291535",
       "name": "Benebone Zaggler Chicken Flavor Chew Dog Toy",
       "sku": 265098,
-      "gtin12": 854111000000,
+      "gtin12": 854000000000,
       "breadcrumb": "Dog>Healthcare>Dental Care>Dental Toys",
       "brand": "Benebone",
       "price": 12.78,
@@ -1932,7 +2019,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 4
    }
 },
  {
@@ -1954,7 +2042,8 @@
       "ingredients": "Chicken Breast, Pea Starch, Pea Protein, Potato Starch, Rice Flour, Glycerin, Sweet Potato Flour, Beef Gelatin, Powdered Cellulose, Titanium Dioxide (Color), Mixed Tocopherols (A Preservative), Rosemary Extract.",
       "calory_content": "2780 kcal/kg , 292 kcal/treat",
       "nutrition_analysis": "Crude Protein: 20.0% min | Crude Fat: 1.0% min | Crude Fiber: 2.0% max | Moisture: 16.0% max",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 4
    }
 },
  {
@@ -1964,7 +2053,7 @@
       "url": "https://www.chewy.com/solid-gold-natures-harmony-chicken/dp/739118",
       "name": "Solid Gold Nature's Harmony Chicken & Tuna Recipe in Gravy Grain-Free Wet Cat Food, 2.8-oz can, case of 12, 2 count",
       "sku": 739126,
-      "gtin12": 20093800000000,
+      "gtin12": 20100000000000,
       "breadcrumb": "Cat>Food>Wet Food",
       "brand": "Solid Gold",
       "price": 45.36,
@@ -1976,7 +2065,8 @@
       "ingredients": "Chicken Broth, Chicken, Tuna, Tapioca Starch, Canola Oil, Tricalcium Phosphate, Salt, Guar Gum, Minerals ( Zinc Oxide, Reduced Iron, Sodium Selenite, Manganese Sulfate, Copper Amino Acid Complex, Potassium Iodide), Choline Chloride, Taurine, Vitamins ( Vitamin E Supplement, Vitamin A Supplement, Niacin Supplement, Thiamine Mononitrate, Pyridoxine Hydrochloride, Vitamin D3 Supplement, d-Calcium Pantothenate, Riboflavin Supplement, Biotin, Vitamin B12 Supplement, Folic Acid, Menadione Sodium Busulfite Complex (source of Vitamin K)), Magnesium Sulfate, Potassium Chloride",
       "calory_content": "744 kcal/kg 58 kcal/can",
       "nutrition_analysis": "Crude Protein: 10.0% min | Crude Fat: 1.5% min | Crude Fiber: 1.0% max | Moisture: 84.0% max | Ash: 3.5% max",
-      "feeding_instructions": "4-8 lbs: 2-4 | 9-15 lbs: 4-6"
+      "feeding_instructions": "4-8 lbs: 2-4 | 9-15 lbs: 4-6",
+      "category": 2
    }
 },
  {
@@ -1986,7 +2076,7 @@
       "url": "https://www.chewy.com/zesty-paws-lil-zesties-mobility/dp/275877",
       "name": "Zesty Paws Lil' Zesties Mobility Squares Chicken Flavored Soft Chews Hip & Joint Supplement for Dogs",
       "sku": 249406,
-      "gtin12": 810031000000,
+      "gtin12": 810000000000,
       "breadcrumb": "Dog>Vitamins & Supplements>Hip & Joint",
       "brand": "Zesty Paws",
       "price": 16.97,
@@ -1998,7 +2088,8 @@
       "ingredients": "Active Ingredients: Glucosamine HCl (Shellfish), Green Lipped Mussel (Perna canaliculus), Methylsulfonylmethane (OptiMSM®), Chondroitin Sulfate (Porcine).",
       "calory_content": "",
       "nutrition_analysis": "Glucosamine (Shellfish): 300 mg | Green Lipped Mussel: 300 mg | OptiMSM: 200 mg | Chondroitin (Porcine): 100 mg",
-      "feeding_instructions": "Up to 25 lbs: 2 squares | 26 - 50 lbs: 3 squares | Over 50 lbs: 4 squares"
+      "feeding_instructions": "Up to 25 lbs: 2 squares | 26 - 50 lbs: 3 squares | Over 50 lbs: 4 squares",
+      "category": 4
    }
 },
  {
@@ -2008,7 +2099,7 @@
       "url": "https://www.chewy.com/furhaven-faux-sheepskin-suede/dp/249046",
       "name": "FurHaven Faux Sheepskin & Suede Orthopedic Bolster Dog Bed w/Removable Cover",
       "sku": 222514,
-      "gtin12": 842229000000,
+      "gtin12": 842000000000,
       "breadcrumb": "Dog>Beds>Bolster Beds",
       "brand": "FurHaven",
       "price": 19.99,
@@ -2020,7 +2111,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 4
    }
 },
  {
@@ -2030,7 +2122,7 @@
       "url": "https://www.chewy.com/optimeal-tender-morsels-lamb-veggies/dp/368418",
       "name": "Optimeal Tender Morsels With Lamb & Veggies In Aspic Recipe Wet Cat Food, 3-oz pouch, case of 24",
       "sku": 342183,
-      "gtin12": 4820220000000,
+      "gtin12": 4820000000000,
       "breadcrumb": "Cat>Food>Wet Food",
       "brand": "Optimeal",
       "price": 39.59,
@@ -2042,7 +2134,8 @@
       "ingredients": "Broth, Beef Heart, Pork Liver, Chicken, Meat By Products, Lamb, Wheat Gluten, Dried Plasma, Carrots, Green Beans, Water Sufficient For Processing, Carrageenan, Natural Flavor, Salt, Glycine, Sodium Tripolyphosphate, Salmon Oil, Xanthan Gum, Choline Chloride, Potassium Chloride, Dl-methionine, Cranberries, Taurine, Fructooligosaccharide, Yeast Extract, Dried Pot Marigold, Chamomile, Thyme, Vitamin E Supplement, Ascorbic Acid (source of Vitamin C), Niacin Supplement, Zinc Sulfate, Manganese Sulfate, Calcium Pantothenate, Thiamine Mononitrate, Menadione Sodium Bisulfite Complex, Folic Acid, Potassium Iodide, Pyridoxine Hydrochloride, Biotin, Vitamin D3 Supplement, Sodium Selenite.",
       "calory_content": "1,009.6 kcal ME/kg, 86 kcal ME/pouch",
       "nutrition_analysis": "Crude Protein: 10.0% min | Crude Fat: 3.0% min | Crude Fiber: 0.5% max | Moisture: 84% max | Ash: 3.0% max | Omega 3 Fatty Acids*: 0.04% min | Omega 6 Fatty Acids*: 0.24% min",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 2
    }
 },
  {
@@ -2052,7 +2145,7 @@
       "url": "https://www.chewy.com/frisco-holey-moley-coconut-foraging/dp/358011",
       "name": "Frisco Holey-Moley Coconut Foraging Bird Toy",
       "sku": 331757,
-      "gtin12": 192269000000,
+      "gtin12": 192000000000,
       "breadcrumb": "Bird>Shop by Bird>Cockatiel>Toys & Perches",
       "brand": "Frisco",
       "price": 15.99,
@@ -2064,7 +2157,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 6
    }
 },
  {
@@ -2074,7 +2168,7 @@
       "url": "https://www.chewy.com/zupreem-natural-daily-small-bird-food/dp/128413",
       "name": "ZuPreem Natural Daily Small Bird Food, 2.25-lb bag",
       "sku": 100890,
-      "gtin12": 762178000000,
+      "gtin12": 762000000000,
       "breadcrumb": "Bird>Shop by Bird>Parakeet>Food",
       "brand": "ZuPreem",
       "price": 16.05,
@@ -2086,7 +2180,8 @@
       "ingredients": "Ground corn, Soybean meal, Ground millet, Ground oat groats, Ground barley, Ground wheat, Wheat germ meal, Sugar, Vegetable oil (preserved with mixed tocopherols), Celery, Carrots, Parsley, Beets, Blueberries, Cranberries, Ground flaxseeds, Calcium carbonate, Dicalcium phosphate, Iodized salt, DL-Methionine, Choline chloride, L-Lysine monohydrochloride, Vitamins (Vitamin E supplement, Niacin supplement, Biotin, d-Calcium pantothenate, Riboflavin supplement, Pyridoxine hydrochloride, Thiamine mononitrate, Vitamin A acetate, Vitamin D3 supplement, Menadione sodium bisulfite complex (source of Vitamin K activity), Vitamin B12 supplement, Folic acid), Citric acid (preservative), Mixed tocopherols (preservative), L-ascorbyl-2-polyphosphate, Minerals (Manganous oxide, Zinc oxide, Copper sulfate, Sodium selenite, Calcium iodate), Rosemary extract.",
       "calory_content": "",
       "nutrition_analysis": "Crude Protein: 14.0% min | Crude Fat: 4.0% min | Crude Fiber: 5.0% max | Moisture: 10.0% max | Lysine: 0.8% min | Methionine: 0.4% min | Phosphorus: 0.4% min | Potassium: 0.5% min | Vitamin D: 500 IU/kg min | Vitamin E: 60 IU/kg min",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 6
    }
 },
  {
@@ -2096,7 +2191,7 @@
       "url": "https://www.chewy.com/marshall-hanging-ferret-hammock/dp/128799",
       "name": "Marshall Hanging Ferret Hammock",
       "sku": 101277,
-      "gtin12": 766501000000,
+      "gtin12": 767000000000,
       "breadcrumb": "Small Pet>Beds, Hideouts & Toys>Beds & Hammocks",
       "brand": "Marshall",
       "price": 18.99,
@@ -2108,7 +2203,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 9
    }
 },
  {
@@ -2118,7 +2214,7 @@
       "url": "https://www.chewy.com/formula-707-ulzerless-digestive/dp/223416",
       "name": "Formula 707 ULZERless Digestive Health Hay Flavor Pellets Horse Supplement",
       "sku": 196788,
-      "gtin12": 765617000000,
+      "gtin12": 766000000000,
       "breadcrumb": "Horse>Health & Wellness>Vitamins & Supplements>Digestive Care & Probiotics",
       "brand": "Formula 707",
       "price": 85.9,
@@ -2130,7 +2226,8 @@
       "ingredients": "Active Ingredients: Proprietary Herb Blend (Licorice Root, Grape Seed Extract, Marshmallow Root), L-Glutamine, L-Threonine, Zinc.",
       "calory_content": "",
       "nutrition_analysis": "Proprietary Herb Blend (Licorice Root, Grape Seed Extract, Marshmallow Root): 9,000 mg | L-Glutamine: 2,500 mg | L-Threonine: 1,250 mg | Zinc: 50 mg",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 8
    }
 },
  {
@@ -2152,7 +2249,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 1
    }
 },
  {
@@ -2162,7 +2260,7 @@
       "url": "https://www.chewy.com/mobile-dog-gear-weekender/dp/321536",
       "name": "Mobile Dog Gear Weekender Personalized Dog Backpack",
       "sku": 295188,
-      "gtin12": 871407000000,
+      "gtin12": 871000000000,
       "breadcrumb": "Dog>Carriers & Travel>Travel Bowls & Bags",
       "brand": "Mobile Dog Gear",
       "price": 108.88,
@@ -2174,7 +2272,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 4
    }
 },
  {
@@ -2184,7 +2283,7 @@
       "url": "https://www.chewy.com/on2pets-48-in-medium-square-modern/dp/233574",
       "name": "On2Pets 48-in Medium Square Modern Cat Tree",
       "sku": 145316,
-      "gtin12": 868922000000,
+      "gtin12": 869000000000,
       "breadcrumb": "Cat>Trees, Condos & Scratchers>Trees & Condos>Medium (31 - 59\")",
       "brand": "On2Pets",
       "price": 95,
@@ -2196,7 +2295,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 2
    }
 },
  {
@@ -2206,7 +2306,7 @@
       "url": "https://www.chewy.com/travco-products-nutramax-curaflex-2/dp/101477",
       "name": "Travco Products Nutramax Curaflex 2 Chewable Tablets Joint Health Supplement for Dogs, 120 count",
       "sku": 73570,
-      "gtin12": 834140000000,
+      "gtin12": 834000000000,
       "breadcrumb": "Dog>Vitamins & Supplements>Hip & Joint",
       "brand": "Travco Products",
       "price": 18.99,
@@ -2218,7 +2318,8 @@
       "ingredients": "Glucosamine Hydrochloride, MSM, Microcrystalline Cellulose, Natural Flavor, Dried Brewers Yeast, Magnesium Stearate, and Silicon Dioxide.",
       "calory_content": "",
       "nutrition_analysis": "Glucosamine HCl: 500 mg | Methylsulfonylmethane (MSM): 500mg",
-      "feeding_instructions": "Under 15 lbs: 1/2 chew | 16 - 30 lbs: 1 chew | 31 - 60 lbs: 2 chews | 61 - 100 lbs: 3 chews"
+      "feeding_instructions": "Under 15 lbs: 1/2 chew | 16 - 30 lbs: 1 chew | 31 - 60 lbs: 2 chews | 61 - 100 lbs: 3 chews",
+      "category": 4
    }
 },
  {
@@ -2240,7 +2341,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 7
    }
 },
  {
@@ -2250,7 +2352,7 @@
       "url": "https://www.chewy.com/sporn-tree-stump-aquarium-ornament/dp/156888",
       "name": "Sporn Tree Stump Aquarium Ornament",
       "sku": 129816,
-      "gtin12": 879542000000,
+      "gtin12": 880000000000,
       "breadcrumb": "Fish>Shop by Fish Type>Saltwater Fish Shop",
       "brand": "Sporn",
       "price": 34.99,
@@ -2262,7 +2364,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 3
    }
 },
  {
@@ -2272,7 +2375,7 @@
       "url": "https://www.chewy.com/catstages-purr-pillow-snoozin-sloth/dp/217363",
       "name": "Catstages Purr Pillow Snoozin' Sloth Calming Plush Cat Toy",
       "sku": 190715,
-      "gtin12": 700604000000,
+      "gtin12": 701000000000,
       "breadcrumb": "Cat>Toys>Plush & Mice Toys",
       "brand": "Catstages",
       "price": 5.63,
@@ -2284,7 +2387,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 2
    }
 },
  {
@@ -2306,7 +2410,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 2
    }
 },
  {
@@ -2316,7 +2421,7 @@
       "url": "https://www.chewy.com/natura-petz-organics-lifes-an-itch/dp/340642",
       "name": "Natura Petz Organics Life's An Itch! Dog Supplement",
       "sku": 314348,
-      "gtin12": 725273000000,
+      "gtin12": 725000000000,
       "breadcrumb": "Dog>Healthcare",
       "brand": "Natura Petz Organics",
       "price": 44.99,
@@ -2328,7 +2433,8 @@
       "ingredients": "Manayupa, Nettle, Turkey Flavor.",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": "1-12 lbs: 1 | 13-25 lbs: 1, twice | 26-50 lbs: 2, twice | 51-75 lbs: 3, twice | 76+ lbs: 4, twice"
+      "feeding_instructions": "1-12 lbs: 1 | 13-25 lbs: 1, twice | 26-50 lbs: 2, twice | 51-75 lbs: 3, twice | 76+ lbs: 4, twice",
+      "category": 4
    }
 },
  {
@@ -2338,7 +2444,7 @@
       "url": "https://www.chewy.com/fruitables-pumpkin-superblend-weight/dp/37966",
       "name": "Fruitables Pumpkin SuperBlend Weight Loss Dog & Cat Supplement",
       "sku": 55447,
-      "gtin12": 10895400000000,
+      "gtin12": 10900000000000,
       "breadcrumb": "Cat>Vitamins & Supplements",
       "brand": "Fruitables",
       "price": 59.88,
@@ -2350,7 +2456,8 @@
       "ingredients": "Pumpkin, Ground Oatmeal, Inulin, Tomato Pomace, Spinach, Blueberry Pomace, Cinnamon, Calcium Pantothenate (Vitamin B5), Pyroxidine Hydrochloride (Vitamin B6), Folic Acid (Vitamin B9), Vitamin B12 Supplement.",
       "calory_content": "119 kcal/can, 17 kcal/2 oz",
       "nutrition_analysis": "Crude Protein: 1.0% min | Crude Fat: 0.03.0% min | Crude Fat: 0.50% max | Crude Fiber: 4.0% max | Moisture: 89.1% max",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 2
    }
 },
  {
@@ -2372,7 +2479,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 4
    }
 },
  {
@@ -2382,7 +2490,7 @@
       "url": "https://www.chewy.com/carhartt-shock-absorbing-dog-leash/dp/201103",
       "name": "Carhartt Shock-Absorbing Dog Leash",
       "sku": 174414,
-      "gtin12": 888999000000,
+      "gtin12": 889000000000,
       "breadcrumb": "Dog>Leashes, Collars & Harnesses>Leashes>Standard",
       "brand": "Carhartt",
       "price": 34.99,
@@ -2394,7 +2502,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 4
    }
 },
  {
@@ -2404,7 +2513,7 @@
       "url": "https://www.chewy.com/new-zealand-natural-pet-food-co-meow/dp/290070",
       "name": "The New Zealand Natural Pet Food Co. Meow Green Lipped Mussels Freeze-Dried Cat Treat, 1.76-oz bag",
       "sku": 263633,
-      "gtin12": 9421900000000,
+      "gtin12": 9420000000000,
       "breadcrumb": "Cat>Treats>Trial Size Treats",
       "brand": "The New Zealand Natural Pet Food Co.",
       "price": 13.99,
@@ -2416,7 +2525,8 @@
       "ingredients": "Green Lipped Mussels",
       "calory_content": "Calorie Content ME (calculated):  2678 kcal/kg       8 kcal/treat",
       "nutrition_analysis": "Crude Protein: 58%  min | Crude Fat: 9 % min | Crude Fiber: 2 % max | Moisture: 8 % max",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 2
    }
 },
  {
@@ -2438,7 +2548,8 @@
       "ingredients": "Mineral Oil, Petrolatum, Glycerine, Laurel Oil, Avocado Oil, Lecithin And Preservatives.",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 8
    }
 },
  {
@@ -2448,7 +2559,7 @@
       "url": "https://www.chewy.com/tiny-tiger-natural-indoor-recipe/dp/327748",
       "name": "Tiny Tiger, Natural Indoor Recipe Chicken Flavor Dry Cat Food",
       "sku": 301420,
-      "gtin12": 192268000000,
+      "gtin12": 192000000000,
       "breadcrumb": "Cat>Food>Dry Food>Indoor Cat",
       "brand": "Tiny Tiger",
       "price": 22.27,
@@ -2460,7 +2571,8 @@
       "ingredients": "Chicken By-Product Meal, Ground Corn, Ground Grain Sorghum, Corn Gluten Meal, Soybean Meal, Chicken Fat (Preserved with Mixed Tocopherols), Brewers Rice, Natural Flavor, Dried Cellulose, Dicalcium Phosphate, Calcium Chloride, Choline Chloride, Potassium Chloride, Dried Parsley, Vitamins (Vitamin E Supplement, Niacin, Vitamin A Supplement, Thiamine Mononitrate, d-Calcium Pantothenate, Folic Acid, Pyridoxine Hydrochloride, Riboflavin Supplement, Vitamin D3 Supplement, Biotin, Vitamin B12 Supplement), Minerals (Zinc Sulfate, Ferrous Sulfate, Copper Sulfate, Manganous Oxide, Sodium Selenite), Taurine, Salt, Mixed Tocopherols (Preservative), L-Ascorbyl-2-Polyphosphate (Source of Vitamin C), Rosemary Extract.",
       "calory_content": "3,420 kcal/kg or 375 kcal/cup",
       "nutrition_analysis": "Crude Protein: 30.0% min | Crude Fat: 10.0% min | Crude Fiber: 6.0% min | Moisture: 12.0% max | Linoleic Acid: 0.60% min | Arachidonic Acid (ARA): 0.02% min | Calcium: 1.0% min | Phosphorus: 0.85% min | Vitamin A: 10,000 IU/kg | Vitamin E: 150 IU/kg | Taurine: 0.12% min | Omega-6 Fatty Acids: 0.2% min | Omega-3 Fatty Acids: 0.1% min",
-      "feeding_instructions": "3 lbs: 1/3 | 5 lbs: 1/2 | 10  lbs: 3/4 | 15 lbs: 1"
+      "feeding_instructions": "3 lbs: 1/3 | 5 lbs: 1/2 | 10  lbs: 3/4 | 15 lbs: 1",
+      "category": 2
    }
 },
  {
@@ -2470,7 +2582,7 @@
       "url": "https://www.chewy.com/exotic-nutrition-critter-selects/dp/246975",
       "name": "Exotic Nutrition Critter Selects Hedgie Bugs & Veggies Hedgehog Treats, 2.75-oz bag",
       "sku": 220429,
-      "gtin12": 810013000000,
+      "gtin12": 810000000000,
       "breadcrumb": "Small Pet>Shop by Small Pet>Hedgehog>Treats",
       "brand": "Exotic Nutrition",
       "price": 4.79,
@@ -2482,7 +2594,8 @@
       "ingredients": "Dried Mealworms, Dried Crickets, Dried Peas, Dried Carrots, Dried Apple, Dried Black Soldier Fly Larvae",
       "calory_content": "",
       "nutrition_analysis": "Crude Protein: 18.00% min | Crude Fat: 9.00% min | Crude Fiber: 4.80% max | Moisture: 12.00% max",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 9
    }
 },
  {
@@ -2492,7 +2605,7 @@
       "url": "https://www.chewy.com/underwater-treasures-polyped-coral/dp/563374",
       "name": "Underwater Treasures Polyped Coral Fish Ornament",
       "sku": 563374,
-      "gtin12": 628742000000,
+      "gtin12": 629000000000,
       "breadcrumb": "Fish>Shop by Fish Type>Pond Shop",
       "brand": "Underwater Treasures",
       "price": 14.23,
@@ -2504,7 +2617,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 3
    }
 },
  {
@@ -2514,7 +2628,7 @@
       "url": "https://www.chewy.com/miracle-salt-collective-natural/dp/399381",
       "name": "Miracle Salt Collective Natural Himalayan Salt Lick, 4.4-lb brick",
       "sku": 373169,
-      "gtin12": 850037000000,
+      "gtin12": 850000000000,
       "breadcrumb": "Horse>Feed & Treats",
       "brand": "Miracle Salt Collective",
       "price": 12.99,
@@ -2526,7 +2640,8 @@
       "ingredients": "Pure Himalayan Pink Salt",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 8
    }
 },
  {
@@ -2536,7 +2651,7 @@
       "url": "https://www.chewy.com/dog-bed-king-usa-cuddler-bolster-dog/dp/277020",
       "name": "Dog Bed King USA Cuddler Bolster Dog Bed w/Removable Cover",
       "sku": 250549,
-      "gtin12": 739802000000,
+      "gtin12": 740000000000,
       "breadcrumb": "Dog>Beds>Bolster Beds",
       "brand": "Dog Bed King USA",
       "price": 59.99,
@@ -2548,7 +2663,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 4
    }
 },
  {
@@ -2570,7 +2686,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 3
    }
 },
  {
@@ -2592,7 +2709,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 4
    }
 },
  {
@@ -2602,7 +2720,7 @@
       "url": "https://www.chewy.com/bluestem-oral-care-chicken-flavored/dp/233909",
       "name": "Bluestem Oral Care Chicken Flavored Dog & Cat Dental Water Additive",
       "sku": 207312,
-      "gtin12": 628451000000,
+      "gtin12": 628000000000,
       "breadcrumb": "Cat>Healthcare>Dental Care>Water Additives",
       "brand": "Bluestem",
       "price": 16.99,
@@ -2614,7 +2732,8 @@
       "ingredients": "Trisodium citrate, Citric acid, Zinc chloride, Water, Disodium EDTA, Potassium benzoate, Chicken flavor",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 2
    }
 },
  {
@@ -2624,7 +2743,7 @@
       "url": "https://www.chewy.com/lotus-chicken-loaf-grain-free-canned/dp/158164",
       "name": "Lotus Chicken Loaf Grain-Free Canned Dog Food",
       "sku": 131107,
-      "gtin12": 784815000000,
+      "gtin12": 785000000000,
       "breadcrumb": "Dog>Food>Wet Food>Adult",
       "brand": "Lotus",
       "price": 59.88,
@@ -2636,7 +2755,8 @@
       "ingredients": "Chicken, Chicken Broth, Chicken Liver, Pea Flour, Sweet Potatoes, Tricalcium Phosphate, Whole Ground Flaxseed, Coconut Oil, New Zealand Green Mussel, Agar-Agar, Chopped Asparagus, Blueberries, Pumpkin Flakes, Cranberries, Potassium Chloride, Salt, Calcium Sulfate, Salmon Oil, Calcium Carbonate, Choline Chloride, Betaine, Zinc Proteinate, Potassium Chloride, Iron Proteinate, Niacin, Vitamin E Supplement, Thiamine Mononitrate, Copper Proteinate, Manganese Proteinate, Sodium Selenite, Calcium Pantothenate, Vitamin A Supplement, Riboflavin, Pyridoxine Hydrochloride, Biotin, Vitamin B12 Supplement, Calcium Iodate, Vitamin D3 Supplement, Folic Acid.",
       "calory_content": "941 kcal/kg",
       "nutrition_analysis": "Crude Protein: 8.0% min | Crude Fat: 5.0% min | Crude Fiber: 1.0% max | Moisture: 78.0% max | Omega-6 Fatty Acids: 0.40% min | Omega-3 Fatty Acids: 0.20% min",
-      "feeding_instructions": "5 lbs: 3/4 | 10 lbs: 1 1/4 cans | 20 lbs: 2 cans | 30 lbs: 2 3/4 cans | 40 lbs: 3 1/2 cans | 60 lbs: 4 3/4 cans | 80 lbs: 5 3/4 cans | 100 lbs: 7 cans"
+      "feeding_instructions": "5 lbs: 3/4 | 10 lbs: 1 1/4 cans | 20 lbs: 2 cans | 30 lbs: 2 3/4 cans | 40 lbs: 3 1/2 cans | 60 lbs: 4 3/4 cans | 80 lbs: 5 3/4 cans | 100 lbs: 7 cans",
+      "category": 4
    }
 },
  {
@@ -2646,7 +2766,7 @@
       "url": "https://www.chewy.com/bil-jac-original-recipe-liver-soft/dp/168878",
       "name": "Bil-Jac Original Recipe with Liver Soft Dog Treats",
       "sku": 141981,
-      "gtin12": 731794000000,
+      "gtin12": 732000000000,
       "breadcrumb": "Dog>Treats>Soft & Chewy Treats>Top-Rated",
       "brand": "Bil-Jac",
       "price": 12.99,
@@ -2658,7 +2778,8 @@
       "ingredients": "Chicken Liver, Chicken, Chicken Meal, Wheat Flour, Glycerin, Phosphoric Acid, Salt, Potassium Sorbate and Citric Acid and Mixed Tocopherols and Calcium Propionate and BHA (preservatives), Rosemary Extract.",
       "calory_content": "3057 kcal/kg; 8.3 kcal/treat",
       "nutrition_analysis": "Crude Protein: 25.0 % min | Crude Fat: 10.0 % min | Crude Fiber: 2.0 % max | Moisture: 30.0 % max",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 4
    }
 },
  {
@@ -2680,7 +2801,8 @@
       "ingredients": "Rice, Powdered Cellulose, Chicken By-Product Meal, Propylene Glycol, Dried Skim Milk, Modified Food Starch, Dextrin, Water, Sodium Tripolyphosphate, Bone Phosphate, Calcium Sulfate, Gelatin, Animal Digest, Potassium Sorbate (Used As A Preservative), Phosphoric Acid, Titanium Dioxide (Color), Minerals (Ferrous Sulfate, Zinc Oxide, Manganous Oxide, Copper Sulfate, Calcium Iodate, Sodium Selenite), Vitamins (Vitamin E Supplement, Vitamin A Supplement, Niacin Supplement, D-Calcium Pantothenate, Riboflavin Supplement, Pyridoxine Hydrochloride, Thiamine Mononitrate, Vitamin D3 Supplement, Folic Acid, Biotin, Vitamin B12 Supplement), Natural Smoke Flavor, Yellow 6, Yellow 5, BHA (Used As A Preservative).",
       "calory_content": "2,580 kcal/kg, 30 kcal/piece",
       "nutrition_analysis": "Crude Protein: 12.0% min | Crude Fat: 1.0% min | Crude Fiber: 8.0% max | Moisture: 18.0% max | Calcium: 1.0% min | Iron: 35 mg/kg min | Copper: 7 mg/kg min | Manganese: 4.5 mg/kg min | Zinc: 70 mg/kg min | Iodine: 0.9 mg/kg min | Vitamin D: 435 IU/kg min | Vitamin E: 45 IU/kg min | Pantothenic Acid: 11 mg/kg min | Niacin: 12 mg/kg min | Folic Acid: 0.2 mg/kg min | Vitamin B12: 0.03 mg/kg min",
-      "feeding_instructions": "Mini: 5 - 24 lbs | Small/Medium: 25 - 49 lbs | Large: 50+ lbs"
+      "feeding_instructions": "Mini: 5 - 24 lbs | Small/Medium: 25 - 49 lbs | Large: 50+ lbs",
+      "category": 4
    }
 },
  {
@@ -2690,7 +2812,7 @@
       "url": "https://www.chewy.com/biorb-aquarium-maintenance-kit/dp/278653",
       "name": "biOrb Aquarium Maintenance Kit",
       "sku": 252188,
-      "gtin12": 822728000000,
+      "gtin12": 823000000000,
       "breadcrumb": "Fish>Water Care>Water Conditioners",
       "brand": "biOrb",
       "price": 37.73,
@@ -2702,7 +2824,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 3
    }
 },
  {
@@ -2712,7 +2835,7 @@
       "url": "https://www.chewy.com/petstages-monkey-stuffing-free/dp/46988",
       "name": "Petstages Monkey Stuffing-Free Squeaky Dog Plush Toy",
       "sku": 62012,
-      "gtin12": 871864000000,
+      "gtin12": 872000000000,
       "breadcrumb": "Dog>Toys>Plush Toys>Unstuffed Toys",
       "brand": "Petstages",
       "price": 5.98,
@@ -2724,7 +2847,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 4
    }
 },
  {
@@ -2746,7 +2870,8 @@
       "ingredients": "Deboned Chicken, Chicken Meal, Oat Groats, Whole Sorghum, Whole Millet, Chicken Fat, Whole Oats, Chicken Liver, Catfish Meal, Ground Miscanthus Grass, Eggs, Deboned Turkey, Fish Oil, Natural Chicken Flavor, Chicken Cartilage, Chicken Heart, Turkey Giblet (Liver, Heart Gizzard), Whole Butternut Squash, Whole Pumpkin, Salt, Potassium Chloride, Choline Chloride, Taurine, Dried Kelp, Vitamin E Supplement, Mixed Tocopherols (Preservative), Zinc Proteinate, Vitamin D3 Supplement, Vitamin A Acetate, Freeze-Dried Chicken Liver, Freeze-Dried Turkey Liver, Niacin , Thiamine Mononitrate, Riboflavin, Calcium Pantothenate, Pyridoxine Hydrochloride, Folic Acid, Vitamin B12 Supplement, Copper Proteinate, Chicory Root, Turmeric, Sarsaparilla Root, Althea Root, Rosehips, Juniper Berries, Citric Acid (Preservative), Rosemary Extract, Dried Lactobacillus Acidophilus Fermentation Product, Dried Bifidobacterium Animalis Fermentation Product, Dried Lactobacillus Casei Fermentation Product.",
       "calory_content": "3540 kcal/kg, 425 kcal/cup",
       "nutrition_analysis": "Crude protein: 28% min | Crude fat: 19% min | Crude fiber: 6% max | Moisture: 12% max | Dietary Starch: 25% max | Sugars: 2% max | EPA (eicosapentaenoic acid): 0.3% min | DHA (docosahexaenoic acid): 0.15% min | Calcium: 1.3% min | Phosphorus: 1.0% min | Taurine*: 0.2% min | Omega-6 fatty acids*: 3.5% min | Omega-3 fatty acids*: 0.7% min | Glucosamine*: 500mg/kg min | Total Microorganisms*: 100 Million CFU/lb",
-      "feeding_instructions": "2: 2/3 | 5: 3/4 | 10: -- | 15: -- | 20: -- | 25: -- | 30: --"
+      "feeding_instructions": "2: 2/3 | 5: 3/4 | 10: -- | 15: -- | 20: -- | 25: -- | 30: --",
+      "category": 4
    }
 },
  {
@@ -2768,7 +2893,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 4
    }
 },
  {
@@ -2778,7 +2904,7 @@
       "url": "https://www.chewy.com/underwater-treasures-area-51-fish/dp/562758",
       "name": "Underwater Treasures Area 51 Fish Ornament",
       "sku": 562766,
-      "gtin12": 628742000000,
+      "gtin12": 629000000000,
       "breadcrumb": "Fish>Shop by Fish Type>Pond Shop",
       "brand": "Underwater Treasures",
       "price": 12.51,
@@ -2790,7 +2916,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 3
    }
 },
  {
@@ -2800,7 +2927,7 @@
       "url": "https://www.chewy.com/health-extension-grain-free-duck/dp/56241",
       "name": "Health Extension Grain-Free Duck Entree Canned Dog Food",
       "sku": 71333,
-      "gtin12": 7846720000000,
+      "gtin12": 7850000000000,
       "breadcrumb": "Dog>Food>Wet Food>Adult",
       "brand": "Health Extension",
       "price": 34.69,
@@ -2812,7 +2939,8 @@
       "ingredients": "Duck, Duck Broth, Chicken Liver, Turkey, Sweet Potatoes, Dried Egg Product, Carrots, Guar Gum, Canola Oil, Salt, Potassium Chloride, Vitamins (Vitamin E Supplement, Thiamine Mononitrate, Niacin Supplement, d-Calcium Pantothenate, Vitamin A Supplement, Riboflavin Supplement, Biotin, Vitamin B12 Supplement, Pyridoxine Hydrochloride, Vitamin D3 Supplement, Folic Acid), Minerals (Ferrous Sulfate, Zinc Oxide, Copper Proteinate, Sodium Selenite, Manganese Sulfate, Potassium Iodide), Choline Chloride.",
       "calory_content": "183 kcal/can",
       "nutrition_analysis": "Crude Protein: 9.5% min | Crude Fat: 7.5% min | Crude Fiber: 1.5% max | Moisture: 78% max",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 4
    }
 },
  {
@@ -2822,7 +2950,7 @@
       "url": "https://www.chewy.com/liquid-fence-deer-rabbit-repellent/dp/206787",
       "name": "Liquid Fence Deer & Rabbit Repellent Spray",
       "sku": 180114,
-      "gtin12": 651125000000,
+      "gtin12": 651000000000,
       "breadcrumb": "Dog>Flea & Tick>Home & Yard Treatments>Yard Treatments",
       "brand": "Liquid Fence",
       "price": 23.48,
@@ -2834,7 +2962,8 @@
       "ingredients": "Putrescent Whole Egg Solids - 1.040%, Garlic - 0.374%, Sodium Lauryl Sulfate - 0.040%, Thyme Oil - 0.010%, Other Ingredients (Water, Potassium Sorbate, Sodium Benzoate, Trisodium Citrate Dihydrate, Citric Acid, Xanthan Gum) - 98.536%.",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 4
    }
 },
  {
@@ -2844,7 +2973,7 @@
       "url": "https://www.chewy.com/frisco-large-size-dog-poop-bags-120/dp/263500",
       "name": "Frisco Large Size Dog Poop Bags, 120 count",
       "sku": 237008,
-      "gtin12": 192269000000,
+      "gtin12": 192000000000,
       "breadcrumb": "Dog>Cleaning & Potty>Poop Bags & Scoopers>Poop Bags",
       "brand": "Frisco",
       "price": 9.22,
@@ -2856,7 +2985,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 4
    }
 },
  {
@@ -2866,7 +2996,7 @@
       "url": "https://www.chewy.com/hanamya-interactive-foodtreats/dp/344411",
       "name": "HANAMYA Interactive Food/Treats Dispensing Flying Disc Puzzle Dog Toy",
       "sku": 318128,
-      "gtin12": 850028000000,
+      "gtin12": 850000000000,
       "breadcrumb": "Dog>Toys>Interactive Toys>Treat Toys & Dispensers",
       "brand": "HANAMYA",
       "price": 15.95,
@@ -2878,7 +3008,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 4
    }
 },
  {
@@ -2888,7 +3019,7 @@
       "url": "https://www.chewy.com/daves-pet-food-naturally-healthy/dp/51682",
       "name": "Dave's Pet Food Naturally Healthy Grain-Free Turkey & Giblets Dinner Canned Cat Food",
       "sku": 66738,
-      "gtin12": 685038000000,
+      "gtin12": 685000000000,
       "breadcrumb": "Cat>Food>Wet Food",
       "brand": "Dave's Pet Food",
       "price": 35.99,
@@ -2900,7 +3031,8 @@
       "ingredients": "Water Sufficient for Processing, Turkey, Chicken, Poultry Giblets, Egg Product, Guar Gum, Potassium Chloride, Salt, Carrageenan, Vitamins (Vitamin E, A, D3, B12 Supplements, Thiamine Mononitrate (Vitamin B1), Niacin, D-Calcium Pantothenate, Pyridoxine Hydrochloride (Vitamin B6), Riboflavin Supplement (Vitamin B2), Folic Acid, Biotin), Choline Chloride, Minerals (Ferrous Sulfate, Zinc Oxide, Copper Proteinate, Manganese Sulfate, Potassium Iodide, Sodium Selenite), Taurine.",
       "calory_content": "1,245 kcal/kg, 107 kcal/3 oz can, 196 kcal/5.5 oz can, 442 kcal/12 oz can",
       "nutrition_analysis": "Crude Protein: 9.0% min | Crude Fat: 6.5% min | Crude Fiber: 1.0% max | Moisture: 78.0% max | Ash: 2.1% max | Calcium: 0.2% max | Magnesium: 0.028% max | Taurine: 0.05% max | Phosphorus: 0.27% min",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 2
    }
 },
  {
@@ -2910,7 +3042,7 @@
       "url": "https://www.chewy.com/frisco-ho-ho-ho-dog-cat-hat-x/dp/384699",
       "name": "Frisco Ho Ho Ho Dog & Cat Hat",
       "sku": 358475,
-      "gtin12": 192269000000,
+      "gtin12": 192000000000,
       "breadcrumb": "Cat>Clothing & Accessories>Accessories>Hats",
       "brand": "Frisco",
       "price": 8.99,
@@ -2922,7 +3054,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 2
    }
 },
  {
@@ -2932,7 +3065,7 @@
       "url": "https://www.chewy.com/k9warehouse-knee-cap-bones-dog-chew/dp/346284",
       "name": "K9warehouse Knee Cap Bones Dog Chew Treats",
       "sku": 320004,
-      "gtin12": 671072000000,
+      "gtin12": 671000000000,
       "breadcrumb": "Dog>Treats>Bones, Bully Sticks & Natural Chews>Natural Chews",
       "brand": "K9warehouse",
       "price": 28.09,
@@ -2944,7 +3077,8 @@
       "ingredients": "Knee Caps",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 4
    }
 },
  {
@@ -2966,7 +3100,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 2
    }
 },
  {
@@ -2976,7 +3111,7 @@
       "url": "https://www.chewy.com/stella-chewys-maries-magical-dinner/dp/261663",
       "name": "Stella & Chewy's Marie’s Magical Dinner Dust Cage Free Chicken Recipe Freeze-Dried Raw Cat Food Topper, 7-oz bag",
       "sku": 235168,
-      "gtin12": 810027000000,
+      "gtin12": 810000000000,
       "breadcrumb": "Cat>Food>Premium Food>Food Toppings>Dry Food Toppings",
       "brand": "Stella & Chewy's",
       "price": 17.49,
@@ -2988,7 +3123,8 @@
       "ingredients": "Chicken (Ground With Bone), Chicken Liver, Chicken Gizzard, Pumpkin Seed, Potassium Chloride, Sodium Phosphate, Choline Chloride, Fenugreek Seed, Dried Pediococcus Acidilactici Fermentation Product, Dried Lactobacillus Acidophilus Fermentation Product, Dried Bifidobacterium Longum Fermentation Product, Dried Bacillus Coagulans Fermentation Product, Taurine, Tocopherols (Preservative), Dandelion Greens, Salt, Ried Kelp, Zinc Proteinate, Iron Proteinate, Vitamin A Supplement, Vitamin E Supplement, Niacin Supplement, Copper Proteinate, Riboflavin Supplement, Sodium Selenite, D-Calcium Pantothenate, Biotin, Manganese Proteinate, Thiamine Mononitrate, Pyridoxine Hydrochloride, Vitamin D3 Supplement, Folic Acid, Vitamin B12 Supplement.",
       "calory_content": "4,360 kcal/kg, 10 kcal/tbsp",
       "nutrition_analysis": "Crude Protein: 45%  min | Crude Fat: 25% min | Crude Fiber: 5% max | Moisture: 5% max",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 2
    }
 },
  {
@@ -3010,7 +3146,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 8
    }
 },
  {
@@ -3020,7 +3157,7 @@
       "url": "https://www.chewy.com/red-dingo-medical-alert-stainless/dp/286752",
       "name": "Red Dingo Medical Alert Stainless Steel Personalized Dog & Cat ID Tag",
       "sku": 260306,
-      "gtin12": 9330730000000,
+      "gtin12": 9330000000000,
       "breadcrumb": "Cat>Leashes, Collars & Harnesses>ID Tags & Accessories",
       "brand": "Red Dingo",
       "price": 16.99,
@@ -3032,7 +3169,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 2
    }
 },
  {
@@ -3042,7 +3180,7 @@
       "url": "https://www.chewy.com/kent-home-fresh-grow-show-crumble/dp/270989",
       "name": "Kent Home Fresh Grow & Show Crumble Poultry Feed, 50-lb bag",
       "sku": 244505,
-      "gtin12": 808631000000,
+      "gtin12": 809000000000,
       "breadcrumb": "Farm Animal>Chicken",
       "brand": "Kent",
       "price": 39.84,
@@ -3054,7 +3192,8 @@
       "ingredients": "Ground Corn, Processed Grain By-Products, Soybean Meal, Calcium Carbonate, Monocalcium Phosphate, Salt, Vegetable Oil, DL-Methionine, Rice Hulls, Reed-Sedge Peat, Choline Chloride, Salt of Butyric Acid, Yeast Extract, Dried Bacillus Subtilis Fermentation Product, Dried Trichoderma Reesei Fermentation Product, Dried Bacillus Amyloliquefaciens Fermentation Product, Dried Aspergillus Oryzae Fermentation Extract (Phytase), Manganese Sulfate, Manganese Amino Acid Complex, Zinc Sulfate, Zinc Amino Acid Complex, Ferrous Sulfate, Selenium Yeast, Copper Sulfate, Copper Amino Acid Complex, Calcium Iodate, Mineral Oil, Vitamin A Acetate, Vitamin D3 Supplement, Vitamin E Supplement, Niacin Supplement, Biotin, Calcium Pantothenate, Riboflavin Supplement, Menadione Sodium Bisulfite Complex, Vitamin B12 Supplement, Pyridoxine Hydrochloride, Thiamine Mononitrate, Folic Acid, L-Lysine.",
       "calory_content": "",
       "nutrition_analysis": "Crude Protein: 20% min | Crude Fat: 3% min | Crude Fiber: 4% max | Methionine: 0.48% max | Phosphorus: 0.65% max | Vitamin E: 21 IU | Calcium: 1.25% max",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 1
    }
 },
  {
@@ -3076,7 +3215,8 @@
       "ingredients": "Water, Turkey, Chicken, Wheat Gluten, Peas, Brown Rice, Liver, Meat By-Products, Corn Starch-Modified, Soy Flour, Tricalcium Phosphate, Glycine, Minerals [Potassium Chloride, Zinc Sulfate, Ferrous Sulfate, Copper Sulfate, Manganese Sulfate, Potassium Iodide, Sodium Selenite], Salt, Natural Flavor, Vitamins [Vitamin E Supplement, Niacin (Vitamin B-3), Thiamine Mononitrate (Vitamin B-1), Calcium Pantothenate (Vitamin B-5), Pyridoxine Hydrochloride (Vitamin B-6), Vitamin B-12 Supplement, Riboflavin Supplement (Vitamin B-2), Vitamin A Supplement, Folic Acid (Vitamin B-9), Vitamin D-3 Supplement, Biotin (Vitamin B-7)], Choline Chloride. D441520.",
       "calory_content": "868 kcal/kg, 135 kcal/can",
       "nutrition_analysis": "Crude Protein: 9.0% min | Crude Fat: 2.0% min | Crude Fiber: 1.5% max | Moisture: 80.0% max",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 4
    }
 },
  {
@@ -3098,7 +3238,8 @@
       "ingredients": "Olive Oil, Beeswax, Lecithin, Dehydrated Egg Product, L-Threonine, Ascorbic Acid\n(Vitamin C), Inulin, Dried Whey, Saccharin Sodium.",
       "calory_content": "",
       "nutrition_analysis": "Crude Protein (Min.): 19% | Crude Fat (Min.): 55% | Ash (Min.): 4% | Water (Min.): 4%",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 1
    }
 },
  {
@@ -3108,7 +3249,7 @@
       "url": "https://www.chewy.com/myzoo-solar-wall-mounted-cat-shelf/dp/280639",
       "name": "MyZoo Solar Wall Mounted Cat Shelf",
       "sku": 254177,
-      "gtin12": 640842000000,
+      "gtin12": 641000000000,
       "breadcrumb": "Cat>Trees, Condos & Scratchers>Wall Shelves",
       "brand": "MyZoo",
       "price": 374.99,
@@ -3120,7 +3261,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 2
    }
 },
  {
@@ -3130,7 +3272,7 @@
       "url": "https://www.chewy.com/tiny-tiger-chunks-in-gravy-beef/dp/174601",
       "name": "Tiny Tiger Chunks in Gravy Beef & Poultry Recipes Variety Pack Grain-Free Canned Cat Food",
       "sku": 147768,
-      "gtin12": 192268000000,
+      "gtin12": 192000000000,
       "breadcrumb": "Cat>Food>Wet Food>Variety Packs",
       "brand": "Tiny Tiger",
       "price": 17.78,
@@ -3142,7 +3284,8 @@
       "ingredients": "Beef Recipe: Beef Broth, Beef, Liver, Poultry, Meat By-Products, Ocean Fish, Dried Egg Product, Potato Starch, Natural Flavor, Tricalcium Phosphate, Salt, Guar Gum, Sodium Phosphate, Potassium Chloride, Calcium Carbonate, Choline Chloride, Vitamins (Vitamin E Supplement, Thiamine Mononitrate, Niacin Supplement, D-Calcium Pantothenate, Pyridoxine Hydrochloride, Riboflavin Supplement, Vitamin A Supplement, Biotin, Vitamin D3 Supplement, Vitamin B12 Supplement, Folic Acid), Dl-Methionine, Taurine, Minerals (Ferrous Sulfate, Zinc Oxide, Copper Proteinate, Sodium Selenite, Manganese Sulfate, Potassium Iodide), Magnesium Sulfate, Fish Oil (Preserved With Mixed Tocopherols).",
       "calory_content": "Beef Recipe: 901 kcal/kg, 77 kcal/3oz can",
       "nutrition_analysis": "Crude Protein: 11.0% min | Crude Fat: 2.0% min | Crude Fiber: 1.5% max | Moisture: 80.0% max | Ash: 2.5% max | Taurine: 0.05% min | Crude Protein: 11.0% min | Crude Fat: 2.0% min | Crude Fiber: 1.5% max | Moisture: 80.0% max | Ash: 2.7% max | Taurine: 0.05% min | Crude Protein: 11.0% min | Crude Fat: 2.0% min | Crude Fiber: 1.5% max | Moisture: 80.0% max | Ash: 2.7% max | Taurine: 0.05% min",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 2
    }
 },
  {
@@ -3164,7 +3307,8 @@
       "ingredients": "Poultry, Water, Meat By-products, Liver, Poultry By-products, Fish, Rice, Artificial And Natural Flavors, Minerals [Potassium Chloride, Magnesium Proteinate, Zinc Sulfate, Ferrous Sulfate, Manganese Sulfate, Copper Sulfate, Potassium Iodide], Guar Gum, Carrageenan, Choline Chloride, Taurine, Vitamins [Thiamine Mononitrate (Vitamin B-1), Vitamin E Supplement, Niacin (Vitamin B-3), Calcium Pantothenate (Vitamin B-5), Vitamin A Supplement, Menadione Sodium Bisulfite Complex (Vitamin K), Pyridoxine Hydrochloride (Vitamin B-6), Riboflavin Supplement (Vitamin B-2), Vitamin B-12 Supplement, Biotin (Vitamin B-7), Folic Acid (Vitamin B-9), Vitamin D-3 Supplement], Salt.",
       "calory_content": "1,222 kcal/kg, 190 kcal/can",
       "nutrition_analysis": "Crude Protein: 9.0% min | Crude Fat: 5.0% min | Crude Fiber: 1.0% max | Moisture: 78.0% max | Ash: 3.5% max | Taurine: 0.05% min",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 2
    }
 },
  {
@@ -3186,7 +3330,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 4
    }
 },
  {
@@ -3196,7 +3341,7 @@
       "url": "https://www.chewy.com/isle-dogs-violet-sea-mist-replascent/dp/119951",
       "name": "Isle of Dogs Violet + Sea Mist Replascent Odor Deodorizing Spray",
       "sku": 92315,
-      "gtin12": 879472000000,
+      "gtin12": 879000000000,
       "breadcrumb": "Dog>Cleaning & Potty>Deodorizers & Air Purifiers",
       "brand": "Isle of Dogs",
       "price": 9.34,
@@ -3208,7 +3353,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 4
    }
 },
  {
@@ -3230,7 +3376,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 2
    }
 },
  {
@@ -3252,7 +3399,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 4
    }
 },
  {
@@ -3262,7 +3410,7 @@
       "url": "https://www.chewy.com/ez-groom-ez-dry-iii-high-velocity-dog/dp/259458",
       "name": "EZ Groom EZ Dry III High Velocity Dog & Cat Dryer",
       "sku": 232951,
-      "gtin12": 633132000000,
+      "gtin12": 633000000000,
       "breadcrumb": "Dog>Grooming>Bath & Shower Supplies>Dryers",
       "brand": "EZ Groom",
       "price": 649.95,
@@ -3274,7 +3422,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 4
    }
 },
  {
@@ -3296,7 +3445,8 @@
       "ingredients": "Deboned Lamb, Lamb Broth, Beef Broth, Beef, Beef Liver, Dried Egg Whites, Sweet Potatoes, Carrots, Potato Starch, Peas, Guar Gum, Tricalcium Phosphate, Sunflower Oil, Sodium Phosphate, Salt, Potassium Chloride, Natural Flavor, Minerals (Zinc Amino Acid Chelate, Iron Amino Acid Chelate, Copper Amino Acid Chelate, Manganese Amino Acid Chelate, Sodium Selenite, Cobalt Amino Acid Chelate, Potassium Iodide), Vitamins (Vitamin E Supplement, Thiamine Mononitrate, Niacin Supplement, D-Calcium Pantothenate, Vitamin A Supplement, Riboflavin Supplement, Biotin, Vitamin B12 Supplement, Pyridoxine Hydrochloride (Vitamin B6), Vitamin D3 Supplement, Folic Acid), Choline Chloride, Xanthan Gum.",
       "calory_content": "1,137 kcal/kg, 113 kcal/cup",
       "nutrition_analysis": "Crude Protein: 8.0% min | Crude Fat: 3.5% min | Crude Fiber: 1.4% max | Moisture: 82.0% max",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 4
    }
 },
  {
@@ -3306,7 +3456,7 @@
       "url": "https://www.chewy.com/hugglehounds-huggle-mutts-lulu-mutt/dp/274790",
       "name": "HuggleHounds Huggle Mutts LuLu the Mutt Tough Squeaky Plush Dog Toy, Small",
       "sku": 248319,
-      "gtin12": 813168000000,
+      "gtin12": 813000000000,
       "breadcrumb": "Dog>Toys>Plush Toys>Stuffed Toys",
       "brand": "HuggleHounds",
       "price": 16.99,
@@ -3318,7 +3468,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 4
    }
 },
  {
@@ -3328,7 +3479,7 @@
       "url": "https://www.chewy.com/purebites-chicken-freeze-dried-topper/dp/639406",
       "name": "PureBites Chicken Freeze Dried Topper for Dogs",
       "sku": 639406,
-      "gtin12": 878968000000,
+      "gtin12": 879000000000,
       "breadcrumb": "Dog>Food>Premium Food>Freeze-Dried Food",
       "brand": "PureBites",
       "price": 7.99,
@@ -3340,7 +3491,8 @@
       "ingredients": "American Sourced human grade chicken, chicken liver, chicken heart, carrot, apple, flaxseed, inulin, dried kelp, potassium chloride, salt, mixed tocopherols (preservative), fish oil, zinc proteinate, iron proteinate, vitamin E supplement, copper proteinate, manganese proteinate, vitamin D3 supplement, rosemary extract.",
       "calory_content": "Metabolizable Energy: 4467 kcal/kg and 10 calories per nugget on average.",
       "nutrition_analysis": "Crude Protein: 51.5% min | Crude Fat: 29% min | Crude Fiber: 2% max | Moisture: 5% max",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 4
    }
 },
  {
@@ -3362,7 +3514,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 8
    }
 },
  {
@@ -3372,7 +3525,7 @@
       "url": "https://www.chewy.com/foggy-dog-onyx-waxed-canvas-dog-waste/dp/212636",
       "name": "The Foggy Dog Onyx Waxed Canvas Dog Waste Bag Holder",
       "sku": 185981,
-      "gtin12": 856437000000,
+      "gtin12": 856000000000,
       "breadcrumb": "Dog>Cleaning & Potty>Poop Bags & Scoopers>Poop Bag Holders",
       "brand": "The Foggy Dog",
       "price": 24,
@@ -3384,7 +3537,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 4
    }
 },
  {
@@ -3394,7 +3548,7 @@
       "url": "https://www.chewy.com/ware-chew-proof-small-animal-high/dp/261950",
       "name": "Ware Chew Proof Small Animal High Rise",
       "sku": 235456,
-      "gtin12": 791611000000,
+      "gtin12": 792000000000,
       "breadcrumb": "Small Pet>Shop by Small Pet>Hamster>Cages & Habitats>Playpens & Habitats",
       "brand": "Ware",
       "price": 49.99,
@@ -3406,7 +3560,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 9
    }
 },
  {
@@ -3416,7 +3571,7 @@
       "url": "https://www.chewy.com/frisco-pineapple-polyester-breakaway/dp/179933",
       "name": "Frisco Pineapple Polyester Breakaway Cat Collar with Bell",
       "sku": 153158,
-      "gtin12": 192268000000,
+      "gtin12": 192000000000,
       "breadcrumb": "Cat>Leashes, Collars & Harnesses>Collars",
       "brand": "Frisco",
       "price": 9.21,
@@ -3428,7 +3583,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 2
    }
 },
  {
@@ -3438,7 +3594,7 @@
       "url": "https://www.chewy.com/livelong-healthy-strong-duck-sweet/dp/261566",
       "name": "Livelong Healthy & Strong Duck & Sweet Potato Recipe Wet Dog Food, 12.8-oz can, case of 12",
       "sku": 235070,
-      "gtin12": 748252000000,
+      "gtin12": 748000000000,
       "breadcrumb": "Dog>Food>Wet Food>Adult",
       "brand": "Livelong Healthy & Strong",
       "price": 46.34,
@@ -3450,7 +3606,8 @@
       "ingredients": "Duck, Turkey, Duck and Turkey Broth, Chicken liver, Organic Sweet Potatoes, Organic Peas, Organic Carrots, Chicken Liver, Guar Gum, Vitamins (Vitamin E Supplement, Niacin Supplement, L-Ascorbyl-2- Polyphosphate (Source of Vitamin C), Thiamine Mononitrate (Source of Vitamin B1), Calcium Pantothenate, Vitamin A Supplement, Pyridoxine Hydrochloride (Source of Vitamin B6), Riboflavin Supplement (Source of Vitamin B2), Folic Acid, Vitamin B12 Supplement, Biotin, Vitamin D3 Supplement), Minerals (Zinc Sulfate, Iron Sulfate, Copper Sulfate, Manganese Sulfate, Selenium Yeast (inactive), Potassium Iodide).",
       "calory_content": "987 kcal/kg, 356 kcal/can",
       "nutrition_analysis": "Crude Protein: 8%  min | Crude Fat: 6% min | Crude Fiber: 1.5% max | Moisture: 78% max",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 4
    }
 },
  {
@@ -3460,7 +3617,7 @@
       "url": "https://www.chewy.com/pet-tinic-liquid-vitamin-mineral-dog/dp/190718",
       "name": "Pet-Tinic Liquid Vitamin-Mineral Dog & Cat Supplement",
       "sku": 164010,
-      "gtin12": 110600000000,
+      "gtin12": 111000000000,
       "breadcrumb": "Cat>Vitamins & Supplements",
       "brand": "Pet-Tinic",
       "price": 18.99,
@@ -3472,7 +3629,8 @@
       "ingredients": "Iron 12.5mg, Copper 0.2mg, Thiamine 2mg, Riboflavin 1mg, Niacin 10mg, Vitamin B6 1.0mg, Vitamin B 12 2.1mcg.",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 2
    }
 },
  {
@@ -3482,7 +3640,7 @@
       "url": "https://www.chewy.com/azithromycin-compounded-capsule-dogs/dp/374438",
       "name": "Azithromycin Compounded Capsule for Dogs & Cats",
       "sku": 348205,
-      "gtin12": 999889000000,
+      "gtin12": 1000000000000,
       "breadcrumb": "Pharmacy>Dog Pharmacy>Respiratory Care & Asthma",
       "brand": "Azithromycin Compounded",
       "price": 0.79,
@@ -3494,7 +3652,8 @@
       "ingredients": "Azithromycin",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 10
    }
 },
  {
@@ -3516,7 +3675,8 @@
       "ingredients": "Rabbit, Natural Flavor, Taurine, Organic Blueberry, Organic Barley Grass, Chia Seeds, Broccoli Sprouts, Carrots, Plums, Whey, Sea Salt, Dried Kelp, Yeast Extract, Citric Acid, Mixed Tocopherols, Rosemary Extract, Yeast Culture, Minerals (Potassium Chloride, Zinc Proteinate, Zinc Sulfate, Ferrous Sulfate, Iron Proteinate, Copper Sulfate, Copper Proteinate, Manganese Sulfate, Manganese Proteinate, Sodium Selenite, Calcium Iodate), Calcium Carbonate, Vitamins (Ascorbic Acid [Source of Vitamin C], Vitamin E Supplement, Niacin Supplement, Calcium Pantothenate, Vitamin A Supplement, Thiamine Mononitrate, Pyridoxine Hydrochloride, Riboflavin Supplement, Vitamin D3 Supplement, Biotin, Vitamin B12 Supplement, Folic Acid), Dried Bacillus Licheniformis Fermentation Product, Dried Aspergillus Oryzae Fermentation Product, Dried Aspergillus Niger Fermentation Product, Dried Enterococcus Faecium Fermentation Product, Dried Lactobacillus Casei Fermentation Product, Dried Lactobacillus Acidophilus Fermentation Product, Dried Bacillus Subtilis Fermentation Product, Dried Lactobacillus Plantarum Fermentation Product, Dried Lactobacillus Lactis Fermentation Product.",
       "calory_content": "",
       "nutrition_analysis": "Crude Protein: 48.0% min | Crude Fat: 21.0% min | Crude Fiber: 0.5% max | Moisture: 4.0% max | Taurine: 0.2% min",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 2
    }
 },
  {
@@ -3538,7 +3698,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 7
    }
 },
  {
@@ -3548,7 +3709,7 @@
       "url": "https://www.chewy.com/frisco-loofah-swing-bird-toy/dp/358025",
       "name": "Frisco Loofah Swing Bird Toy",
       "sku": 331771,
-      "gtin12": 192269000000,
+      "gtin12": 192000000000,
       "breadcrumb": "Bird>Shop by Bird>Cockatiel>Toys & Perches",
       "brand": "Frisco",
       "price": 6.91,
@@ -3560,7 +3721,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 6
    }
 },
  {
@@ -3582,7 +3744,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 4
    }
 },
  {
@@ -3592,7 +3755,7 @@
       "url": "https://www.chewy.com/oravet-plaque-prevention-dog-dental/dp/138439",
       "name": "OraVet Plaque Prevention Dog Dental Gel",
       "sku": 111085,
-      "gtin12": 813471000000,
+      "gtin12": 813000000000,
       "breadcrumb": "Dog>Healthcare>Dental Care>Brushless Teeth Cleaning",
       "brand": "OraVet",
       "price": 40.69,
@@ -3604,7 +3767,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 4
    }
 },
  {
@@ -3614,7 +3778,7 @@
       "url": "https://www.chewy.com/poopshark-leash-pouch-poopbag-holder/dp/641494",
       "name": "PoopShark Leash Pouch & Poopbag Holder Dog Poop Dispenser, Black",
       "sku": 641502,
-      "gtin12": 851097000000,
+      "gtin12": 851000000000,
       "breadcrumb": "Dog>Cleaning & Potty>Poop Bags & Scoopers>Poop Bag Holders",
       "brand": "PoopShark",
       "price": 16,
@@ -3626,7 +3790,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 4
    }
 },
  {
@@ -3648,7 +3813,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 7
    }
 },
  {
@@ -3658,7 +3824,7 @@
       "url": "https://www.chewy.com/go-pet-club-32-in-large-perch-cat/dp/243505",
       "name": "Go Pet Club 32-in Large Perch Cat Tree Condo",
       "sku": 216950,
-      "gtin12": 810602000000,
+      "gtin12": 811000000000,
       "breadcrumb": "Cat>Trees, Condos & Scratchers>Trees & Condos>Medium (31 - 59\")",
       "brand": "Go Pet Club",
       "price": 53.99,
@@ -3670,7 +3836,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 2
    }
 },
  {
@@ -3680,7 +3847,7 @@
       "url": "https://www.chewy.com/frisco-outdoor-waterproof-stinkproof/dp/283214",
       "name": "Frisco Outdoor Waterproof Stinkproof PVC Rope Leash",
       "sku": 256759,
-      "gtin12": 192268000000,
+      "gtin12": 192000000000,
       "breadcrumb": "Dog>Leashes, Collars & Harnesses>Leashes>Standard",
       "brand": "Frisco",
       "price": 13.3,
@@ -3692,7 +3859,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 4
    }
 },
  {
@@ -3714,7 +3882,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 8
    }
 },
  {
@@ -3724,7 +3893,7 @@
       "url": "https://www.chewy.com/frisco-stretchy-dog-cat-fleece-vest/dp/250858",
       "name": "Frisco Stretchy Dog & Cat Fleece Vest",
       "sku": 224329,
-      "gtin12": 192268000000,
+      "gtin12": 192000000000,
       "breadcrumb": "Cat>Clothing & Accessories",
       "brand": "Frisco",
       "price": 15.56,
@@ -3736,7 +3905,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 2
    }
 },
  {
@@ -3746,7 +3916,7 @@
       "url": "https://www.chewy.com/petrageous-designs-fishbone-kitty/dp/212750",
       "name": "PetRageous Designs Fishbone Kitty Ceramic Cat Dish",
       "sku": 186097,
-      "gtin12": 844534000000,
+      "gtin12": 845000000000,
       "breadcrumb": "Cat>Bowls & Feeders>Bowls & Dishes",
       "brand": "PetRageous Designs",
       "price": 7.99,
@@ -3758,7 +3928,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 2
    }
 },
  {
@@ -3768,7 +3939,7 @@
       "url": "https://www.chewy.com/gatsby-premium-1200d-heavyweight/dp/363851",
       "name": "Gatsby Premium 1200D Heavyweight Waterproof Turnout Horse Blanket",
       "sku": 337614,
-      "gtin12": 840152000000,
+      "gtin12": 840000000000,
       "breadcrumb": "Horse>Blankets>Turnouts",
       "brand": "Gatsby",
       "price": 87.99,
@@ -3780,7 +3951,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 8
    }
 },
  {
@@ -3790,7 +3962,7 @@
       "url": "https://www.chewy.com/quick-tag-coated-metal-personalized/dp/295543",
       "name": "Quick-Tag Personalized Dog & Cat ID Tag, Metallic Gold",
       "sku": 269115,
-      "gtin12": 736511000000,
+      "gtin12": 737000000000,
       "breadcrumb": "Cat>Leashes, Collars & Harnesses>ID Tags & Accessories",
       "brand": "Quick-Tag",
       "price": 17.99,
@@ -3802,7 +3974,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 2
    }
 },
  {
@@ -3812,7 +3985,7 @@
       "url": "https://www.chewy.com/suncoast-sugar-gliders-wholesome/dp/392742",
       "name": "SunCoast Sugar Gliders Wholesome Balance Sweet Potato Flavored Sugar Glider Food",
       "sku": 366527,
-      "gtin12": 769947000000,
+      "gtin12": 770000000000,
       "breadcrumb": "Small Pet>Food",
       "brand": "SunCoast Sugar Gliders",
       "price": 23.22,
@@ -3824,7 +3997,8 @@
       "ingredients": "Ingredients: Chicken Meal made from Human Grade Chickens, whole grain brown rice flour, whole grain barley flour, coconut oil, dried whole egg, oat groats, fish meal, flax meal, calcium carbonate, blood meal, animal plasma, dried kelp, Vitamin E supplement, salt, potassium chloride, Vitamin A acetate, D-activated animal sterol (source of Vitamin D3), DL-alpha tocopheryl acetate (source of Vitamin E), menadione sodium bisulphate complex (source of Vitamin K), Vitamin B12 supplement, calcium pantothenate, niacin supplement, riboflavin supplement, pyridoxine hydrochloride, thiamine mononitrate, biotin, folic acid, ferrous sulfate, zinc oxide, zinc sulfate, maganous oxide, sodium selenite, manganese sulfate, copper sulfate, calcium iodate, dried tomato pomace, yeast culture, monosodium phosphate, sodium sulfate, ferric sulfate, manesium oxide, cobalt sulfate, cane sugar, di-methionine, pyridoxine hydrochloride, ferrous fumarate, sea salt, l-lysine, lecithin, potassium iodide, beta carotene, zinc methionine complex, hydrochloric acid, yucca schidigera extract, algae meal, diatomaceous earth, cobalt choline citrate complex, ferric choline citrate complex, calcium pantothenate, copper choline citrate complex, magnesium amino acid chelate, zinc amino acid chelate, calcium amino acid chelate, iron amino acid chelate, manganese amino acid chelate, copper amino acid chelate, cobalt amino acid chelate, thiamine mononitrate, ferrous carbonate, amylase, cellulose, maltase, phytase, protease, lipase, mixed tocopherols, citric acid, ascorbic acid, lecithin, rosemary extract.",
       "calory_content": "",
       "nutrition_analysis": "Crude Protein: 32% min | Crude Fat: 12% min | Crude Fiber: 6% max | Moisture: 12% max",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 9
    }
 },
  {
@@ -3834,7 +4008,7 @@
       "url": "https://www.chewy.com/aquascape-pond-debris-clarifier-water/dp/391299",
       "name": "Aquascape Pond & Debris Clarifier Water Treatment",
       "sku": 365083,
-      "gtin12": 742576000000,
+      "gtin12": 743000000000,
       "breadcrumb": "Fish>Shop by Fish Type>Pond Shop",
       "brand": "Aquascape",
       "price": 7.73,
@@ -3846,7 +4020,8 @@
       "ingredients": "",
       "calory_content": "",
       "nutrition_analysis": "",
-      "feeding_instructions": ""
+      "feeding_instructions": "",
+      "category": 3
    }
 }
 ]

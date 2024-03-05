@@ -1,9 +1,10 @@
 from django.db import models
-import json
+from django.db.models.signals import post_save
+from django.dispatch import receiver
 
 class Category(models.Model):
     name = models.CharField(max_length=100)
-    parent = models.ForeignKey('self', on_delete=models.CASCADE, null=True, blank=True)
+    # parent = models.ForeignKey('self', on_delete=models.CASCADE, null=True, blank=True)
 
     def __str__(self):
         return self.name
@@ -26,7 +27,8 @@ class Product(models.Model):
     calory_content = models.CharField(max_length=100,null=True, blank=True)
     nutrition_analysis = models.TextField(null=True, blank=True)
     feeding_instructions = models.TextField(null=True, blank=True)
-    categories = models.ManyToManyField(Category)
+    category = models.ForeignKey('Category', null=True, blank=True, on_delete=models.SET_NULL)
+    
 
     def __str__(self):
         return self.name
