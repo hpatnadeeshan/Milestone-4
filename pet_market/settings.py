@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-x)ot&1cu28u_mzr&bt5mn-@+$a1y$0bwgs7f*eopi9$d-aomwm
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['pet-market-b5febc7e8269.herokuapp.com','localhost']
+ALLOWED_HOSTS = ['pet-market-b5febc7e8269.herokuapp.com','127.0.0.1']
 
 
 # Application definition
