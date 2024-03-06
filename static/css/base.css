@@ -92,7 +92,7 @@ body {
 
 
 .header-container .header-category-bar .dropdown-item:hover {
-    background-color: #e9ecef; /
+    background-color: #e9ecef; 
 }
 
 
@@ -156,5 +156,48 @@ body {
     .paddingx-8 {
         padding-left: 6px;
         padding-right: 6px;
+    }
+}
+
+
+/* Product Card */
+
+.card {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.card img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+
+.card .card-body {
+    padding: 10px 0;
+}
+
+.card .card-footer {
+    padding: 10px 0;
+}
+
+.card .card-footer small {
+    font-size: 12px;
+}
+
+.card .card-footer .lead {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.card .card-footer .text-muted {
+    color: #999;
+}
+
+@media (max-width: 576px) {
+    .card {
+        width: 100%;
     }
 }

@@ -23,6 +23,7 @@ class Product(models.Model):
     description = models.TextField()
     availability = models.CharField(max_length=50)
     image_url = models.TextField(null=True, blank=True)
+    image_url_first= models.URLField(null=True, blank=True)
     image = models.ImageField(null=True, blank=True)
     average_rating = models.FloatField(null=True, blank=True)
     reviews_count = models.IntegerField(null=True, blank=True)
@@ -31,6 +32,19 @@ class Product(models.Model):
     nutrition_analysis = models.TextField(null=True, blank=True)
     feeding_instructions = models.TextField(null=True, blank=True)
     category = models.ForeignKey('Category', null=True, blank=True, on_delete=models.SET_NULL)
+
+    def save(self, *args, **kwargs):
+        
+        image_urls = self.image_url.strip('[]').replace("'", "").split(', ')
+        if image_urls:
+            self.image_url_first=image_urls[0]
+            super().save(*args, **kwargs)
+        else:
+            super().delete()
+
+    # def display_image_urls(self, obj):
+    #     image_urls = obj.image_url.strip('[]').replace("'", "").split(', ')
+    #     return mark_safe('<br>'.join(['<a href="{0}">{0}</a>'.format(url) for url in image_urls]))
     
 
     def __str__(self):
