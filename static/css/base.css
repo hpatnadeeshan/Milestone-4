@@ -55,10 +55,6 @@ body {
         left: 0;
         z-index: 1030;
     }
-
-    .home-header-container {
-        /* padding-top: 164px; */
-    }
 }
 
 /* category-bar  */
@@ -162,20 +158,20 @@ body {
 
 /* Product Card */
 
-.card {
+.product-container .card {
     border: 1px solid #ccc;
     border-radius: 5px;
     padding: 10px;
     margin-bottom: 20px;
 }
 
-.card img {
+.product-container .card img {
     max-width: 100%;
     height: auto;
     border-radius: 5px;
 }
 
-.card .card-body {
+.product-container .card .card-body {
     padding: 10px 0;
 }
 

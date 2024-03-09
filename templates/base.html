@@ -68,21 +68,23 @@
 						<a class="nav-link" href="#">Contact <i class="fas fa-envelope"></i></a>
 					</li>
 					<li class="nav-item dropdown">
-						<a class="nav-link dropdown-toggle" href="#" id="user-options" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">My Account<i class="fas fa-user fa-lg"></i></a>
+						<a class="nav-link dropdown-toggle" href="#" id="user-options" role="button"
+							data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">My Account<i
+								class="fas fa-user fa-lg"></i></a>
 						<div class="dropdown-menu border-0" aria-labelledby="user-options">
 							{% if request.user.is_authenticated %}
-								{% if request.user.is_superuser %}
-									<a href="" class="dropdown-item">Product Management</a>
-								{% endif %}
-								<a href="" class="dropdown-item">My Profile</a>
-								<a href="{% url 'account_logout' %}" class="dropdown-item">Logout</a>
+							{% if request.user.is_superuser %}
+							<a href="" class="dropdown-item">Product Management</a>
+							{% endif %}
+							<a href="" class="dropdown-item">My Profile</a>
+							<a href="{% url 'account_logout' %}" class="dropdown-item">Logout</a>
 							{% else %}
-								<a href="{% url 'account_signup' %}" class="dropdown-item">Signup</a>
-								<a href="{% url 'account_login' %}" class="dropdown-item">Login</a>
+							<a href="{% url 'account_signup' %}" class="dropdown-item">Signup</a>
+							<a href="{% url 'account_login' %}" class="dropdown-item">Login</a>
 							{% endif %}
 						</div>
 					</li>
-					
+
 					<li class="nav-item">
 						<a class="nav-link" href="#"><i class="fas fa-shopping-cart"></i></a>
 					</li>
@@ -93,20 +95,19 @@
 			{% include 'includes/mobile-header.html' %}
 			{% include 'includes/category-nav.html' %}
 		</div>
-		
 	</div>
+    {% block background_container %}
+    {% endblock %}
 
-	<div class="background-container">
-		{% if messages %}
-		<div class="message-container"></div>
-		{% endif %}
+	{% if messages %}
+	<div class="message-container"></div>
+	{% endif %}
 
-		{% block page_header %}
-		{% endblock %}
+	{% block page_header %}
+	{% endblock %}
 
-		{% block content %}
-		{% endblock %}
-	</div>
+	{% block content %}
+	{% endblock %}
 
 	<footer class="footer">
 		<div class="container">
@@ -140,12 +141,8 @@
 			</div>
 		</div>
 	</footer>
-	
-	
-	
 	{% block postloadjs %}
 	{% endblock %}
-
 </body>
 
 </html>

@@ -27,7 +27,7 @@
                             <div class="card h-100 border-0">
                                 {% if product.image_url_first %}
                                 <!-- <h1>helloooooooooooo</h1> -->
-                                    <a href="">
+                                    <a href="{% url 'product_detail' product.id %}">
                                         <img class="card-img-top img-fluid" src="{{ product.image_url_first }}" alt="{{ product.image_url_first }}">
                                     </a>
                                 {% else %}
@@ -52,6 +52,21 @@
                         </div>
                         {% if forloop.counter|divisibleby:4 %}
                             <div class="col-12 d-sm-none mb-5"></div>
+                        {% endif %}
+                        {% if forloop.counter|divisibleby:2 %}
+                            <div class="col-12 d-none d-sm-block d-md-block d-lg-none mb-5">
+                                <hr>
+                            </div>
+                        {% endif %}
+                        {% if forloop.counter|divisibleby:3 %}
+                            <div class="col-12 d-none d-lg-block d-xl-none mb-5">
+                                <hr>
+                            </div>
+                        {% endif %}
+                        {% if forloop.counter|divisibleby:4 %}
+                            <div class="col-12 d-none d-xl-block mb-5">
+                                <hr>
+                            </div>
                         {% endif %}
                     {% endfor %}
                 </div>
