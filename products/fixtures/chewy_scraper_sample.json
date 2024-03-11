@@ -65,7 +65,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 2
+      "category": 3
    }
 },
  {
@@ -88,7 +88,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 3
+      "category": 4
    }
 },
  {
@@ -111,7 +111,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 4
+      "category": 5
    }
 },
  {
@@ -134,7 +134,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 2
+      "category": 6
    }
 },
  {
@@ -157,7 +157,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 4
+      "category": 7
    }
 },
  {
@@ -180,7 +180,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 3
+      "category": 8
    }
 },
  {
@@ -203,7 +203,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 5
+      "category": 9
    }
 },
  {
@@ -226,7 +226,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 2
+      "category": 10
    }
 },
  {
@@ -249,7 +249,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 4
+      "category": 11
    }
 },
  {
@@ -272,7 +272,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 3
+      "category": 12
    }
 },
  {
@@ -295,7 +295,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 4
+      "category": 7
    }
 },
  {
@@ -318,7 +318,7 @@
       "calory_content": "",
       "nutrition_analysis": "Crude Protein: 20.50% min | Crude Fat: 4.00% min | Crude Fiber: 5.60% max | Lysine: 1.00% min | Methionine: 0.40% min | Ash: 8.50% max | Calcium: 0.90% min | Calcium: 1.35% max | Phosphorous: 0.60% min | Salt: 0.25% min | Salt: 0.75% max | Omega 3 Fatty Acids: 1.00% min",
       "feeding_instructions": "",
-      "category": 1
+      "category": 13
    }
 },
  {
@@ -341,7 +341,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 2
+      "category": 14
    }
 },
  {
@@ -364,7 +364,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 1
+      "category": 15
    }
 },
  {
@@ -387,7 +387,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 4
+      "category": 16
    }
 },
  {
@@ -410,7 +410,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 4
+      "category": 17
    }
 },
  {
@@ -433,7 +433,7 @@
       "calory_content": "",
       "nutrition_analysis": "Crude Protein: 5.0% min | Crude Fat: 4.0% min | Crude Fiber: 5.0% max | Moisture: 25.0% max",
       "feeding_instructions": "",
-      "category": 2
+      "category": 18
    }
 },
  {
@@ -456,7 +456,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 5
+      "category": 9
    }
 },
  {
@@ -479,7 +479,7 @@
       "calory_content": "838 kcal/kg, 71 kcal/can",
       "nutrition_analysis": "Crude Protein: 9.0% min | Crude Fat: 2.0% min | Crude Fiber: 2.0% max | Moisture: 82.0% max",
       "feeding_instructions": "",
-      "category": 4
+      "category": 19
    }
 },
  {
@@ -502,7 +502,7 @@
       "calory_content": "",
       "nutrition_analysis": "Crude Protein: 14% min | Crude Fat: 7% min | Crude Fiber: 10% max | Calcium: 1% max | Moisture: 12% max | Calcium: 0.5% min | Phosphorus: 0.3% min | Vitamin A: 9,000 IU/kg | Vitamin D3: 900 IU/kg | Omega Fatty Acids: 0.4% min | Vitamin E: 65 mg/kg",
       "feeding_instructions": "",
-      "category": 6
+      "category": 20
    }
 },
  {
@@ -525,7 +525,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 7
+      "category": 21
    }
 },
  {
@@ -548,7 +548,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 4
+      "category": 22
    }
 },
  {
@@ -571,7 +571,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 4
+      "category": 23
    }
 },
  {
@@ -594,7 +594,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 2
+      "category": 14
    }
 },
  {
@@ -617,7 +617,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 2
+      "category": 24
    }
 },
  {
@@ -640,7 +640,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 8
+      "category": 25
    }
 },
  {
@@ -663,7 +663,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 3
+      "category": 26
    }
 },
  {
@@ -686,7 +686,7 @@
       "calory_content": "1,104 kcal/kg, 172 kcal/can",
       "nutrition_analysis": "Crude Protein: 10.0% min | Crude Fat: 5.0% min | Crude Fiber: 1.0% max | Moisture: 78.0% max | Ash: 3.5% max | Taurine: 0.05% min",
       "feeding_instructions": "",
-      "category": 2
+      "category": 24
    }
 },
  {
@@ -709,7 +709,7 @@
       "calory_content": "950 kcal/kg, 27 kcal/oz",
       "nutrition_analysis": "Crude Protein: 10.0% min | Crude Fat: 6.0% min | Crude Fiber: 0.5% max | Moisture: 78.0% max | Ash: 2.5% max | Potassium: 0.2% min | Magnesium: 0.024% max | Taurine: 0.05% min",
       "feeding_instructions": "",
-      "category": 2
+      "category": 24
    }
 },
  {
@@ -732,7 +732,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 4
+      "category": 27
    }
 },
  {
@@ -755,7 +755,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 4
+      "category": 16
    }
 },
  {
@@ -778,7 +778,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 8
+      "category": 28
    }
 },
  {
@@ -801,7 +801,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 4
+      "category": 11
    }
 },
  {
@@ -824,7 +824,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 9
+      "category": 29
    }
 },
  {
@@ -847,7 +847,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 8
+      "category": 28
    }
 },
  {
@@ -870,7 +870,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 9
+      "category": 30
    }
 },
  {
@@ -893,7 +893,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 4
+      "category": 11
    }
 },
  {
@@ -916,7 +916,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 2
+      "category": 31
    }
 },
  {
@@ -939,7 +939,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 8
+      "category": 32
    }
 },
  {
@@ -962,7 +962,7 @@
       "calory_content": "370 kcal/cup",
       "nutrition_analysis": "Crude Protein: 19.5% min | Crude Fat: 12.5% min | Crude Fiber: 3.0% max | Vitamin E: 400 IU/kg min | Ascorbic Acid (Vitamin C): 85 mg/kg min | Omega-6 Fatty Acids: 2.0% min",
       "feeding_instructions": "5 lb: 1/2 | 10 lb: 1 | 20 lb: 1 1/2 | 30 lb: 2 1/4 | 40 lb: 2 2/3 | 50 lb: 3 1/4 | 60 lb: 3 2/3 | 80 lb: 4 1/2 | 100 lb: 5 1/4 | 120 lb: 6",
-      "category": 4
+      "category": 19
    }
 },
  {
@@ -985,7 +985,7 @@
       "calory_content": "3,352 kcal/kg or 355 kcal/cup ME (metabolizable energy).",
       "nutrition_analysis": "Crude Protein: 24.0% min | Crude Fat: 6.0% min | Crude Fat: 9.0% max | Crude Fiber: 4.0% max | Moisture: 10.0% max | Calcium: 1.5% min | Phosphorus: 1.0% min | Vitamin E: 120 IU/kg min | Omega-6 Fatty Acids: 1.4% min | Omega-3 Fatty Acids: 0.35% min | LacticAcid Microorganisms: 70,000,000 CFU/lb | Glucosamine: 700 mg/kg min",
       "feeding_instructions": "5 – 10 lbs: 1/2 – 1 | 10 – 20 lbs: 1 – 1 1/2 | 30 – 40 lbs: 2 – 2 1/2 | 50 – 60 lbs: 3 – 3 1/3 | 70 – 80 lbs: 3 3/4 – 4 1/3 | 80 – 100 lbs: 4 1/3 – 5",
-      "category": 4
+      "category": 19
    }
 },
  {
@@ -1008,7 +1008,7 @@
       "calory_content": "381 Kcal/Cup",
       "nutrition_analysis": "Crude Protein: 18.7% min | Crude Fat: 13.7% min | Crude Fiber: 2.4% max | Moisture: 10.0% max | Vitamin E: 500 IU/kg min | Vitamin C: 85 mg/kg min | Total Omega-6 Fatty Acids: 1.50% min",
       "feeding_instructions": "5: 1/2 | 10: 3/4 | 20: 1 1/3 | 30: 1 3/4 | 40: 2 1/4 | 50: 2 2/3 | 60: 3 | 80: 3 3/4 | 100: 4 1/2 | 120: 5 1/4",
-      "category": 4
+      "category": 19
    }
 },
  {
@@ -1031,7 +1031,7 @@
       "calory_content": "2,900 Kcal/kg",
       "nutrition_analysis": "Crude Protein: 82.0% min | Crude Fat: 2.0% min | Moisture: 10.0% max",
       "feeding_instructions": "",
-      "category": 4
+      "category": 22
    }
 },
  {
@@ -1054,7 +1054,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 4
+      "category": 33
    }
 },
  {
@@ -1077,7 +1077,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 9
+      "category": 34
    }
 },
  {
@@ -1100,7 +1100,7 @@
       "calory_content": "3475 kcal/kg Calculated (ME) 18 kcal/piece",
       "nutrition_analysis": "Crude Protein: 17%  min | Crude Fat: 17% min | Crude Fiber: 9% max | Moisture: 12% max",
       "feeding_instructions": "",
-      "category": 4
+      "category": 22
    }
 },
  {
@@ -1123,7 +1123,7 @@
       "calory_content": "3,672 Kcals/kg, 419 Kcals/cup",
       "nutrition_analysis": "Crude Protein: 34.0% min | Crude Fat: 15.0% min | Crude Fiber: 6.0% max | Moisture: 10.0% max | Calcium: 1.4% min | Phosphorus: 0.9% min | Omega 3 Fatty Acids*: 0.5% min | Omega 6 Fatty Acids*: 3.0% min | Glucosamine*: 400 mg/kg min",
       "feeding_instructions": "Up to 15 lbs: ¼ – 1 cup* | 16 to 25 lbs: 1 – 1 ½ cups* | 26 to 40 lbs: 1 ½ – 2 ¼ cups* | 41 to 60 lbs: 2 ¼ – 3¼ cups* | 61 to 80 lbs: 3¼ – 4 cups* | 81 to 100 lbs: 4 – 4 ½ cups* | Over 100 lbs: Feed 4 ½ cups + ½ cup for each additional 20 lbs",
-      "category": 4
+      "category": 19
    }
 },
  {
@@ -1146,7 +1146,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 2
+      "category": 10
    }
 },
  {
@@ -1169,7 +1169,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 10
+      "category": 35
    }
 },
  {
@@ -1192,7 +1192,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 4
+      "category": 36
    }
 },
  {
@@ -1215,7 +1215,7 @@
       "calory_content": "",
       "nutrition_analysis": "Crude Fat (min): 99.5% | Moisture (max): 0.5% | EPA (min): 8.0% | DHA (min): 7.0% | Omega 3 Fatty Acids* (min): 2,835 mg | Omega 6 Fatty Acids* (min): 243 mg",
       "feeding_instructions": "up to 10 lbs: 1/2 Daily | 11 - 20 lbs: 1 1/2 Daily | over 20 lbs: 2 Daily",
-      "category": 2
+      "category": 37
    }
 },
  {
@@ -1238,7 +1238,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 8
+      "category": 25
    }
 },
  {
@@ -1261,7 +1261,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 2
+      "category": 38
    }
 },
  {
@@ -1284,7 +1284,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 8
+      "category": 39
    }
 },
  {
@@ -1307,7 +1307,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 2
+      "category": 40
    }
 },
  {
@@ -1330,7 +1330,7 @@
       "calory_content": "3,150 kcal/kg or 77 kcal/treat",
       "nutrition_analysis": "Crude Protein: 14.0% min | Crude Fat: 1.0% min | Crude Fiber: 2.0% max | Moisture: 16.0% max | Docosahexaenoic Acid (DHA): 0.05% min",
       "feeding_instructions": "",
-      "category": 4
+      "category": 22
    }
 },
  {
@@ -1353,7 +1353,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 4
+      "category": 11
    }
 },
  {
@@ -1376,7 +1376,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 4
+      "category": 11
    }
 },
  {
@@ -1399,7 +1399,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 2
+      "category": 38
    }
 },
  {
@@ -1422,7 +1422,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 1
+      "category": 13
    }
 },
  {
@@ -1445,7 +1445,7 @@
       "calory_content": "3,750 kcal/kg, 41 kcal/biscuit",
       "nutrition_analysis": "Crude Protein: 30.0% min | Crude Fat: 15.0% min | Crude Fiber: 3.5% max | Moisture: 11.0% max | Omega-3 Fatty Acids: 0.6% min | Omega-6 Fatty Acids: 0.9% min",
       "feeding_instructions": "",
-      "category": 4
+      "category": 22
    }
 },
  {
@@ -1468,7 +1468,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 4
+      "category": 11
    }
 },
  {
@@ -1491,7 +1491,7 @@
       "calory_content": "",
       "nutrition_analysis": "L-Lysine (Monohydrochloride): 400 mg | Calcium Ascorbate (Vitamin C)): 100 mg",
       "feeding_instructions": "Up to 10 lbs: 1 | 11+ lbs: 2",
-      "category": 2
+      "category": 37
    }
 },
  {
@@ -1514,7 +1514,7 @@
       "calory_content": "3,420 kcal/kg, 23 kcal/per inch of treat",
       "nutrition_analysis": "Crude Protein: 50.0% min | Crude Fat: 8.0% min | Crude Fiber: 2.0% max | Moisture: 12.0% max",
       "feeding_instructions": "15 - 30 lbs: 1 | 31 - 50 lbs: 1 - 2 | 51 + lbs: 2 - 3",
-      "category": 4
+      "category": 22
    }
 },
  {
@@ -1537,7 +1537,7 @@
       "calory_content": "",
       "nutrition_analysis": "Crude Protein: 14.0% min | Crude Fat: 2.0% min | Crude Fiber: 5.0% max | Moisture: 6.0% max | Ash: 4% max",
       "feeding_instructions": "",
-      "category": 4
+      "category": 22
    }
 },
  {
@@ -1560,7 +1560,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 4
+      "category": 11
    }
 },
  {
@@ -1583,7 +1583,7 @@
       "calory_content": "450 calories per 100 grams",
       "nutrition_analysis": "Crude Protein: 44%  min | Crude Fat: 28 % min | Crude Fiber: 0.5% max | Moisture: 4% max",
       "feeding_instructions": "Dog 3 lbs: 1/4 | Dog 5 lbs: 1/4-3/4 | Dog 10 lbs: 1/3-1/2 | Dog 20 lbs: 1/2-3/4 | Dog 40  lbs: 3/4-1 | Dog 60 lbs: 1 | Dog 80 lbs: 1 1/4-1 1/2 | Cat 5 lbs: 1/4-1/3 | Cat 10 lbs: 1/4-3/3 | Cat 15 lbs: 1/2 | Cat 20 lbs: 1/2-3/4",
-      "category": 4
+      "category": 19
    }
 },
  {
@@ -1606,7 +1606,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 4
+      "category": 22
    }
 },
  {
@@ -1629,7 +1629,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 2
+      "category": 14
    }
 },
  {
@@ -1652,7 +1652,7 @@
       "calory_content": "3,657 kcal/kg, 369 kcal/cup",
       "nutrition_analysis": "Crude Protein: 32.0% min | Crude Fat: 16.0% min | Crude Fiber: 4.0% max | Moisture: 10.0% max | Ash: 8.5% max | Phosphorus: 0.8% min | Magnesium: 0.1% max | Taurine: 2,790 mg/kg min | Omega-6 Fatty Acids: 3.0% min | Omega-3 Fatty Acids: 1.0% min",
       "feeding_instructions": "2 - 12 lbs: 1/2 - 1 1/4 | 13 - 22 lbs: 1 1/4 - 1 3/4 | 23 - 33 lbs: 1 3/4 - 2 1/4 | 34 - 55 lbs: 2 1/4 - 3 1/4 | 56 - 90 lbs: 3 1/4 - 4 1/2 | 91 - 110 lbs: 4 1/2 - 5 | 111 - 130 lbs: 5 - 5 1/2 | 131 - 155 lbs: 5 1/2 - 6 1/4",
-      "category": 4
+      "category": 19
    }
 },
  {
@@ -1675,7 +1675,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 3
+      "category": 41
    }
 },
  {
@@ -1698,7 +1698,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 8
+      "category": 42
    }
 },
  {
@@ -1721,7 +1721,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 10
+      "category": 43
    }
 },
  {
@@ -1744,7 +1744,7 @@
       "calory_content": "",
       "nutrition_analysis": "Crude Protein: 16.0% min | Crude Fat: 33.5% min | Crude Fiber: 16.0% max | Moisture: 12.0% max",
       "feeding_instructions": "",
-      "category": 6
+      "category": 44
    }
 },
  {
@@ -1767,7 +1767,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 4
+      "category": 45
    }
 },
  {
@@ -1790,7 +1790,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 8
+      "category": 25
    }
 },
  {
@@ -1813,7 +1813,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 4
+      "category": 23
    }
 },
  {
@@ -1836,7 +1836,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 4
+      "category": 16
    }
 },
  {
@@ -1859,7 +1859,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 4
+      "category": 19
    }
 },
  {
@@ -1882,7 +1882,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 9
+      "category": 46
    }
 },
  {
@@ -1905,7 +1905,7 @@
       "calory_content": "3,581 kcal/kg or 352 kcal/cup",
       "nutrition_analysis": "Crude Protein: 27% min | Crude Fat: 17% min | Crude Fiber: 6% max | Moisture: 10% max | Calcium: 1.2% min | Phosphorus: 1% min | Zinc: 120 mg/kg min | Selenium: 0.5 mg/kg min | Vitamin E: 200 IU/kg min | Omega-6 Fatty Acids: 2.6 % min | Omega-3 Fatty Acids: 1.3 % min | Taurine: 0.08% min | Glucosamine: 300 mg/kg min | Chondroitin Sulfate: 400 mg/kg min | L-Carnitine: 100 mg/kg min",
       "feeding_instructions": "3 lbs: 1/3 | 6 lbs: 1/2 | 10 lbs: 3/4 | 15 lbs: 1 | 20 lbs: 1 1/4 | 25 lbs: 1 1/2 | 30 lbs: 2",
-      "category": 4
+      "category": 19
    }
 },
  {
@@ -1928,7 +1928,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 2
+      "category": 3
    }
 },
  {
@@ -1951,7 +1951,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 2
+      "category": 47
    }
 },
  {
@@ -1974,7 +1974,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 6
+      "category": 48
    }
 },
  {
@@ -1997,7 +1997,7 @@
       "calory_content": "3496 kcal/kg, 372 kcal/8oz cup",
       "nutrition_analysis": "Crude Protein: 24.0% min | Crude Fat: 12.0% min | Crude Fiber: 4.0% max | Moisture: 9.0% max | Linoleic Acid (Omega-6): 2.0% min | Linoleic Acid (Omega-3): 0.4% | Zinc: 150 mg/kg min | Selenium: 0.35 mg/kg min | Vitamin E: 150 IU/kg min | L-Carnitine: 80mg/kg min",
       "feeding_instructions": "5 lbs: 1/2 | 10 lbs: 1 | 15 lbs: 1 1/3 | 20 lbs: 1 2/4 | 30 lbs: 2 1/4 | 40 lbs: 2 2/3 | 60 lbs: 3 2/3 | 80 lbs: 4 1/2 | 100 lbs: 5 1/2",
-      "category": 4
+      "category": 19
    }
 },
  {
@@ -2020,7 +2020,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 4
+      "category": 36
    }
 },
  {
@@ -2043,7 +2043,7 @@
       "calory_content": "2780 kcal/kg , 292 kcal/treat",
       "nutrition_analysis": "Crude Protein: 20.0% min | Crude Fat: 1.0% min | Crude Fiber: 2.0% max | Moisture: 16.0% max",
       "feeding_instructions": "",
-      "category": 4
+      "category": 22
    }
 },
  {
@@ -2066,7 +2066,7 @@
       "calory_content": "744 kcal/kg 58 kcal/can",
       "nutrition_analysis": "Crude Protein: 10.0% min | Crude Fat: 1.5% min | Crude Fiber: 1.0% max | Moisture: 84.0% max | Ash: 3.5% max",
       "feeding_instructions": "4-8 lbs: 2-4 | 9-15 lbs: 4-6",
-      "category": 2
+      "category": 24
    }
 },
  {
@@ -2089,7 +2089,7 @@
       "calory_content": "",
       "nutrition_analysis": "Glucosamine (Shellfish): 300 mg | Green Lipped Mussel: 300 mg | OptiMSM: 200 mg | Chondroitin (Porcine): 100 mg",
       "feeding_instructions": "Up to 25 lbs: 2 squares | 26 - 50 lbs: 3 squares | Over 50 lbs: 4 squares",
-      "category": 4
+      "category": 27
    }
 },
  {
@@ -2112,7 +2112,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 4
+      "category": 23
    }
 },
  {
@@ -2135,7 +2135,7 @@
       "calory_content": "1,009.6 kcal ME/kg, 86 kcal ME/pouch",
       "nutrition_analysis": "Crude Protein: 10.0% min | Crude Fat: 3.0% min | Crude Fiber: 0.5% max | Moisture: 84% max | Ash: 3.0% max | Omega 3 Fatty Acids*: 0.04% min | Omega 6 Fatty Acids*: 0.24% min",
       "feeding_instructions": "",
-      "category": 2
+      "category": 24
    }
 },
  {
@@ -2158,7 +2158,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 6
+      "category": 49
    }
 },
  {
@@ -2181,7 +2181,7 @@
       "calory_content": "",
       "nutrition_analysis": "Crude Protein: 14.0% min | Crude Fat: 4.0% min | Crude Fiber: 5.0% max | Moisture: 10.0% max | Lysine: 0.8% min | Methionine: 0.4% min | Phosphorus: 0.4% min | Potassium: 0.5% min | Vitamin D: 500 IU/kg min | Vitamin E: 60 IU/kg min",
       "feeding_instructions": "",
-      "category": 6
+      "category": 50
    }
 },
  {
@@ -2204,7 +2204,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 9
+      "category": 51
    }
 },
  {
@@ -2227,7 +2227,7 @@
       "calory_content": "",
       "nutrition_analysis": "Proprietary Herb Blend (Licorice Root, Grape Seed Extract, Marshmallow Root): 9,000 mg | L-Glutamine: 2,500 mg | L-Threonine: 1,250 mg | Zinc: 50 mg",
       "feeding_instructions": "",
-      "category": 8
+      "category": 25
    }
 },
  {
@@ -2250,7 +2250,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 1
+      "category": 13
    }
 },
  {
@@ -2273,7 +2273,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 4
+      "category": 33
    }
 },
  {
@@ -2296,7 +2296,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 2
+      "category": 31
    }
 },
  {
@@ -2319,7 +2319,7 @@
       "calory_content": "",
       "nutrition_analysis": "Glucosamine HCl: 500 mg | Methylsulfonylmethane (MSM): 500mg",
       "feeding_instructions": "Under 15 lbs: 1/2 chew | 16 - 30 lbs: 1 chew | 31 - 60 lbs: 2 chews | 61 - 100 lbs: 3 chews",
-      "category": 4
+      "category": 27
    }
 },
  {
@@ -2342,7 +2342,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 7
+      "category": 52
    }
 },
  {
@@ -2365,7 +2365,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 3
+      "category": 12
    }
 },
  {
@@ -2388,7 +2388,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 2
+      "category": 14
    }
 },
  {
@@ -2411,7 +2411,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 2
+      "category": 47
    }
 },
  {
@@ -2434,7 +2434,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "1-12 lbs: 1 | 13-25 lbs: 1, twice | 26-50 lbs: 2, twice | 51-75 lbs: 3, twice | 76+ lbs: 4, twice",
-      "category": 4
+      "category": 36
    }
 },
  {
@@ -2457,7 +2457,7 @@
       "calory_content": "119 kcal/can, 17 kcal/2 oz",
       "nutrition_analysis": "Crude Protein: 1.0% min | Crude Fat: 0.03.0% min | Crude Fat: 0.50% max | Crude Fiber: 4.0% max | Moisture: 89.1% max",
       "feeding_instructions": "",
-      "category": 2
+      "category": 37
    }
 },
  {
@@ -2480,7 +2480,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 4
+      "category": 19
    }
 },
  {
@@ -2503,7 +2503,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 4
+      "category": 16
    }
 },
  {
@@ -2526,7 +2526,7 @@
       "calory_content": "Calorie Content ME (calculated):  2678 kcal/kg       8 kcal/treat",
       "nutrition_analysis": "Crude Protein: 58%  min | Crude Fat: 9 % min | Crude Fiber: 2 % max | Moisture: 8 % max",
       "feeding_instructions": "",
-      "category": 2
+      "category": 18
    }
 },
  {
@@ -2549,7 +2549,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 8
+      "category": 25
    }
 },
  {
@@ -2572,7 +2572,7 @@
       "calory_content": "3,420 kcal/kg or 375 kcal/cup",
       "nutrition_analysis": "Crude Protein: 30.0% min | Crude Fat: 10.0% min | Crude Fiber: 6.0% min | Moisture: 12.0% max | Linoleic Acid: 0.60% min | Arachidonic Acid (ARA): 0.02% min | Calcium: 1.0% min | Phosphorus: 0.85% min | Vitamin A: 10,000 IU/kg | Vitamin E: 150 IU/kg | Taurine: 0.12% min | Omega-6 Fatty Acids: 0.2% min | Omega-3 Fatty Acids: 0.1% min",
       "feeding_instructions": "3 lbs: 1/3 | 5 lbs: 1/2 | 10  lbs: 3/4 | 15 lbs: 1",
-      "category": 2
+      "category": 24
    }
 },
  {
@@ -2595,7 +2595,7 @@
       "calory_content": "",
       "nutrition_analysis": "Crude Protein: 18.00% min | Crude Fat: 9.00% min | Crude Fiber: 4.80% max | Moisture: 12.00% max",
       "feeding_instructions": "",
-      "category": 9
+      "category": 53
    }
 },
  {
@@ -2618,7 +2618,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 3
+      "category": 8
    }
 },
  {
@@ -2641,7 +2641,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 8
+      "category": 54
    }
 },
  {
@@ -2664,7 +2664,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 4
+      "category": 23
    }
 },
  {
@@ -2687,7 +2687,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 3
+      "category": 8
    }
 },
  {
@@ -2710,7 +2710,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 4
+      "category": 19
    }
 },
  {
@@ -2733,7 +2733,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 2
+      "category": 40
    }
 },
  {
@@ -2756,7 +2756,7 @@
       "calory_content": "941 kcal/kg",
       "nutrition_analysis": "Crude Protein: 8.0% min | Crude Fat: 5.0% min | Crude Fiber: 1.0% max | Moisture: 78.0% max | Omega-6 Fatty Acids: 0.40% min | Omega-3 Fatty Acids: 0.20% min",
       "feeding_instructions": "5 lbs: 3/4 | 10 lbs: 1 1/4 cans | 20 lbs: 2 cans | 30 lbs: 2 3/4 cans | 40 lbs: 3 1/2 cans | 60 lbs: 4 3/4 cans | 80 lbs: 5 3/4 cans | 100 lbs: 7 cans",
-      "category": 4
+      "category": 19
    }
 },
  {
@@ -2779,7 +2779,7 @@
       "calory_content": "3057 kcal/kg; 8.3 kcal/treat",
       "nutrition_analysis": "Crude Protein: 25.0 % min | Crude Fat: 10.0 % min | Crude Fiber: 2.0 % max | Moisture: 30.0 % max",
       "feeding_instructions": "",
-      "category": 4
+      "category": 22
    }
 },
  {
@@ -2802,7 +2802,7 @@
       "calory_content": "2,580 kcal/kg, 30 kcal/piece",
       "nutrition_analysis": "Crude Protein: 12.0% min | Crude Fat: 1.0% min | Crude Fiber: 8.0% max | Moisture: 18.0% max | Calcium: 1.0% min | Iron: 35 mg/kg min | Copper: 7 mg/kg min | Manganese: 4.5 mg/kg min | Zinc: 70 mg/kg min | Iodine: 0.9 mg/kg min | Vitamin D: 435 IU/kg min | Vitamin E: 45 IU/kg min | Pantothenic Acid: 11 mg/kg min | Niacin: 12 mg/kg min | Folic Acid: 0.2 mg/kg min | Vitamin B12: 0.03 mg/kg min",
       "feeding_instructions": "Mini: 5 - 24 lbs | Small/Medium: 25 - 49 lbs | Large: 50+ lbs",
-      "category": 4
+      "category": 22
    }
 },
  {
@@ -2825,7 +2825,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 3
+      "category": 55
    }
 },
  {
@@ -2848,7 +2848,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 4
+      "category": 11
    }
 },
  {
@@ -2871,7 +2871,7 @@
       "calory_content": "3540 kcal/kg, 425 kcal/cup",
       "nutrition_analysis": "Crude protein: 28% min | Crude fat: 19% min | Crude fiber: 6% max | Moisture: 12% max | Dietary Starch: 25% max | Sugars: 2% max | EPA (eicosapentaenoic acid): 0.3% min | DHA (docosahexaenoic acid): 0.15% min | Calcium: 1.3% min | Phosphorus: 1.0% min | Taurine*: 0.2% min | Omega-6 fatty acids*: 3.5% min | Omega-3 fatty acids*: 0.7% min | Glucosamine*: 500mg/kg min | Total Microorganisms*: 100 Million CFU/lb",
       "feeding_instructions": "2: 2/3 | 5: 3/4 | 10: -- | 15: -- | 20: -- | 25: -- | 30: --",
-      "category": 4
+      "category": 19
    }
 },
  {
@@ -2894,7 +2894,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 4
+      "category": 56
    }
 },
  {
@@ -2917,7 +2917,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 3
+      "category": 8
    }
 },
  {
@@ -2940,7 +2940,7 @@
       "calory_content": "183 kcal/can",
       "nutrition_analysis": "Crude Protein: 9.5% min | Crude Fat: 7.5% min | Crude Fiber: 1.5% max | Moisture: 78% max",
       "feeding_instructions": "",
-      "category": 4
+      "category": 19
    }
 },
  {
@@ -2963,7 +2963,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 4
+      "category": 45
    }
 },
  {
@@ -2986,7 +2986,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 4
+      "category": 7
    }
 },
  {
@@ -3009,7 +3009,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 4
+      "category": 11
    }
 },
  {
@@ -3032,7 +3032,7 @@
       "calory_content": "1,245 kcal/kg, 107 kcal/3 oz can, 196 kcal/5.5 oz can, 442 kcal/12 oz can",
       "nutrition_analysis": "Crude Protein: 9.0% min | Crude Fat: 6.5% min | Crude Fiber: 1.0% max | Moisture: 78.0% max | Ash: 2.1% max | Calcium: 0.2% max | Magnesium: 0.028% max | Taurine: 0.05% max | Phosphorus: 0.27% min",
       "feeding_instructions": "",
-      "category": 2
+      "category": 24
    }
 },
  {
@@ -3055,7 +3055,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 2
+      "category": 38
    }
 },
  {
@@ -3078,7 +3078,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 4
+      "category": 22
    }
 },
  {
@@ -3101,7 +3101,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 2
+      "category": 24
    }
 },
  {
@@ -3124,7 +3124,7 @@
       "calory_content": "4,360 kcal/kg, 10 kcal/tbsp",
       "nutrition_analysis": "Crude Protein: 45%  min | Crude Fat: 25% min | Crude Fiber: 5% max | Moisture: 5% max",
       "feeding_instructions": "",
-      "category": 2
+      "category": 24
    }
 },
  {
@@ -3147,7 +3147,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 8
+      "category": 39
    }
 },
  {
@@ -3193,7 +3193,7 @@
       "calory_content": "",
       "nutrition_analysis": "Crude Protein: 20% min | Crude Fat: 3% min | Crude Fiber: 4% max | Methionine: 0.48% max | Phosphorus: 0.65% max | Vitamin E: 21 IU | Calcium: 1.25% max",
       "feeding_instructions": "",
-      "category": 1
+      "category": 13
    }
 },
  {
@@ -3216,7 +3216,7 @@
       "calory_content": "868 kcal/kg, 135 kcal/can",
       "nutrition_analysis": "Crude Protein: 9.0% min | Crude Fat: 2.0% min | Crude Fiber: 1.5% max | Moisture: 80.0% max",
       "feeding_instructions": "",
-      "category": 4
+      "category": 19
    }
 },
  {
@@ -3239,7 +3239,7 @@
       "calory_content": "",
       "nutrition_analysis": "Crude Protein (Min.): 19% | Crude Fat (Min.): 55% | Ash (Min.): 4% | Water (Min.): 4%",
       "feeding_instructions": "",
-      "category": 1
+      "category": 57
    }
 },
  {
@@ -3262,7 +3262,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 2
+      "category": 31
    }
 },
  {
@@ -3285,7 +3285,7 @@
       "calory_content": "Beef Recipe: 901 kcal/kg, 77 kcal/3oz can",
       "nutrition_analysis": "Crude Protein: 11.0% min | Crude Fat: 2.0% min | Crude Fiber: 1.5% max | Moisture: 80.0% max | Ash: 2.5% max | Taurine: 0.05% min | Crude Protein: 11.0% min | Crude Fat: 2.0% min | Crude Fiber: 1.5% max | Moisture: 80.0% max | Ash: 2.7% max | Taurine: 0.05% min | Crude Protein: 11.0% min | Crude Fat: 2.0% min | Crude Fiber: 1.5% max | Moisture: 80.0% max | Ash: 2.7% max | Taurine: 0.05% min",
       "feeding_instructions": "",
-      "category": 2
+      "category": 24
    }
 },
  {
@@ -3308,7 +3308,7 @@
       "calory_content": "1,222 kcal/kg, 190 kcal/can",
       "nutrition_analysis": "Crude Protein: 9.0% min | Crude Fat: 5.0% min | Crude Fiber: 1.0% max | Moisture: 78.0% max | Ash: 3.5% max | Taurine: 0.05% min",
       "feeding_instructions": "",
-      "category": 2
+      "category": 24
    }
 },
  {
@@ -3331,7 +3331,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 4
+      "category": 11
    }
 },
  {
@@ -3354,7 +3354,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 4
+      "category": 7
    }
 },
  {
@@ -3377,7 +3377,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 2
+      "category": 3
    }
 },
  {
@@ -3400,7 +3400,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 4
+      "category": 19
    }
 },
  {
@@ -3423,7 +3423,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 4
+      "category": 17
    }
 },
  {
@@ -3446,7 +3446,7 @@
       "calory_content": "1,137 kcal/kg, 113 kcal/cup",
       "nutrition_analysis": "Crude Protein: 8.0% min | Crude Fat: 3.5% min | Crude Fiber: 1.4% max | Moisture: 82.0% max",
       "feeding_instructions": "",
-      "category": 4
+      "category": 19
    }
 },
  {
@@ -3469,7 +3469,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 4
+      "category": 11
    }
 },
  {
@@ -3492,7 +3492,7 @@
       "calory_content": "Metabolizable Energy: 4467 kcal/kg and 10 calories per nugget on average.",
       "nutrition_analysis": "Crude Protein: 51.5% min | Crude Fat: 29% min | Crude Fiber: 2% max | Moisture: 5% max",
       "feeding_instructions": "",
-      "category": 4
+      "category": 19
    }
 },
  {
@@ -3515,7 +3515,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 8
+      "category": 58
    }
 },
  {
@@ -3538,7 +3538,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 4
+      "category": 7
    }
 },
  {
@@ -3561,7 +3561,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 9
+      "category": 59
    }
 },
  {
@@ -3607,7 +3607,7 @@
       "calory_content": "987 kcal/kg, 356 kcal/can",
       "nutrition_analysis": "Crude Protein: 8%  min | Crude Fat: 6% min | Crude Fiber: 1.5% max | Moisture: 78% max",
       "feeding_instructions": "",
-      "category": 4
+      "category": 19
    }
 },
  {
@@ -3630,7 +3630,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 2
+      "category": 37
    }
 },
  {
@@ -3653,7 +3653,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 10
+      "category": 35
    }
 },
  {
@@ -3676,7 +3676,7 @@
       "calory_content": "",
       "nutrition_analysis": "Crude Protein: 48.0% min | Crude Fat: 21.0% min | Crude Fiber: 0.5% max | Moisture: 4.0% max | Taurine: 0.2% min",
       "feeding_instructions": "",
-      "category": 2
+      "category": 24
    }
 },
  {
@@ -3699,7 +3699,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 7
+      "category": 60
    }
 },
  {
@@ -3722,7 +3722,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 6
+      "category": 49
    }
 },
  {
@@ -3745,7 +3745,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 4
+      "category": 7
    }
 },
  {
@@ -3768,7 +3768,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 4
+      "category": 36
    }
 },
  {
@@ -3791,7 +3791,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 4
+      "category": 7
    }
 },
  {
@@ -3814,7 +3814,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 7
+      "category": 61
    }
 },
  {
@@ -3837,7 +3837,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 2
+      "category": 31
    }
 },
  {
@@ -3860,7 +3860,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 4
+      "category": 16
    }
 },
  {
@@ -3883,7 +3883,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 8
+      "category": 39
    }
 },
  {
@@ -3906,7 +3906,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 2
+      "category": 38
    }
 },
  {
@@ -3929,7 +3929,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 2
+      "category": 6
    }
 },
  {
@@ -3952,7 +3952,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 8
+      "category": 32
    }
 },
  {
@@ -3998,7 +3998,7 @@
       "calory_content": "",
       "nutrition_analysis": "Crude Protein: 32% min | Crude Fat: 12% min | Crude Fiber: 6% max | Moisture: 12% max",
       "feeding_instructions": "",
-      "category": 9
+      "category": 62
    }
 },
  {
@@ -4021,7 +4021,7 @@
       "calory_content": "",
       "nutrition_analysis": "",
       "feeding_instructions": "",
-      "category": 3
+      "category": 8
    }
 }
 ]
