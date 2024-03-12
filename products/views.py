@@ -8,8 +8,8 @@ from django.db.models.functions import Lower
 
 def all_products(request):
     products = Product.objects.all()
-    for product in products:
-        product.save()
+    # for product in products:
+    #     product.save()
     products = Product.objects.exclude(image_url__isnull=True).exclude(
         image_url__exact='').exclude(image_url__exact='[]').all()
     query = None
@@ -23,6 +23,9 @@ def all_products(request):
             if sortkey == 'name':
                 sortkey = 'lower_name'
                 products = products.annotate(lower_name=Lower('name'))
+            
+            if sortkey == 'category':
+                sortkey = 'category__name'
 
             if 'direction' in request.GET:
                 direction = request.GET['direction']
@@ -36,11 +39,11 @@ def all_products(request):
             # print(categories)
              # Decode the category parameter
             categories = unquote(categories).split('/')
-            print(categories)
+            # print(categories)
             products = products.filter(category__name__in=categories)
-            print(products.query)
+            # print(products.query)
             categories = Category.objects.filter(name__in=categories)
-            print(categories.query)
+            # print(categories.query)
         if 'q' in request.GET:
             query = request.GET['q']
             if not query:
@@ -53,7 +56,7 @@ def all_products(request):
             products = products.filter(queries)
 
     current_sorting = f'{sort}_{direction}'
-
+    print(current_sorting)
     context = {
         'products': products,
         'search_term': query,
