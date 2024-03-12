@@ -7,6 +7,7 @@ class Category(models.Model):
         verbose_name_plural = 'Categories'
 
     name = models.CharField(max_length=100)
+    name_id = models.CharField(max_length=100, null=True, blank=True)
     # parent = models.ForeignKey('self', on_delete=models.CASCADE, null=True, blank=True)
 
     def __str__(self):

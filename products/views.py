@@ -2,10 +2,12 @@ from django.shortcuts import render, get_object_or_404, redirect, reverse
 from .models import Product, Category
 from django.contrib import messages
 from django.db.models import Q
+from urllib.parse import unquote
+from django.db.models.functions import Lower
 
 
 def all_products(request):
-    # products = Product.objects.all()
+    products = Product.objects.all()
     # for product in products:
     #     product.save()
     products = Product.objects.exclude(image_url__isnull=True).exclude(
@@ -30,10 +32,15 @@ def all_products(request):
 
     if request.GET:
         if 'category' in request.GET:
-            categories = request.GET['category'].split(',')
+            categories = request.GET['category']
+            # print(categories)
+             # Decode the category parameter
+            categories = unquote(categories).split('/')
+            print(categories)
             products = products.filter(category__name__in=categories)
+            print(products.query)
             categories = Category.objects.filter(name__in=categories)
-
+            print(categories.query)
         if 'q' in request.GET:
             query = request.GET['q']
             if not query:
