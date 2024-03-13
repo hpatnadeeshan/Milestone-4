@@ -115,4 +115,63 @@
             </div>
         </div>
     </div>
+    <button onclick="goToTop()" class="btn btn-primary back-to-top">Go Back to Top</button>
 {% endblock %}
+
+
+{% block postloadjs %}
+    {{ block.super }}
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            var backToTopButton = document.querySelector('.back-to-top');
+
+            // Show the button when scrolling down
+            window.addEventListener('scroll', function () {
+                if (window.pageYOffset > 100) { // Adjust scroll position as needed
+                    backToTopButton.classList.add('show-back-to-top');
+                } else {
+                    backToTopButton.classList.remove('show-back-to-top');
+                }
+            });
+
+            // Scroll to top when the button is clicked
+            backToTopButton.addEventListener('click', function () {
+                // Scroll smoothly to the top of the page
+                window.scrollTo({ top: 0, behavior: 'smooth' });
+            });
+        });
+    </script>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            var sortSelector = document.getElementById('sort-selector');
+            sortSelector.addEventListener('change', function () {
+                var selectedValue = sortSelector.value;
+                var sortParam = '';
+                var directionParam = '';
+    
+                // Set sort and direction parameters based on selected value
+                if (selectedValue) {
+                    if (selectedValue.includes('_')) {
+                        var parts = selectedValue.split('_');
+                        sortParam = parts[0];
+                        directionParam = parts[parts.length - 1] === 'desc' ? 'desc' : 'asc';
+                        console.log(directionParam);
+                    }
+    
+                    // Adjust sort parameter if necessary
+                    if (sortParam === 'average') {
+                        sortParam = 'average_rating';
+                    }
+                }
+    
+                // Redirect to the current URL with sorting parameters
+                var url = window.location.href.split('?')[0];
+                url += '?sort=' + sortParam + '&direction=' + directionParam;
+                window.location.href = url;
+            });
+        });
+    </script>
+
+{% endblock %}
+
