@@ -49,10 +49,38 @@
                                 <p class="my-0">${{ item.product.price }}</p>
                             </td>
                             <td class="py-3 w-25">
-                                <p class="my-0">{{ item.quantity }}</p>
+                                <form class="update-form" method="post" action="{% url 'update_cart' item.item_id %}">
+                                    {% csrf_token %}
+                                    <div class="form-group">
+                                        <div class="input-group">
+                                            <div class="input-group-prepend">
+                                                <small class="btn btn-sm btn-outline-secondary btn-minus" type="button"
+                                                    data-item_id="{{ item.item_id }}"><i
+                                                        class="fas fa-minus fa-sm"></i></small>
+                                            </div>
+                                            <input class="form-control-sm qty_input" type="number" name="quantity"
+                                                value="{{ item.quantity }}" min="1" max="99">
+                                            <div class="input-group-append">
+                                                <small class="btn btn-sm btn-outline-secondary btn-plus" type="button"
+                                                    data-item_id="{{ item.item_id }}"><i
+                                                        class="fas fa-plus fa-sm"></i></small>
+                                                <button class="btn btn-sm btn-outline-secondary btn-update"
+                                                    type="submit"><i class="fas fa-sync-alt fa-sm"></i></button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </form>
                             </td>
                             <td class="py-3">
                                 <p class="my-0">${{ item.product.price }}</p>
+                            </td>
+                            <td class="py-3">
+                                <form class="remove-form" method="post" action="{% url 'remove_from_cart' item.item_id %}">
+                                    {% csrf_token %}
+                                    <button class="btn btn-sm btn-outline-secondary btn-remove" type="submit">
+                                        <i class="fas fa-trash fa-sm"></i>
+                                    </button>
+                                </form>
                             </td>
                         </tr>
                     {% endfor %}
@@ -98,4 +126,77 @@
         </div>
     </div>
 </div>
+{% endblock %}
+
+
+
+{% block postloadjs %}
+{{ block.super }}
+
+
+
+
+<script>
+    $(document).ready(function () {
+        $(".btn-plus").click(function () {
+            var inputField = $(this).closest(".input-group").find(".qty_input");
+            var currentValue = parseInt(inputField.val());
+            var maxValue = parseInt(inputField.attr("max"));
+
+            if (!maxValue || currentValue < maxValue) {
+                inputField.val(Math.min(currentValue + 1, 99)); // Limit to 99
+            }
+        });
+
+        $(".btn-minus").click(function () {
+            var inputField = $(this).closest(".input-group").find(".qty_input");
+            var currentValue = parseInt(inputField.val());
+            var minValue = parseInt(inputField.attr("min"));
+
+            if (!minValue || currentValue > minValue) {
+                inputField.val(Math.max(currentValue - 1, 1)); // Limit to 1
+            }
+        });
+
+        $(".qty_input").on('input', function () {
+            var inputValue = parseInt($(this).val());
+            var minValue = parseInt($(this).attr("min"));
+            var maxValue = parseInt($(this).attr("max"));
+
+            if (isNaN(inputValue) || inputValue < 1) {
+                $(this).val(1); // Set to minimum value if less than 1 or NaN
+            } else if (maxValue && inputValue > maxValue) {
+                $(this).val(maxValue); // Set to maximum value if greater than maxValue
+            }
+        });
+    });
+</script>
+
+
+<script type="text/javascript">
+    // Update quantity on click
+    $(document).ready(function () {
+        $('.btn-update').click(function(e) {
+            e.preventDefault(); // Prevent the default click behavior
+
+            var form = $(this).closest('form'); // Find the parent form
+            form.submit(); // Submit the form
+        });
+    });
+</script>
+
+<script type="text/javascript">
+    // Remove item from cart on click
+    $(document).ready(function () {
+        $('.btn-remove').click(function(e) {
+            e.preventDefault(); // Prevent the default click behavior
+
+            var form = $(this).closest('form'); // Find the parent form
+            form.submit(); // Submit the form
+        });
+    });
+</script>
+
+
+
 {% endblock %}
