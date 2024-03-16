@@ -10,11 +10,18 @@ from .forms import ProductForm
 
 
 def all_products(request):
-    products = Product.objects.all()
-    for product in products:
-        product.save()
-    products = Product.objects.exclude(image_url_first__isnull=True).exclude(
-        image_url_first__exact='').all()
+    # all_products = Product.objects.all()
+    # for product in all_products:
+    #     product.save()
+
+    products_with_image = Product.objects.exclude(image='')
+
+    # Query products based on image_url_first if image field is null
+    products_with_image_url_first = Product.objects.exclude(image_url_first__isnull=True).exclude(image_url_first__exact='').all()
+
+    # Combine both queries and exclude duplicates
+    products = products_with_image | products_with_image_url_first
+    products = products.distinct()
     query = None
     categories = None
     sort = None
