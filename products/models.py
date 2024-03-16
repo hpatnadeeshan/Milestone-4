@@ -33,15 +33,16 @@ class Product(models.Model):
     nutrition_analysis = models.TextField(null=True, blank=True)
     feeding_instructions = models.TextField(null=True, blank=True)
     category = models.ForeignKey('Category', null=True, blank=True, on_delete=models.SET_NULL)
+    readonly_fields = ('image_url',)
 
     def save(self, *args, **kwargs):
-        
-        image_urls = self.image_url.strip('[]').replace("'", "").split(', ')
-        if image_urls:
-            self.image_url_first=image_urls[0]
-            super().save(*args, **kwargs)
-        else:
-            super().delete()
+        # If image_url_first is not set and image_url is provided, extract the first URL
+        if not self.image_url_first and self.image_url:
+            # Assuming image_url is a comma-separated list of URLs
+            image_urls = self.image_url.strip('[]').replace("'", "").split(', ')
+            if image_urls:
+                self.image_url_first = image_urls[0]
+        super().save(*args, **kwargs)
 
     # def display_image_urls(self, obj):
     #     image_urls = obj.image_url.strip('[]').replace("'", "").split(', ')
