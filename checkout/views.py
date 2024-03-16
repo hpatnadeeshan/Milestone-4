@@ -8,6 +8,8 @@ from products.models import Product
 from cart.contexts import cart_contents
 from profiles.forms import UserProfileForm
 from profiles.models import UserProfile
+from .email_utils import send_confirmation_email
+
 
 import stripe
 
@@ -140,6 +142,9 @@ def checkout_success(request, order_number):
         user_profile_form = UserProfileForm(profile_data, instance=profile)
         if user_profile_form.is_valid():
             user_profile_form.save()
+    
+        # Send confirmation email
+    send_confirmation_email(order)
 
     messages.success(request, f'Order successfully processed! \
         Your order number is {order_number}. A confirmation \
