@@ -14,13 +14,13 @@ class Category(models.Model):
         return self.name
 
 class Product(models.Model):
-    url = models.URLField()
+    url = models.URLField(null=True, blank=True)
     name = models.CharField(max_length=255)
     sku = models.IntegerField()
     gtin12 = models.BigIntegerField(null=True, blank=True)
-    breadcrumb = models.CharField(max_length=255)
+    breadcrumb = models.CharField(max_length=255,null=True, blank=True)
     brand = models.CharField(max_length=100)
-    price = models.DecimalField(max_digits=10, decimal_places=2)
+    price = models.DecimalField(max_digits=6, decimal_places=2)
     description = models.TextField()
     availability = models.CharField(max_length=50)
     image_url = models.TextField(null=True, blank=True)
