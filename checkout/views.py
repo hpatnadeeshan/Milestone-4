@@ -13,9 +13,11 @@ import stripe
 def checkout(request):
     stripe_public_key = settings.STRIPE_PUBLIC_KEY
     stripe_secret_key = settings.STRIPE_SECRET_KEY
-
+    print('ggggggggggggggg')
     if request.method == 'POST':
         cart = request.session.get('cart', {})
+        print(cart.items())
+        print('hhhhhhhhhhhhhhh')
 
         form_data = {
             'full_name': request.POST['full_name'],
@@ -42,12 +44,11 @@ def checkout(request):
                         )
                         order_line_item.save()
                     else:
-                        for size, quantity in item_data['items_by_size'].items():
+                        for  quantity in item_data['items_by_size'].items():
                             order_line_item = OrderLineItem(
                                 order=order,
                                 product=product,
                                 quantity=quantity,
-                                product_size=size,
                             )
                             order_line_item.save()
                 except Product.DoesNotExist:
