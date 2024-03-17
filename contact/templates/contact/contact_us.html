@@ -11,7 +11,7 @@
             <p>Have questions or feedback? Reach out to us using the form below.</p>
             <form method="post" action="{% url 'contact' %}">
                 {% csrf_token %}
-                {{ form.as_p }}
+                {{ form | crispy }}
                 <button type="submit" class="btn btn-primary">Submit</button>
             </form>
         </div>

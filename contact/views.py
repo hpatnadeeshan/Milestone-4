@@ -4,6 +4,7 @@ from django.contrib import messages
 from .models import ContactMessage
 
 def contact(request):
+    """A view to show contact form page"""
     if request.method == 'POST':
         form = ContactForm(request.POST)
         if form.is_valid():
@@ -21,5 +22,4 @@ def contact(request):
     else:
         form = ContactForm()
 
-    return render(request, 'contact.html', {'form': form})
-
+    return render(request, 'contact/contact_us.html', {'form': form})
