@@ -1,27 +1,30 @@
-console.log("JavaScript code is executing.");
-// Get the modal element
-var modal = document.getElementById("myModal");
-
-// Get the <span> element that closes the modal
-var span = document.getElementsByClassName("close")[0];
-    
-// When the page loads, show the modal
 window.onload = function () {
-    modal.style.display = "block";
-    console.log("window onload working.");
+    var modal = document.getElementById("myModal");
+    var span = document.getElementsByClassName("close")[0];
 
-    // Apply the CSS rule for showing the modal
-    var showStyle = document.createElement('style');
-    showStyle.innerHTML = '.fade:not(.show) { opacity: 1; }';
-    document.head.appendChild(showStyle);
+    // Check if the toast message exists, if so, do not show the modal
+    var toastMessage = document.querySelector('.toast');
+    if (!toastMessage) {
+        modal.style.display = "block";
+        var showStyle = document.createElement('style');
+        showStyle.innerHTML = '.fade:not(.show) { opacity: 1; }';
+        document.head.appendChild(showStyle);
+    }
 
-    // Event listener for close button
+    // When the user clicks on <span> (x), close the modal
     span.onclick = function () {
         modal.style.display = "none";
-
-        // Apply the CSS rule for hiding the modal
         var hideStyle = document.createElement('style');
         hideStyle.innerHTML = '.fade:not(.show) { opacity: 0; }';
         document.head.appendChild(hideStyle);
+    }
+
+    // When the user clicks anywhere outside of the modal, close it
+    window.onclick = function (event) {
+        if (event.target == modal) {
+            modal.style.display = "none";
+            hideStyle.innerHTML = '.fade:not(.show) { opacity: 0; }';
+            document.head.appendChild(hideStyle);
+        }
     }
 }

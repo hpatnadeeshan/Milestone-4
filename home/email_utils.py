@@ -1,19 +1,21 @@
-from django.core.mail import send_mail
-from django.template.loader import render_to_string
-from django.conf import settings
+from django.shortcuts import render
+from django.http import HttpResponseRedirect
+from django.contrib import messages
+from django.core.exceptions import ObjectDoesNotExist
+from .models import Subscriber
+from .email_utils import send_confirmation_email
 
-
-def send_confirmation_email(email):
-    """Send a confirmation email to the user"""
-    cust_email = email
-    subject = render_to_string(
-        "home/confirmation_emails/confirmation_email_subject.txt",{},)
-    body = render_to_string(
-        "home/confirmation_emails/confirmation_email_body.txt",
-        {
-            "settings": settings,
-            "contact_email": settings.DEFAULT_FROM_EMAIL,
-        },
-    )
-
-    send_mail(subject, body, settings.DEFAULT_FROM_EMAIL, [cust_email])
+def subscribe_newsletter(request):
+    if request.method == 'POST':
+        email = request.POST.get('email')
+        try:
+            # Check if the user is already subscribed
+            subscriber = Subscriber.objects.get(email=email)
+            # User is already subscribed, close the modal
+            messages.info(request, 'You are already subscribed.')
+        except ObjectDoesNotExist:
+            # User is not subscribed, send confirmation email
+            send_confirmation_email(email)
+            messages.success(request, 'Thank you for subscribing!')
+            Subscriber.objects.create(email=email)
+    return HttpResponseRedirect(request.META.get('HTTP_REFERER', '/'))
