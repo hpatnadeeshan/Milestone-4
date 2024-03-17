@@ -7,6 +7,8 @@ from .models import Product, Category
 
 
 class ProductAdmin(admin.ModelAdmin):
+    readonly_fields = (
+        "image_url",)
     list_display = (
         "name",
         "url",
