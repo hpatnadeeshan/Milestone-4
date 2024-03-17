@@ -33,7 +33,7 @@ class Product(models.Model):
     nutrition_analysis = models.TextField(null=True, blank=True)
     feeding_instructions = models.TextField(null=True, blank=True)
     category = models.ForeignKey('Category', null=True, blank=True, on_delete=models.SET_NULL)
-    readonly_fields = ('image_url',)
+    # readonly_fields = ('image_url',)
 
     def save(self, *args, **kwargs):
         # If image_url_first is not set and image_url is provided, extract the first URL

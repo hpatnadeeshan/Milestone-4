@@ -10,9 +10,9 @@ from .forms import ProductForm
 
 
 def all_products(request):
-    # all_products = Product.objects.all()
-    # for product in all_products:
-    #     product.save()
+    all_products = Product.objects.all()
+    for product in all_products:
+        product.save()
 
     products_with_image = Product.objects.exclude(image='')
 
