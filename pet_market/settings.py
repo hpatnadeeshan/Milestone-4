@@ -48,6 +48,8 @@ INSTALLED_APPS = [
     "cart",
     "checkout",
     "profiles",
+    "about",
+    "contact",
     # other
     "crispy_forms",
     "storages",
@@ -206,11 +208,6 @@ STRIPE_CURRENCY = "usd"
 STRIPE_PUBLIC_KEY = os.getenv("STRIPE_PUBLIC_KEY", "")
 STRIPE_SECRET_KEY = os.getenv("STRIPE_SECRET_KEY", "")
 
-
-# if 'DEVELOPMENT' in os.environ:
-#     EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
-#     DEFAULT_FROM_EMAIL = 'petmarket@example.com'
-# else:
 EMAIL_BACKEND = "django.core.mail.backends.smtp.EmailBackend"
 EMAIL_USE_TLS = True
 EMAIL_PORT = 587
