@@ -6,13 +6,13 @@ from django.db import migrations, models
 class Migration(migrations.Migration):
 
     dependencies = [
-        ('products', '0007_alter_product_gtin12'),
+        ("products", "0007_alter_product_gtin12"),
     ]
 
     operations = [
         migrations.AlterField(
-            model_name='product',
-            name='image_url',
+            model_name="product",
+            name="image_url",
             field=models.TextField(blank=True, null=True),
         ),
     ]

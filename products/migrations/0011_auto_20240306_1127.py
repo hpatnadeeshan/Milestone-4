@@ -6,17 +6,17 @@ from django.db import migrations, models
 class Migration(migrations.Migration):
 
     dependencies = [
-        ('products', '0010_auto_20240305_1150'),
+        ("products", "0010_auto_20240305_1150"),
     ]
 
     operations = [
         migrations.AlterModelOptions(
-            name='category',
-            options={'verbose_name_plural': 'Categories'},
+            name="category",
+            options={"verbose_name_plural": "Categories"},
         ),
         migrations.AddField(
-            model_name='product',
-            name='image_url_first',
+            model_name="product",
+            name="image_url_first",
             field=models.URLField(blank=True, null=True),
         ),
     ]

@@ -7,13 +7,13 @@ import django_countries.fields
 class Migration(migrations.Migration):
 
     dependencies = [
-        ('checkout', '0002_remove_orderlineitem_product_size'),
+        ("checkout", "0002_remove_orderlineitem_product_size"),
     ]
 
     operations = [
         migrations.AlterField(
-            model_name='order',
-            name='country',
+            model_name="order",
+            name="country",
             field=django_countries.fields.CountryField(max_length=2),
         ),
     ]

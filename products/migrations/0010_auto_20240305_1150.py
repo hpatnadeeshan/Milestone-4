@@ -7,21 +7,26 @@ import django.db.models.deletion
 class Migration(migrations.Migration):
 
     dependencies = [
-        ('products', '0009_alter_product_calory_content'),
+        ("products", "0009_alter_product_calory_content"),
     ]
 
     operations = [
         migrations.RemoveField(
-            model_name='category',
-            name='parent',
+            model_name="category",
+            name="parent",
         ),
         migrations.RemoveField(
-            model_name='product',
-            name='categories',
+            model_name="product",
+            name="categories",
         ),
         migrations.AddField(
-            model_name='product',
-            name='category',
-            field=models.ForeignKey(blank=True, null=True, on_delete=django.db.models.deletion.SET_NULL, to='products.category'),
+            model_name="product",
+            name="category",
+            field=models.ForeignKey(
+                blank=True,
+                null=True,
+                on_delete=django.db.models.deletion.SET_NULL,
+                to="products.category",
+            ),
         ),
     ]

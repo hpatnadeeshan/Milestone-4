@@ -6,28 +6,28 @@ from django.db import migrations, models
 class Migration(migrations.Migration):
 
     dependencies = [
-        ('products', '0005_alter_product_average_rating'),
+        ("products", "0005_alter_product_average_rating"),
     ]
 
     operations = [
         migrations.AlterField(
-            model_name='product',
-            name='feeding_instructions',
+            model_name="product",
+            name="feeding_instructions",
             field=models.TextField(blank=True, null=True),
         ),
         migrations.AlterField(
-            model_name='product',
-            name='ingredients',
+            model_name="product",
+            name="ingredients",
             field=models.TextField(blank=True, null=True),
         ),
         migrations.AlterField(
-            model_name='product',
-            name='nutrition_analysis',
+            model_name="product",
+            name="nutrition_analysis",
             field=models.TextField(blank=True, null=True),
         ),
         migrations.AlterField(
-            model_name='product',
-            name='reviews_count',
+            model_name="product",
+            name="reviews_count",
             field=models.IntegerField(blank=True, null=True),
         ),
     ]
