@@ -11,14 +11,13 @@
 
     <div class="container">
         <div class="row">
-            <div class="col-md-7 my-auto">
+            <div class="col-md-7 my-auto text-center text-md-left">
                 <h1 class="display-4 welcome-font">
                     Welcome to Pet Market
                 </h1>
-                <h3>Your one-stop destination for all your pet needs</h3>
-                <div class="mt-5">
-                    <a href="{% url 'products' %}"
-                        class="btn btn-primary btn-lg rounded-pill text-uppercase py-3 shop-now-button">Shop Now</a>
+                <h3 class="mb-4">Your one-stop destination for all your pet needs</h3>
+                <div class="mt-4">
+                    <a href="{% url 'products' %}" class="btn btn-primary btn-lg rounded-pill text-uppercase py-3 shop-now-button">Shop Now</a>
                 </div>
             </div>
         </div>
@@ -28,28 +27,27 @@
 
 {% block content %}
 {{ block.super }}
-<div class="modal" id="myModal" tabindex="-1" role="dialog" aria-labelledby="Newsletter" aria-hidden="true">
-    <div class="modal-dialog" role="document">
-      <div class="modal-content">
-        <div class="modal-header">
-          <h5 class="modal-title" id="Newsletter">Subscribe to Our Newsletter</h5>
-          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-            <span aria-hidden="true">&times;</span>
-          </button>
-        </div>
-        <div class="modal-body">
-          <form id="subscriptionForm" method="post" action="{% url 'subscribe_newsletter' %}">
-            {% csrf_token %}
-            <div class="form-group">
-              <input type="email" class="form-control" id="email" name="email" placeholder="Email Address" required>
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="Newsletter" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="Newsletter">Subscribe to Our Newsletter</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
             </div>
-            <button type="submit" class="btn btn-primary">Subscribe</button>
-          </form>
+            <div class="modal-body">
+                <form id="subscriptionForm" method="post" action="{% url 'subscribe_newsletter' %}">
+                    {% csrf_token %}
+                    <div class="form-group">
+                        <input type="email" class="form-control" id="email" name="email" placeholder="Email Address" required>
+                    </div>
+                    <button type="submit" class="btn btn-primary btn-block rounded-pill">Subscribe</button>
+                </form>
+            </div>
         </div>
-      </div>
     </div>
-  </div>
-  
+</div>
 {% endblock %}
 
 {% block postloadjs %}
