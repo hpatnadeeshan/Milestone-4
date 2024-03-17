@@ -1,9 +1,8 @@
-from django.shortcuts import render, redirect
-from .forms import NewsletterSubscriptionForm
+from django.shortcuts import render
+from django.http import HttpResponseRedirect
+from django.contrib import messages
 from .models import NewsletterSubscriber
 from .email_utils import send_confirmation_email
-from django.contrib import messages
-from django.contrib.auth.decorators import login_required
 
 
 def index(request):
@@ -12,20 +11,15 @@ def index(request):
 
 def subscribe_newsletter(request):
     if request.method == 'POST':
-        form = NewsletterSubscriptionForm(request.POST)
-        if form.is_valid():
-            email = form.cleaned_data['email']
+        email = request.POST.get('email')
+        try:
+            subscriber = NewsletterSubscriber.objects.get(email=email)
+            messages.info(request, 'You are already subscribed.')
+        except NewsletterSubscriber.DoesNotExist:
             NewsletterSubscriber.objects.create(email=email)
             send_confirmation_email(email)
-            messages.success(request, "You have successfully subscribed to our newsletter!")
-            # Render the same page with a success message
-            form = NewsletterSubscriptionForm()  # Reset the form
-            return render(request, "home/index.html")
-    else:
-        form = NewsletterSubscriptionForm()
-    return render(request, "home/index.html")
-
-
+            messages.success(request, 'Thank you for subscribing!')
+    return HttpResponseRedirect(request.META.get('HTTP_REFERER', '/'))
 
 
 
