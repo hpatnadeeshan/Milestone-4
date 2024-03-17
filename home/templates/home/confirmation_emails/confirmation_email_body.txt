@@ -1,0 +1,14 @@
+
+Hello,
+
+Thank you for subscribing to the Pet Market newsletter! You are now part of our community, and you'll be among the first to receive exciting updates, exclusive offers, and pet care tips.
+
+We're thrilled to have you on board!
+
+If you ever have any questions or suggestions, feel free to reach out to us at {{ contact_email }}.
+
+Welcome to the Pet Market family!
+
+Best Regards,
+
+Pet Market Team
