@@ -22,6 +22,7 @@ def subscribe_newsletter(request):
     return HttpResponseRedirect(request.META.get('HTTP_REFERER', '/'))
 
 
-
-
+def subscriber_list(request):
+    subscribers = NewsletterSubscriber.objects.all()
+    return render(request, 'home/subscriber_list.html', {'subscribers': subscribers})
 
