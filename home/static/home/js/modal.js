@@ -9,16 +9,19 @@ var span = document.getElementsByClassName("close")[0];
 window.onload = function () {
     modal.style.display = "block";
     console.log("window onload working.");
-}
 
-// When the user clicks on <span> (x), close the modal
-span.onclick = function () {
-    modal.style.display = "none";
-}
+    // Apply the CSS rule for showing the modal
+    var showStyle = document.createElement('style');
+    showStyle.innerHTML = '.fade:not(.show) { opacity: 1; }';
+    document.head.appendChild(showStyle);
 
-// When the user clicks anywhere outside of the modal, close it
-window.onclick = function (event) {
-    if (event.target == modal) {
+    // Event listener for close button
+    span.onclick = function () {
         modal.style.display = "none";
+
+        // Apply the CSS rule for hiding the modal
+        var hideStyle = document.createElement('style');
+        hideStyle.innerHTML = '.fade:not(.show) { opacity: 0; }';
+        document.head.appendChild(hideStyle);
     }
 }
