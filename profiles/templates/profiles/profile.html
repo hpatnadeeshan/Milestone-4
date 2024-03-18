@@ -27,10 +27,11 @@
             <div class="col-12 col-lg-6">
                 <div class="card mb-4">
                     <div class="card-body">
-                        <h5 class="card-title text-muted">Default Delivery Information</h5>
+                        <h3 class="card-title text-muted">Default Delivery Information</h3>
                         <form action="{% url 'profile' %}" method="POST" id="profile-update-form">
                             {% csrf_token %}
                             {{ form|crispy }}
+                            <label for="id_default_country">Default Country:</label>
                             <button class="btn btn-dark btn-block mt-3" type="submit">Update Information</button>
                         </form>
                     </div>
@@ -39,7 +40,7 @@
             <div class="col-12 col-lg-6">
                 <div class="card">
                     <div class="card-body">
-                        <h5 class="card-title text-muted">Order History</h5>
+                        <h3 class="card-title text-muted">Order History</h3>
                         <div class="table-responsive">
                             <table class="table table-sm table-borderless">
                                 <thead>
