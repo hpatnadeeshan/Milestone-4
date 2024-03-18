@@ -14,7 +14,7 @@ window.onload = function () {
     span.onclick = function () {
         modal.style.display = "none";
         modalDisplayed = false;
-    }
+    };
 
     // When the user clicks anywhere outside of the modal, close it
     window.onclick = function (event) {
@@ -22,7 +22,7 @@ window.onload = function () {
             modal.style.display = "none";
             modalDisplayed = false;
         }
-    }
+    };
 
     // Function to close the modal
     function closeModal() {
@@ -32,4 +32,4 @@ window.onload = function () {
 
     // Expose the closeModal function so it can be called from outside
     window.closeModal = closeModal;
-}
+};
