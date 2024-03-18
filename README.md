@@ -1,35 +1,7 @@
 # [Pet Market](https://pet-market-b5febc7e8269.herokuapp.com/)
 
-
----
-
-## Table of contents
-
-- [Pet Market](#)
-  - [Table of contents](#table-of-contents)
-  - [UX Design](#ux-design)
-    - [Project Goals](#project-goals)
-    - [User Stories](#user-stories)
-    - [Wireframes](#wireframes)
-    - [Database schema](#database-schema)
-    - [Style and colours](#style-and-colours)
-  - [Features](#features)
-    - [Future Implementations](#future-implementations)
-  - [Technologies Used](#technologies-used)
-  - [Testing](#testing)
-  - [Deployment](#deployment)
-    - [Create the Database](#create-the-database)
-    - [Create a new Heroku app](#create-a-new-heroku-app)
-
-    - [Setting up Stripe](#setting-up-stripe)
-  - [Credits](#credits)
-    - [Content](#content)
-
----
-
 ## UX Design
 
-  ---
   ### Project Goals
 
 - **External User's Goal:**
@@ -51,46 +23,42 @@
 
   ### User Stories
 
-  | User Story ID | As a       | I want to be able to...                                         | So that I can...                                                                                     |
-|---------------|------------|----------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
-| Viewing & Navigation  |            |                                                                |                                                                                                     |
-| 1             | Shopper    | Easily navigate the site                                        | Find products and information that I require                                                        |
-| 2             | Shopper    | View products by category                                       | Find specific items I am interested in without having to scroll through all products                 |
-| 3             | Shopper    | View details of each product                                    | Learn more about each product                                                                       |
-| 4             | Shopper    | View the items I have in my bag                                 | Check whether I still wish to purchase the items and amend the quantity if required                  |
-| Registration & User Accounts |          |                                                                |                                                                                                     |
-| 1             | Shopper    | Register an account                                             | Have an account with the site and view my profile                                                   |
-| 2             | Shopper    | Receive an email to confirm my registration                     | Verify my account was created successfully                                                         |
-| 3             | Shopper    | Log in and out                                                  | Keep my account information secure                                                                  |
-| 4             | Shopper    | View a profile page                                             | Set a default delivery address and view previous orders                                             |
-| 5             | Shopper    | Reset my password                                               | Recover my account                                                                                  |
-| Sorting and Searching |          |                                                                |                                                                                                     |
-| 1             | Shopper    | Search for a product by name or description                     | Find a specific product I'd like to purchase                                                        |
-| 2             | Shopper    | Find products from a specific category                          | Only see products from that category                                                                |
-| Review        |            |                                                                |                                                                                                     |
-| 1             | Shopper    | Read product reviews                                            | Find out what other shoppers think about the product                                                |
-| 2             | Shopper    | Add a product review                                            | Share my experience using the product with other shoppers                                            |
-| Purchasing & Checkout |        |                                                                |                                                                                                     |
-| 1             | Shopper    | Easily select the quantity of a product when purchasing it      | Ensure I don't accidentally select the wrong product quantity                                        |
-| 2             | Shopper    | View all items in my bag                                        | Make sure I haven't accidentally added the wrong product in my bag                                    |
-| 3             | Shopper    | Adjust the quantity of individual items in my bag               | Easily make changes to my purchase before checkout                                                   |
-| 4             | Shopper    | Easily enter my payment information                             | Check out quickly and with no hassle                                                                |
-| 5             | Shopper    | Save all address info                                           | I don't have to enter them again on my next order                                                    |
-| 6             | Shopper    | View an order confirmation after checkout                       | Make sure my order was successfully placed and double-check that all details are correct               |
-| 7             | Shopper    | Save all orders on my Profile                                   | Easily access all orders anytime                                                                     |
-| 8             | Shopper    | Receive an email confirmation after checking out                 | Keep the confirmation of what I've purchased for my records                                           |
-| Contact       |            |                                                                |                                                                                                     |
-| 1             | Shopper    | Contact the admin team                                          | Ask questions about the e-shop                                                                      |
-| Admin & Store Management |      |                                                                |                                                                                                     |
-| 1             | Store Owner/Admin | Add a product                                                  | Add new items to my store                                                                            |
-| 2             | Store Owner/Admin | Edit a product                                                 | Update product details                                                                               |
-| 3             | Store Owner/Admin | Delete a product                                               | Remove items that are no longer for sale                                                             |
-| 4             | Store Owner/Admin | Delete a product review                                        | Remove product reviews that might have been entered incorrectly                                        |
+| User Story ID | As a            | I want to be able to...                                           | So that I can...                                                                                       |
+|---------------|-----------------|----------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
+| Viewing & Navigation  |                 |                                                                      |                                                                                                       |
+| 1             | Shopper         | Easily navigate the site                                          | Find products and information that I require                                                          |
+| 2             | Shopper         | View products by category                                         | Find specific items I am interested in without having to scroll through all products                   |
+| 3             | Shopper         | View details of each product                                      | Learn more about each product                                                                         |
+| 4             | Shopper         | View the items I have in my bag                                   | Check whether I still wish to purchase the items and amend the quantity if required                    |
+| Registration & User Accounts |              |                                                                      |                                                                                                       |
+| 1             | Shopper         | Register an account                                               | Have an account with the site and view my profile                                                     |
+| 2             | Shopper         | Receive an email to confirm my registration                       | Verify my account was created successfully                                                           |
+| 3             | Shopper         | Log in and out                                                    | Keep my account information secure                                                                    |
+| 4             | Shopper         | View a profile page                                               | Set a default delivery address and view previous orders                                               |
+| 5             | Shopper         | Reset my password                                                 | Recover my account                                                                                    |
+| Sorting and Searching |                 |                                                                      |                                                                                                       |
+| 1             | Shopper         | Search for a product by name or description                       | Find a specific product I'd like to purchase                                                          |
+| 2             | Shopper         | Find products from a specific category                            | Only see products from that category                                                                  |
+| Review        |                 |                                                                      |                                                                                                       |
+| 1             | Shopper         | Read product reviews                                              | Find out what other shoppers think about the product                                                  |
+| 2             | Shopper         | Add a product review                                              | Share my experience using the product with other shoppers                                              |
+| Purchasing & Checkout |             |                                                                      |                                                                                                       |
+| 1             | Shopper         | Easily select the quantity of a product when purchasing it        | Ensure I don't accidentally select the wrong product quantity                                          |
+| 2             | Shopper         | View all items in my bag                                          | Make sure I haven't accidentally added the wrong product in my bag                                      |
+| 3             | Shopper         | Adjust the quantity of individual items in my bag                 | Easily make changes to my purchase before checkout                                                     |
+| 4             | Shopper         | Easily enter my payment information                               | Check out quickly and with no hassle                                                                  |
+| 5             | Shopper         | Save all address info                                             | I don't have to enter them again on my next order                                                      |
+| 6             | Shopper         | View an order confirmation after checkout                         | Make sure my order was successfully placed and double-check that all details are correct                 |
+| 7             | Shopper         | Save all orders on my Profile                                     | Easily access all orders anytime                                                                     |
+| 8             | Shopper         | Receive an email confirmation after checking out                   | Keep the confirmation of what I've purchased for my records                                           |
+| Contact       |                 |                                                                      |                                                                                                       |
+| 1             | Shopper         | Contact the admin team                                            | Ask questions about the e-shop                                                                        |
+| Admin & Store Management |         |                                                                      |                                                                                                       |
+| 1             | Store Owner/Admin | Add a product                                                    | Add new items to my store                                                                              |
+| 2             | Store Owner/Admin | Edit a product                                                   | Update product details                                                                                 |
+| 3             | Store Owner/Admin | Delete a product                                                 | Remove items that are no longer for sale                                                               |
+| 4             | Store Owner/Admin | Delete a product review                                          | Remove product reviews that might have been entered incorrectly                                          |
 
- 
-  [Back to top](#Table-of-contents)
-
-  ---
 
   ### Wireframes
  
@@ -103,10 +71,6 @@
   - [Login](./static/images/wireframes/login.jpg)
  
 
-  [Back to top](#Table-of-contents)
-
-  ---
-
   ### Database schema
 
     The website uses seven models as Follws:
@@ -118,18 +82,7 @@
   - Newsletter subscriptions
   - Contact
 
-
-  [Back to top](#Table-of-contents)
-
-  ---
-
-  ### Style and colours
-
-
-[Back to top](#Table-of-contents)
-
----
-
+ 
 ## Features
 
 
@@ -187,11 +140,6 @@
   This page displays messages sent by users through the contact form. Admins can review and respond to these messages, providing assistance or addressing inquiries submitted by users.
 
 
-
-  [Back to top](#Table-of-contents)
-
-  ---
-
   ### Future Implementations
 
 - **Introduce Wishlist Feature**: Enable users to save their preferred prints for convenient access during subsequent visits to the website.
@@ -199,9 +147,7 @@
 - **Distribute Newsletters to Users**: Offer all users the opportunity to subscribe to newsletters, ensuring they stay informed about the newest promotions and updates.
 - **Integrate Webhooks**: Implement webhooks to enable real-time communication between your website and external services or applications.
 
-[Back to top](#Table-of-contents)
 
----
 
 ## Technologies Used
 
@@ -229,8 +175,6 @@
    - [django-storages](https://pypi.org/project/django-storages/) - a storage backend library
   - [psycopg2](https://pypi.org/project/psycopg2/) - a postgres database adapter which allow us to connect with a postgres database
   - [boto3](https://pypi.org/project/boto3/) - Allows connection to AWS S3 bucket
- 
-
 - Programs Used
   - [Git](https://git-scm.com/) - used for version control.
   - [GitHub](https://github.com/) - used o save and store the files for this project.
@@ -238,10 +182,6 @@
   - [Lucidchart](https://lucid.app/) - used to create the database schema
   - [Google Dev Tools](https://developer.chrome.com/docs/devtools/) - used to troubleshoot, test features and solve issues with responsiveness and styling.
 
-
-[Back to top](#Table-of-contents)
-
----
 
 ## Testing
 
@@ -305,7 +245,7 @@
 | Products    | 100                  | [Link](./static/images/accessibility_test/products-desktop.png) | [Link](./static/images/accessibility_test/products-mobile.png) |
 | About       | 100                  | [Link](./static/images/accessibility_test/about-desktop.png) | [Link](./static/images/accessibility_test/about-mobile.png) |
 | Contact     | 100                  | [Link](./static/images/accessibility_test/contact-desktop.png) | [Link](./static/images/accessibility_test/cart-mobile.png) |
-| Messages    | 100                  | [Link](./static/images/accessibility_test/messages-desktop.png) | [Link](./static/images/accessibility_test/iphone-se-messages.png) |
+| Messages    | 100                  | [Link](./static/images/accessibility_test/messages-desktop.png) | [Link](./static/images/accessibility_test/messages-mobile.png) |
 | My Profile  | 100                  | [Link](./static/images/accessibility_test/desktop-my-profile.png) | [Link](./static/images/accessibility_test/messages-mobile.png) |
 | Cart        | 100                  | [Link](./static/images/accessibility_test/cart-desktop.png) | [Link](./static/images/accessibility_test/cart-mobile.png) |
 | Newsletters | 100                  | [Link](./static/images/accessibility_test/newsletter-desktop.png) | [Link](./static/images/accessibility_test/newsletter-mobile.png) |
@@ -330,15 +270,26 @@ To make the Pet Market project look good on different devices, I used Bootstrap 
 
 By combining Bootstrap, media queries, and the viewport meta tag, I made sure that the Pet Market website is user-friendly and looks great no matter what device people are using to access it.
 
+<div style="text-align: center;">
+    <h2>Desktop View</h2>
+    <p>This content is centered on the page for desktop view.</p>
+</div>
 
 ![Desktop View](./static/images/responsivenes_test/desktop-view.png)
-![Desktop View](./static/images/accessibility_test)
+
+<div style="text-align: center;">
+    <h2>Tablet View</h2>
+    <p>This content is centered on the page for desktop view.</p>
+</div>
 
 ![Tablet View](./static/images/responsivenes_test/tablet-view.png)
 
+<div style="text-align: center;">
+    <h2>Mobile View</h2>
+    <p>This content is centered on the page for desktop view.</p>
+</div>
 
 ![Mobile View](./static/images/responsivenes_test/mobile-view.png)
----
 
 ### Validation of codes
 
@@ -613,7 +564,8 @@ STRIPE_WH_SECRET = os.getenv('STRIPE_WH_SECRET', '')
 ### Content
 
   - [Sample dataset](https://www.chewy.com/)
-
+  - [Background Image](https://www.freepik.com/)
+ 
 
 ### Media
 
@@ -632,3 +584,16 @@ STRIPE_WH_SECRET = os.getenv('STRIPE_WH_SECRET', '')
 ## Disclaimer
 
 This project was developed for educational purposes as part of the Code Institute's Full Stack Frameworks with Django module.
+
+
+### For Information
+
+I encountered difficulties with GitHub during the course of this project. My original GitHub account was hijacked, likely due to a virus on my laptop. Initially, I believed I would regain access within two weeks, so I took a temporary leave from the project. However, I did not hear back from the GitHub team within the expected timeframe. Consequently, I decided to start the project again using a new GitHub account, after informing my mentor and the student care team about my decision.
+
+Unfortunately, just three days before the project submission deadline, my new account was flagged. Fortunately, with the help of my mentor, I was able to regain access to my old account. I promptly transferred the project files to my old account and continued working on the project.
+
+If you have any doubts regarding commits or users associated with this project, please feel free to contact me. I am more than happy to provide any necessary proof regarding the issues I faced with my GitHub accounts.
+
+old account-hpatnadeeshan(hpatnadeeshan@gmail.com)-finally submitted from this account
+new account-tnadeeshan(hpatnadeeshan12@gmail.com)
+I used VS code as IDE since these issues.
