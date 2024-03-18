@@ -6,7 +6,7 @@ from django.shortcuts import (
 )
 from django.contrib import messages
 from django.conf import settings
-
+from django.contrib.auth.decorators import login_required
 from .forms import OrderForm
 from .models import Order, OrderLineItem
 from products.models import Product
@@ -22,12 +22,8 @@ import stripe
 def checkout(request):
     stripe_public_key = settings.STRIPE_PUBLIC_KEY
     stripe_secret_key = settings.STRIPE_SECRET_KEY
-    print("ggggggggggggggg")
     if request.method == "POST":
         cart = request.session.get("cart", {})
-        print(cart.items())
-        print("hhhhhhhhhhhhhhh")
-
         form_data = {
             "full_name": request.POST["full_name"],
             "email": request.POST["email"],
@@ -135,7 +131,7 @@ def checkout(request):
 
     return render(request, template, context)
 
-
+@login_required
 def checkout_success(request, order_number):
     """
     Handle successful checkouts
