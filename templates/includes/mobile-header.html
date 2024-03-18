@@ -22,13 +22,15 @@
                 </div>
             </li>
             <li class="list-inline-item dropdown">
-                <a class="nav-link dropdown-toggle  paddingx-8" href="#" id="user-options" role="button"
+                <a class="nav-link dropdown-toggle  paddingx-8" id="user-options" role="button"
                     data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">My Account<i
                         class="fas fa-user mx-1"></i></a>
                 <div class="dropdown-menu border-0" aria-labelledby="user-options">
                     {% if request.user.is_authenticated %}
                     {% if request.user.is_superuser %}
                     <a href="{% url 'add_product' %}" class="dropdown-item">Product Management</a>
+                    <a href="{% url 'contact_messages_view' %}" class="dropdown-item">Messages</a>
+                    <a href="{% url 'subscriber_list' %}" class="dropdown-item">Subscribers</a>
                     {% endif %}
                     <a href="{% url 'profile' %}" class="dropdown-item">My Profile</a>
                     <a href="{% url 'account_logout' %}" class="dropdown-item">Logout</a>
@@ -39,7 +41,7 @@
                 </div>
             </li>
             <li class="list-inline-item">
-                <a class="nav-link  paddingx-8" href="#">
+                <a class="nav-link  paddingx-8" href="{% url 'view_cart' %}">
                     <span class="cart-text d-none d-sm-inline-block">Cart</span>
                     <span><i class="fas fa-shopping-cart"></i></span>
                 </a>
