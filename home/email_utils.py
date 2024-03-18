@@ -7,7 +7,7 @@ def send_confirmation_email(email):
     """Send a confirmation email to the user"""
     cust_email = email
     subject = render_to_string(
-        "home/confirmation_emails/confirmation_email_subject.txt",{},)
+        "home/confirmation_emails/confirmation_email_subject.txt", {},)
     body = render_to_string(
         "home/confirmation_emails/confirmation_email_body.txt",
         {
@@ -17,4 +17,3 @@ def send_confirmation_email(email):
     )
 
     send_mail(subject, body, settings.DEFAULT_FROM_EMAIL, [cust_email])
-

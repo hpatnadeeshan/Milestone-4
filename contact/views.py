@@ -4,6 +4,7 @@ from django.contrib import messages
 from .models import ContactMessage
 from django.contrib.auth.decorators import login_required
 
+
 def contact(request):
     """A view to show contact form page"""
     if request.method == 'POST':
@@ -12,7 +13,8 @@ def contact(request):
             name = form.cleaned_data['name']
             email = form.cleaned_data['email']
             message = form.cleaned_data['message']
-            ContactMessage.objects.create(name=name, email=email, message=message)
+            ContactMessage.objects.create(
+                name=name, email=email, message=message)
             messages.success(request, "Contact form submitted successfully")
             return redirect('home')
         else:
@@ -24,6 +26,7 @@ def contact(request):
         form = ContactForm()
 
     return render(request, 'contact/contact_us.html', {'form': form})
+
 
 @login_required
 def contact_messages_view(request):

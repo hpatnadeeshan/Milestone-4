@@ -36,13 +36,11 @@ class Product(models.Model):
     category = models.ForeignKey(
         "Category", null=True, blank=True, on_delete=models.SET_NULL
     )
-    # readonly_fields = ('image_url',)
+    readonly_fields = ('image_url',)
 
     def save(self, *args, **kwargs):
-        # If image_url_first is not set and image_url is provided,
-        # extract the first URL
+
         if not self.image_url_first and self.image_url:
-            # Assuming image_url is a comma-separated list of URLs
             image_urls = (
                 self.image_url.strip("[]").replace("'", "").split(", ")
             )

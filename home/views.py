@@ -25,4 +25,3 @@ def subscribe_newsletter(request):
 def subscriber_list(request):
     subscribers = NewsletterSubscriber.objects.all()
     return render(request, 'home/subscriber_list.html', {'subscribers': subscribers})
-

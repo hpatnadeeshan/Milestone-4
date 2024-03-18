@@ -6,10 +6,7 @@ from django.shortcuts import (
     get_object_or_404,
 )
 from django.contrib import messages
-
 from products.models import Product
-
-# Create your views here.
 
 
 def view_cart(request):

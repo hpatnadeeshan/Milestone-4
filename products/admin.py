@@ -1,9 +1,6 @@
-# Import necessary libraries
 from django.contrib import admin
 from django.utils.safestring import mark_safe
 from .models import Product, Category
-
-# Define ProductAdmin class
 
 
 class ProductAdmin(admin.ModelAdmin):
@@ -41,6 +38,5 @@ class ProductAdmin(admin.ModelAdmin):
     display_image_urls.short_description = "Image URLs"
 
 
-# Register ProductAdmin and Category with the admin site
 admin.site.register(Product, ProductAdmin)
 admin.site.register(Category)
