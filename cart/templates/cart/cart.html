@@ -58,13 +58,13 @@
                                     {% csrf_token %}
                                     <div class="input-group">
                                         <div class="input-group-prepend">
-                                            <button class="btn btn-sm btn-outline-secondary btn-minus" type="button" data-item_id="{{ item.item_id }}">
+                                            <button class="btn btn-sm btn-outline-secondary btn-minus minus-plus-buttons" type="button" data-item_id="{{ item.item_id }}">
                                                 <i class="fas fa-minus fa-sm text-white"></i>
                                             </button>
                                         </div>
                                         <input class="form-control text-center quantity-input" type="number" name="quantity" value="{{ item.quantity }}" min="1" max="99"  onchange="validateQuantity(this)" >
                                         <div class="input-group-append">
-                                            <button class="btn btn-sm btn-outline-secondary btn-plus" type="button" data-item_id="{{ item.item_id }}">
+                                            <button class="btn btn-sm btn-outline-secondary btn-plus minus-plus-buttons" type="button" data-item_id="{{ item.item_id }}">
                                                 <i class="fas fa-plus fa-sm text-white"></i>
                                             </button>
                                             <button class="btn btn-sm btn-outline-secondary btn-update" type="submit">

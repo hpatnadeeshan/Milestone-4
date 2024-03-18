@@ -397,3 +397,11 @@ body {
     text-decoration: none;
     cursor: pointer;
 }
+
+
+/* CSS for hiding +/- buttons on devices smaller than tablets */
+@media (max-width: 768px) {
+    .minus-plus-buttons {
+        display: none;
+    }
+}
