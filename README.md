@@ -246,7 +246,7 @@
 | About       | 100                  | [Link](./static/images/accessibility_test/about-desktop.png) | [Link](./static/images/accessibility_test/about-mobile.png) |
 | Contact     | 100                  | [Link](./static/images/accessibility_test/contact-desktop.png) | [Link](./static/images/accessibility_test/cart-mobile.png) |
 | Messages    | 100                  | [Link](./static/images/accessibility_test/messages-desktop.png) | [Link](./static/images/accessibility_test/messages-mobile.png) |
-| My Profile  | 100                  | [Link](./static/images/accessibility_test/desktop-my-profile.png) | [Link](./static/images/accessibility_test/messages-mobile.png) |
+| My Profile  | 100                  | [Link](./static/images/accessibility_test/my-profile-desktop.png) | [Link](./static/images/accessibility_test/messages-mobile.png) |
 | Cart        | 100                  | [Link](./static/images/accessibility_test/cart-desktop.png) | [Link](./static/images/accessibility_test/cart-mobile.png) |
 | Newsletters | 100                  | [Link](./static/images/accessibility_test/newsletter-desktop.png) | [Link](./static/images/accessibility_test/newsletter-mobile.png) |
 
