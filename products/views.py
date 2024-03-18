@@ -54,14 +54,10 @@ def all_products(request):
     if request.GET:
         if "category" in request.GET:
             categories = request.GET["category"]
-            # print(categories)
-            # Decode the category parameter
             categories = unquote(categories).split("/")
-            # print(categories)
             products = products.filter(category__name__in=categories)
-            # print(products.query)
             categories = Category.objects.filter(name__in=categories)
-            # print(categories.query)
+
         if "q" in request.GET:
             query = request.GET["q"]
             if not query:
@@ -76,7 +72,6 @@ def all_products(request):
             products = products.filter(queries)
 
     current_sorting = f"{sort}_{direction}"
-    # print(current_sorting)
     context = {
         "products": products,
         "search_term": query,
