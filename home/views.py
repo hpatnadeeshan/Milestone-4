@@ -13,7 +13,7 @@ def subscribe_newsletter(request):
     if request.method == 'POST':
         email = request.POST.get('email')
         try:
-            subscriber = NewsletterSubscriber.objects.get(email=email)
+            NewsletterSubscriber.objects.get(email=email)
             messages.info(request, 'You are already subscribed.')
         except NewsletterSubscriber.DoesNotExist:
             NewsletterSubscriber.objects.create(email=email)
@@ -24,4 +24,5 @@ def subscribe_newsletter(request):
 
 def subscriber_list(request):
     subscribers = NewsletterSubscriber.objects.all()
-    return render(request, 'home/subscriber_list.html', {'subscribers': subscribers})
+    return render(request, 'home/subscriber_list.html',
+                  {'subscribers': subscribers})

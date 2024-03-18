@@ -1,4 +1,4 @@
-from django.shortcuts import render, redirect, get_object_or_404
+from django.shortcuts import render, redirect
 from .forms import ContactForm
 from django.contrib import messages
 from .models import ContactMessage
@@ -32,4 +32,5 @@ def contact(request):
 def contact_messages_view(request):
     """A view to show contact messages page"""
     contact_messages = ContactMessage.objects.all()
-    return render(request, 'contact/contact_messages.html', {'contact_messages': contact_messages})
+    return render(request, 'contact/contact_messages.html',
+                  {'contact_messages': contact_messages})
