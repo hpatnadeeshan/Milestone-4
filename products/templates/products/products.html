@@ -157,13 +157,13 @@
                     var parts = selectedValue.split('_');
                     sortParam = parts[0];
                     directionParam = parts[parts.length - 1] === 'desc' ? 'desc' : 'asc';
-                }
+                };
 
                 // Adjust sort parameter if necessary
                 if (sortParam === 'average') {
                     sortParam = 'average_rating';
-                }
-            }
+                };
+            };
 
             // Redirect to the current URL with sorting parameters
             var url = window.location.href.split('?')[0];
