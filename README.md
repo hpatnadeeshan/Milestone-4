@@ -272,24 +272,24 @@ By combining Bootstrap, media queries, and the viewport meta tag, I made sure th
 
 <div style="text-align: center;">
     <h2>Desktop View</h2>
-    <p>This content is centered on the page for desktop view.</p>
+    <p>![Desktop View](./static/images/responsivenes_test/desktop-view.png)</p>
 </div>
 
-![Desktop View](./static/images/responsivenes_test/desktop-view.png)
+
 
 <div style="text-align: center;">
     <h2>Tablet View</h2>
-    <p>This content is centered on the page for desktop view.</p>
+    <p>![Tablet View](./static/images/responsivenes_test/tablet-view.png)</p>
 </div>
 
-![Tablet View](./static/images/responsivenes_test/tablet-view.png)
+
 
 <div style="text-align: center;">
     <h2>Mobile View</h2>
-    <p>This content is centered on the page for desktop view.</p>
+    <p>![Mobile View](./static/images/responsivenes_test/mobile-view.png)</p>
 </div>
 
-![Mobile View](./static/images/responsivenes_test/mobile-view.png)
+
 
 ### Validation of codes
 
