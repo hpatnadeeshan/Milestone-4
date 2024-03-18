@@ -132,41 +132,44 @@
 
 ## Features
 
+
+![Web page](./static/images/my-website.png)
+
 -  **Navigation Bar**
     The navigation bar changes based on the size of the screen used.
 - **Footer**
-  ![Footer](documentation/footer.png)    
+     
 
 - **Messages - Toasts**  
   This website utilizes Django's messages framework to deliver helpful feedback to users at various points during their interaction through the use of toasts.
-  ![Success](documentation/success.png)
+
 
 - **Home Page**
   Upon arriving at the home page, users are greeted with a welcoming message. Below the welcome message, they can discover the current offers and conveniently access all products with the "Shop" button.
-  ![Home Page](documentation/home.png)   
+   
 
 - **Products Page**
   The product page showcases individual cards for each product. Users can easily identify the product's name, category, and price. Additionally, superusers have access to delete and edit buttons on the cards.
-  ![Products Page](documentation/p-page.png)
+
 
 - **Product Detail Page**
   Clicking on a product card from the products page leads users to the product detail page. Here, users can explore comprehensive details about the product, including reviews from other users. Users also have the option to add the product to their basket and submit a product review.
-  ![Product Detail Page](documentation/product-detail.png)
+
 
 - **Profile Page**
   Within the profile page, users can save their delivery information for quicker checkout experiences in the future. Additionally, users can view a list of all their previous orders.
-  ![Profile Page](documentation/profile.png)
+
 
 - **Cart Page**
   The bag page displays a comprehensive list of all items added to the user's bag. Each product entry includes details such as the product name, price, SKU, quantity, and subtotal. Users can update quantities, remove items, and view the bag's total, including delivery costs if applicable. A "Secure Checkout" button is provided for users to proceed with their order, along with a "Keep Shopping" option.
-  ![Bag Page](documentation/shopping-bag.png)
+
 
 - **Checkout**
   During the checkout process, users are required to provide their full name, email, delivery information, and payment details to complete their order. An order summary is displayed, showcasing the total cost, delivery fee (if applicable), and grand total.
 
 - **Contact Page**
   Users can access the contact form by clicking the "Contact Us" link located in the footer, accessible from any page. The form allows users to submit queries or questions to the admin team.
-  ![Contact Page](documentation/contact_us-form.png)
+
 
 - **Product Management for Admin**
   Superusers have access to product management functionalities through the account dropdown menu. This directs them to the "Add Product" page, where they can input details and add new products to the website.
