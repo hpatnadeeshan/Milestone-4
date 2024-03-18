@@ -405,3 +405,7 @@ body {
         display: none;
     }
 }
+
+.nav-link {
+    color: #000;
+}
