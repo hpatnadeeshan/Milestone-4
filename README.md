@@ -542,11 +542,6 @@ STRIPE_WH_SECRET = os.getenv('STRIPE_WH_SECRET', '')
 ```
 
 
-
-[Back to top](#Table-of-contents)
-
----
-
 ## Superuser credentials/ Superuser credentials
 
 + username- nadeeshan
