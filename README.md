@@ -272,22 +272,19 @@ By combining Bootstrap, media queries, and the viewport meta tag, I made sure th
 
 <div style="text-align: center;">
     <h2>Desktop View</h2>
-    <p>![Desktop View](./static/images/responsivenes_test/desktop-view.png)</p>
+    <img src="./static/images/responsivenes_test/desktop-view.png" alt="Desktop View">
 </div>
-
-
 
 <div style="text-align: center;">
     <h2>Tablet View</h2>
-    <p>![Tablet View](./static/images/responsivenes_test/tablet-view.png)</p>
+    <img src="./static/images/responsivenes_test/tablet-view.png" alt="Tablet View">
 </div>
-
-
 
 <div style="text-align: center;">
     <h2>Mobile View</h2>
-    <p>![Mobile View](./static/images/responsivenes_test/mobile-view.png)</p>
+    <img src="./static/images/responsivenes_test/mobile-view.png" alt="Mobile View">
 </div>
+
 
 
 
